@@ -4,16 +4,14 @@
 ### from GovTrack.us
 ### https://www.govtrack.us/data/
 
-####################################
-# LOAD PACKAGES AND INIT VARIALBES #
-####################################
+#################
+# LOAD PACKAGES #
+#################
 
 import requests
 import numpy as np
 import pandas as pd
 from datetime import datetime
-
-loud = True
 
 ###########################
 # DEFINE HELPER FUNCTIONS #
@@ -35,7 +33,7 @@ def parse_general_bill_data(bill_json):
         '_short_title': bill_json['short_title'],
         '_official_title': bill_json['official_title'],
         '_enacted': 'enacted_as' in bill_json.keys(),
-        '_introduced': bill_json['introduced_at'],
+        '_introduced': datetime.strptime(bill_json['introduced_at'], '%Y-%M-%d'),
         '_top_subject': bill_json['subjects_top_term']
     }
     
@@ -74,6 +72,7 @@ def parse_sponsor_bill_data(bill_json):
     # add sponsor
     sponsors.append({
         '_type': 'sponsor',
+        '_bill': bill_json['bill_type'] + bill_json['number'],
         '_name': bill_json['sponsor']['name'],
         '_title': bill_json['sponsor']['title'],
         '_state': bill_json['sponsor']['state'],
@@ -86,6 +85,7 @@ def parse_sponsor_bill_data(bill_json):
     for cosponsor in bill_json['cosponsors']:
         sponsors.append({
             '_type': 'original cosponsor' if cosponsor['original_cosponsor'] == True else 'cosponsor',
+            '_bill': bill_json['bill_type'] + bill_json['number'],
             '_name': cosponsor['name'],
             '_title': cosponsor['title'],
             '_state': cosponsor['state'],
@@ -100,14 +100,20 @@ def parse_sponsor_bill_data(bill_json):
 # LOOP THROUGH ALL BILLS AND PARSE #
 ####################################
 
+loud = True
+loud_count = 25
+
 session_id = 114
 
 general_data = [ ]
 actions_data = [ ]
 sponsor_data = [ ]
 
-for bill_id in range(1,10):
+for bill_id in range(1,100):
 
+    if loud and bill_id % loud_count == 0:
+        print("--> parsing bill #%d" % bill_id)
+    
     bill_url = 'https://www.govtrack.us/data/congress/%s/bills/hr/hr%d/data.json' % (session_id, bill_id)
 
     response = requests.get(bill_url)
@@ -121,13 +127,11 @@ for bill_id in range(1,10):
     actions_data += parse_actions_bill_data(bill_json)
     sponsor_data += parse_sponsor_bill_data(bill_json)
 
-t = parse_actions_bill_data(bill_json)
-
 ###########################################################
 # BUILD DATASET OF CONGRESS MEMBERS FROM SPONSORSHIP DATA #
 ###########################################################
 
-reps_data    = [ ]
+reps_data = [ ]
 
 # get unique reps from sponsor_data
 
@@ -136,6 +140,10 @@ reps_data    = [ ]
 #######################################
 # CONVERT DATA ARRAYS INTO PANDAS DFS #
 #######################################
+
+general_df = pd.DataFrame(general_data)
+actions_df = pd.DataFrame(actions_data)
+sponsor_df = pd.DataFrame(sponsor_data)
 
 
 
