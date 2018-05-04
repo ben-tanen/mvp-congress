@@ -18,6 +18,10 @@ from bs4 import BeautifulSoup
 # DEFINE HELPER FUNCTIONS #
 ###########################
 
+def status_message(message, loud):
+    if loud:
+        print(message)
+
 def valid_key(key, obj):
     return key in obj.keys()
 
@@ -108,15 +112,18 @@ def parse_sponsor_bill_data(bill_json):
     
     return sponsors
 
-####################################
-# LOOP THROUGH ALL BILLS AND PARSE #
-####################################
+##################
+# INIT VARIABLES #
+##################
 
 loud = True
-loud_count = 1
 
 bill_type = "hr"
 session_id = 114
+
+####################################
+# LOOP THROUGH ALL BILLS AND PARSE #
+####################################
 
 general_info = [ ]
 actions  = [ ]
@@ -129,11 +136,12 @@ all_bills = [a.decode_contents()[:-1] for a in all_bills_soup.find_all('a')]
 all_bill_ids = [int(bill[len(bill_type):]) for bill in all_bills if bill != ".."]
 all_bill_ids.sort()
 
-# iterate over all bills
-for bill_id in all_bill_ids[:100]:
+status_message("%d total bills; last bill is %s%d" % (len(all_bill_ids), bill_type, all_bill_ids[-1]), loud)
 
-    if loud and bill_id % loud_count == 0:
-        print("--> parsing %s%d" % (bill_type, bill_id))
+# iterate over all bills
+for bill_id in all_bill_ids:
+
+    status_message("--> parsing %s%d" % (bill_type, bill_id), loud)
     
     bill_json = get_bill_json(bill_type, session_id, bill_id)
     
@@ -147,6 +155,8 @@ for bill_id in all_bill_ids[:100]:
 #######################################
 # CONVERT DATA ARRAYS INTO PANDAS DFS #
 #######################################
+
+status_message("--> converting to pandas dfs")
 
 general_df = pd.DataFrame(general_info)
 actions_df = pd.DataFrame(actions)
@@ -193,6 +203,8 @@ ep_senate_session = [lp for lp in ep_senate.legislative_periods() if lp.id == "t
 # pull party affiliation, facebook name, and twitter handle from ep
 members_data = [ ]
 
+status_message("--> pulling member data from EveryPolitician", loud)
+
 for member in ep_house_session.csv():
     members_data.append({
         '_name': member['name'],
@@ -231,11 +243,15 @@ def get_twitter_follower_count(handle):
     else:
         return -1
 
+status_message("--> pulling twitter follower counts for members", loud)
+
 members_df['_twitter_followers'] = np.vectorize(get_twitter_follower_count)(members_df['_twitter'])
 
 ############
 # SAVE DFS #
 ############
+
+status_message("--> saving datasets", loud)
 
 general_df.to_csv('../data/general-%s%d.csv' % (bill_type, session_id), index = False)
 actions_df.to_csv('../data/actions-%s%d.csv' % (bill_type, session_id), index = False)

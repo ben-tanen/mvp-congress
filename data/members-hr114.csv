@@ -1,24 +1,24 @@
 _id,_name_x,_state,_district,_title,_clean_name,_facebook,_name_y,_party,_sort_name,_twitter,_twitter_followers
 B001248,"Burgess, Michael C.",TX,26,Rep,"Burgess, Michael",michaelcburgess,Michael C. Burgess,Republican,"Burgess, Michael",MichaelCBurgess,26903
 B001255,"Boustany, Charles W., Jr.",LA,3,Rep,"Boustany, Charles",RepBoustany,Charles W. Boustany Jr.,Republican,"Boustany, Charles",RepBoustany,-1
-B000755,"Brady, Kevin",TX,8,Rep,"Brady, Kevin",kevinbrady,Kevin Brady,Republican,"Brady, Kevin",RepKevinBrady,36456
+B000755,"Brady, Kevin",TX,8,Rep,"Brady, Kevin",kevinbrady,Kevin Brady,Republican,"Brady, Kevin",RepKevinBrady,36457
 C001069,"Courtney, Joe",CT,2,Rep,"Courtney, Joe",joecourtney,Joe Courtney,Democrat,"Courtney, Joe",RepJoeCourtney,22238
 G000410,"Green, Gene",TX,29,Rep,"Green, Gene",RepGeneGreen,Gene Green,Democrat,"Green, Gene",RepGeneGreen,17743
 H001055,"Heck, Joseph J.",NV,3,Rep,"Heck, Joseph",RepJoeHeck,Joseph J. Heck,Republican,"Heck, Joseph",RepJoeHeck,-1
 L000263,"Levin, Sander M.",MI,9,Rep,"Levin, Sander",RepSandyLevin,Sander M. Levin,Democrat,"Levin, Sander",RepSandyLevin,26727
 M000404,"McDermott, Jim",WA,7,Rep,"McDermott, Jim",CongressmanJimMcDermott,Jim McDermott,Democrat,"McDermott, Jim",RepJimMcDermott,15637
-P000034,"Pallone, Frank, Jr.",NJ,6,Rep,"Pallone, Frank",repfrankpallone,"Frank Pallone, Jr.",Democrat,"Pallone, Frank",FrankPallone,28038
+P000034,"Pallone, Frank, Jr.",NJ,6,Rep,"Pallone, Frank",repfrankpallone,"Frank Pallone, Jr.",Democrat,"Pallone, Frank",FrankPallone,28039
 P000593,"Perlmutter, Ed",CO,7,Rep,"Perlmutter, Ed",RepPerlmutter,Ed Perlmutter,Democrat,"Perlmutter, Ed",RepPerlmutter,28854
 P000373,"Pitts, Joseph R.",PA,16,Rep,"Pitts, Joseph",94156528752,Joseph R. Pitts,Republican,"Pitts, Joseph",RepJoePitts,-1
-R000570,"Ryan, Paul",WI,1,Rep,"Ryan, Paul",speakerryan,Paul D. Ryan,Republican,"Ryan, Paul",SpeakerRyan,3689545
+R000570,"Ryan, Paul",WI,1,Rep,"Ryan, Paul",speakerryan,Paul D. Ryan,Republican,"Ryan, Paul",SpeakerRyan,3689371
 S000250,"Sessions, Pete",TX,32,Rep,"Sessions, Pete",petesessions,Pete Sessions,Republican,"Sessions, Pete",PeteSessions,31057
-U000031,"Upton, Fred",MI,6,Rep,"Upton, Fred",RepFredUpton,Fred Upton,Republican,"Upton, Fred",RepFredUpton,22672
+U000031,"Upton, Fred",MI,6,Rep,"Upton, Fred",RepFredUpton,Fred Upton,Republican,"Upton, Fred",RepFredUpton,22670
 C001096,"Cramer, Kevin",ND,0,Rep,"Cramer, Kevin",CongressmanKevinCramer,Kevin Cramer,Republican,"Cramer, Kevin",RepKevinCramer,12089
-B001291,"Babin, Brian",TX,36,Rep,"Babin, Brian",RepBrianBabin,Brian Babin,Republican,"Babin, Brian",RepBrianBabin,12747
-B001269,"Barletta, Lou",PA,11,Rep,"Barletta, Lou",CongressmanLouBarletta,Lou Barletta,Republican,"Barletta, Lou",RepLouBarletta,22686
+B001291,"Babin, Brian",TX,36,Rep,"Babin, Brian",RepBrianBabin,Brian Babin,Republican,"Babin, Brian",RepBrianBabin,12748
+B001269,"Barletta, Lou",PA,11,Rep,"Barletta, Lou",CongressmanLouBarletta,Lou Barletta,Republican,"Barletta, Lou",RepLouBarletta,22687
 B001250,"Bishop, Rob",UT,1,Rep,"Bishop, Rob",RepRobBishop,Rob Bishop,Republican,"Bishop, Rob",RepRobBishop,3018
 B001295,"Bost, Mike",IL,12,Rep,"Bost, Mike",RepBost,Mike Bost,Republican,"Bost, Mike",RepBost,7684
-B001297,"Buck, Ken",CO,4,Rep,"Buck, Ken",repkenbuck,Ken Buck,Republican,"Buck, Ken",RepKenBuck,15410
+B001297,"Buck, Ken",CO,4,Rep,"Buck, Ken",repkenbuck,Ken Buck,Republican,"Buck, Ken",RepKenBuck,15415
 C001062,"Conaway, K. Michael",TX,11,Rep,"Conaway, Michael",,,,,,-1
 C001094,"Cook, Paul",CA,8,Rep,"Cook, Paul",RepPaulCook,Paul Cook,Republican,"Cook, Paul",RepPaulCook,12485
 C001048,"Culberson, John Abney",TX,7,Rep,"Culberson, John Abney",,,,,,-1
@@ -27,47 +27,47 @@ D000612,"Denham, Jeff",CA,10,Rep,"Denham, Jeff",RepJeffDenham,Jeff Denham,Republ
 D000604,"Dent, Charles W.",PA,15,Rep,"Dent, Charles",CongressmanDent,Charles W. Dent,Republican,"Dent, Charles",RepCharlieDent,16044
 E000291,"Ellmers, Renee L.",NC,2,Rep,"Ellmers, Renee",reneeellmers,Renee L. Ellmers,Republican,"Ellmers, Renee",RepReneeEllmers,17629
 F000451,"Fitzpatrick, Michael G.",PA,8,Rep,"Fitzpatrick, Michael",RepFitzpatrick,Michael G. Fitzpatrick,Republican,"Fitzpatrick, Michael",RepFitzpatrick,12696
-G000565,"Gosar, Paul A.",AZ,4,Rep,"Gosar, Paul",repgosar,Paul A. Gosar,Republican,"Gosar, Paul",RepGosar,37540
-H001072,"Hill, J. French",AR,2,Rep,"Hill, French",RepFrenchHill,J. French Hill,Republican,"Hill, French",RepFrenchHill,12213
+G000565,"Gosar, Paul A.",AZ,4,Rep,"Gosar, Paul",repgosar,Paul A. Gosar,Republican,"Gosar, Paul",RepGosar,37541
+H001072,"Hill, J. French",AR,2,Rep,"Hill, French",RepFrenchHill,J. French Hill,Republican,"Hill, French",RepFrenchHill,12220
 K000376,"Kelly, Mike",PA,3,Rep,"Kelly, Mike",191056827594903,Mike Kelly,Republican,"Kelly, Mike",MikeKellyPA,10997
 M001177,"McClintock, Tom",CA,4,Rep,"McClintock, Tom",81125319109,Tom McClintock,Republican,"McClintock, Tom",RepMcClintock,12760
 M001150,"Miller, Candice S.",MI,10,Rep,"Miller, Candice",CongresswomanCandiceMiller,Candice S. Miller,Republican,"Miller, Candice",CandiceMiller,11862
 M001144,"Miller, Jeff",FL,1,Rep,"Miller, Jeff",RepJeffMiller,Jeff Miller,Republican,"Miller, Jeff",,-1
 M001194,"Moolenaar, John R.",MI,4,Rep,"Moolenaar, John",RepMoolenaar,John R. Moolenaar,Republican,"Moolenaar, John",RepMoolenaar,8035
 M001195,"Mooney, Alexander X.",WV,2,Rep,"Mooney, Alexander",,,,,,-1
-M001190,"Mullin, Markwayne",OK,2,Rep,"Mullin, Markwayne",RepMullin,Markwayne Mullin,Republican,"Mullin, Markwayne",RepMullin,15239
-P000588,"Pearce, Stevan",NM,2,Rep,"Pearce, Stevan",RepStevePearce,Stevan Pearce,Republican,"Pearce, Stevan",RepStevePearce,12182
+M001190,"Mullin, Markwayne",OK,2,Rep,"Mullin, Markwayne",RepMullin,Markwayne Mullin,Republican,"Mullin, Markwayne",RepMullin,15240
+P000588,"Pearce, Stevan",NM,2,Rep,"Pearce, Stevan",RepStevePearce,Stevan Pearce,Republican,"Pearce, Stevan",RepStevePearce,12183
 R000601,"Ratcliffe, John",TX,4,Rep,"Ratcliffe, John",RepRatcliffe,John Ratcliffe,Republican,"Ratcliffe, John",RepRatcliffe,18637
 R000603,"Rouzer, David",NC,7,Rep,"Rouzer, David",RepRouzer,David Rouzer,Republican,"Rouzer, David",RepDavidRouzer,6317
-S001154,"Shuster, Bill",PA,9,Rep,"Shuster, Bill",Rep.Shuster,Bill Shuster,Republican,"Shuster, Bill",RepBillShuster,20507
+S001154,"Shuster, Bill",PA,9,Rep,"Shuster, Bill",Rep.Shuster,Bill Shuster,Republican,"Shuster, Bill",RepBillShuster,20505
 W000821,"Westerman, Bruce",AR,4,Rep,"Westerman, Bruce",RepWesterman,Bruce Westerman,Republican,"Westerman, Bruce",RepWesterman,8552
 Z000018,"Zinke, Ryan K.",MT,0,Rep,"Zinke, Ryan",CongressmanRyanZinke,Ryan K. Zinke,Republican,"Zinke, Ryan",RepRyanZinke,11415
-K000363,"Kline, John",MN,2,Rep,"Kline, John",repjohnkline,John Kline,Republican,"Kline, John",RepJohnKline,8696
+K000363,"Kline, John",MN,2,Rep,"Kline, John",repjohnkline,John Kline,Republican,"Kline, John",RepJohnKline,8697
 A000372,"Allen, Rick W.",GA,12,Rep,"Allen, Rick",CongressmanRickAllen,Rick W. Allen,Republican,"Allen, Rick",reprickallen,11831
 B001289,"Byrne, Bradley",AL,1,Rep,"Byrne, Bradley",RepByrne,Bradley Byrne,Republican,"Byrne, Bradley",RepByrne,17913
 C001107,"Curbelo, Carlos",FL,26,Rep,"Curbelo, Carlos",repcurbelo,Carlos Curbelo,Republican,"Curbelo, Carlos",RepCurbelo,16968
 F000450,"Foxx, Virginia",NC,5,Rep,"Foxx, Virginia",RepVirginiaFoxx,Virginia Foxx,Republican,"Foxx, Virginia",VirginiaFoxx,21625
-G000558,"Guthrie, Brett",KY,2,Rep,"Guthrie, Brett",CongressmanGuthrie,Brett Guthrie,Republican,"Guthrie, Brett",RepGuthrie,12567
+G000558,"Guthrie, Brett",KY,2,Rep,"Guthrie, Brett",CongressmanGuthrie,Brett Guthrie,Republican,"Guthrie, Brett",RepGuthrie,12568
 H001048,"Hunter, Duncan D.",CA,50,Rep,"Hunter, Duncan",DuncanHunter,Duncan Hunter,Republican,"Hunter, Duncan",Rep_Hunter,14697
-M001189,"Messer, Luke",IN,6,Rep,"Messer, Luke",RepLukeMesser,Luke Messer,Republican,"Messer, Luke",RepLukeMesser,14939
+M001189,"Messer, Luke",IN,6,Rep,"Messer, Luke",RepLukeMesser,Luke Messer,Republican,"Messer, Luke",RepLukeMesser,14941
 R000582,"Roe, David P.",TN,1,Rep,"Roe, David",DrPhilRoe,David P. Roe,Republican,"Roe, David",DrPhilRoe,15961
 R000592,"Rokita, Todd",IN,4,Rep,"Rokita, Todd",RepToddRokita,Todd Rokita,Republican,"Rokita, Todd",ToddRokita,22381
 A000373,"Ashford, Brad",NE,2,Rep,"Ashford, Brad",RepBradAshford,Brad Ashford,Democrat,"Ashford, Brad",RepBradAshford,5226
 B000213,"Barton, Joe",TX,6,Rep,"Barton, Joe",RepJoeBarton,Joe Barton,Republican,"Barton, Joe",RepJoeBarton,27804
 B001271,"Benishek, Dan",MI,1,Rep,"Benishek, Dan",CongressmanDan,Dan Benishek,Republican,"Benishek, Dan",CongressmanDan,9453
-B001287,"Bera, Ami",CA,7,Rep,"Bera, Ami",RepAmiBera,Ami Bera,Democrat,"Bera, Ami",RepBera,28014
+B001287,"Bera, Ami",CA,7,Rep,"Bera, Ami",RepAmiBera,Ami Bera,Democrat,"Bera, Ami",RepBera,28013
 B001257,"Bilirakis, Gus M.",FL,12,Rep,"Bilirakis, Gus",GusBilirakis,Gus M. Bilirakis,Republican,"Bilirakis, Gus",RepGusBilirakis,25998
 B001293,"Bishop, Mike",MI,8,Rep,"Bishop, Mike",RepMikeBishop,Mike Bishop,Republican,"Bishop, Mike",RepMikeBishop,11825
 B001243,"Blackburn, Marsha",TN,7,Rep,"Blackburn, Marsha",marshablackburn,Marsha Blackburn,Republican,"Blackburn, Marsha",MarshaBlackburn,56158
-B001278,"Bonamici, Suzanne",OR,1,Rep,"Bonamici, Suzanne",congresswomanbonamici,Suzanne Bonamici,Democrat,"Bonamici, Suzanne",RepBonamici,23806
+B001278,"Bonamici, Suzanne",OR,1,Rep,"Bonamici, Suzanne",congresswomanbonamici,Suzanne Bonamici,Democrat,"Bonamici, Suzanne",RepBonamici,23807
 B001245,"Bordallo, Madeleine Z.",GU,0,Rep,"Bordallo, Madeleine",madeleine.bordallo,Madeleine Z. Bordallo,Democrat,"Bordallo, Madeleine",,-1
 B001296,"Boyle, Brendan F.",PA,13,Rep,"Boyle, Brendan",CongressmanBoyle,Brendan F. Boyle,Democrat,"Boyle, Brendan",CongBoyle,7850
-B001227,"Brady, Robert A.",PA,1,Rep,"Brady, Robert",RepRobertBrady,Robert A. Brady,Democrat,"Brady, Robert",RepBrady,12541
+B001227,"Brady, Robert A.",PA,1,Rep,"Brady, Robert",RepRobertBrady,Robert A. Brady,Democrat,"Brady, Robert",RepBrady,12540
 B001284,"Brooks, Susan W.",IN,5,Rep,"Brooks, Susan",congresswomansusanwbrooks,Susan W. Brooks,Republican,"Brooks, Susan",SusanWBrooks,17884
 B000911,"Brown, Corrine",FL,5,Rep,"Brown, Corrine",congresswomanbrown,Corrine Brown,Democrat,"Brown, Corrine",RepCorrineBrown,-1
-B001285,"Brownley, Julia",CA,26,Rep,"Brownley, Julia",RepJuliaBrownley,Julia Brownley,Democrat,"Brownley, Julia",JuliaBrownley26,15040
-B001275,"Bucshon, Larry",IN,8,Rep,"Bucshon, Larry",RepLarryBucshon,Larry Bucshon,Republican,"Bucshon, Larry",RepLarryBucshon,18086
-B001286,"Bustos, Cheri",IL,17,Rep,"Bustos, Cheri",RepCheri,Cheri Bustos,Democrat,"Bustos, Cheri",RepCheri,28805
+B001285,"Brownley, Julia",CA,26,Rep,"Brownley, Julia",RepJuliaBrownley,Julia Brownley,Democrat,"Brownley, Julia",JuliaBrownley26,15042
+B001275,"Bucshon, Larry",IN,8,Rep,"Bucshon, Larry",RepLarryBucshon,Larry Bucshon,Republican,"Bucshon, Larry",RepLarryBucshon,18085
+B001286,"Bustos, Cheri",IL,17,Rep,"Bustos, Cheri",RepCheri,Cheri Bustos,Democrat,"Bustos, Cheri",RepCheri,28804
 B001251,"Butterfield, G. K.",NC,1,Rep,"Butterfield,",,,,,,-1
 C000059,"Calvert, Ken",CA,42,Rep,"Calvert, Ken",70063393423,Ken Calvert,Republican,"Calvert, Ken",KenCalvert,15270
 C001036,"Capps, Lois",CA,24,Rep,"Capps, Lois",loiscapps,Lois Capps,Democrat,"Capps, Lois",RepLoisCapps,12233
@@ -75,44 +75,44 @@ C001037,"Capuano, Michael E.",MA,7,Rep,"Capuano, Michael",RepMichaelCapuano,Mich
 C001097,"Cardenas, Tony",CA,29,Rep,"Cardenas, Tony",,,,,,-1
 C001090,"Cartwright, Matt",PA,17,Rep,"Cartwright, Matt",,,,,,-1
 C001066,"Castor, Kathy",FL,14,Rep,"Castor, Kathy",USRepKathyCastor,Kathy Castor,Democrat,"Castor, Kathy",USRepKCastor,13728
-C001091,"Castro, Joaquin",TX,20,Rep,"Castro, Joaquin",326420614138023,Joaquin Castro,Democrat,"Castro, Joaquin",JoaquinCastrotx,103426
+C001091,"Castro, Joaquin",TX,20,Rep,"Castro, Joaquin",326420614138023,Joaquin Castro,Democrat,"Castro, Joaquin",JoaquinCastrotx,103425
 C000266,"Chabot, Steve",OH,1,Rep,"Chabot, Steve",RepSteveChabot,Steve Chabot,Republican,"Chabot, Steve",RepSteveChabot,25219
-C001080,"Chu, Judy",CA,27,Rep,"Chu, Judy",RepJudyChu,Judy Chu,Democrat,"Chu, Judy",RepJudyChu,47228
+C001080,"Chu, Judy",CA,27,Rep,"Chu, Judy",RepJudyChu,Judy Chu,Democrat,"Chu, Judy",RepJudyChu,47229
 C001084,"Cicilline, David N.",RI,1,Rep,"Cicilline, David",CongressmanDavidCicilline,David N. Cicilline,Democrat,"Cicilline, David",RepCicilline,13972
-C001101,"Clark, Katherine M.",MA,5,Rep,"Clark, Katherine",CongresswomanClark,Katherine M. Clark,Democrat,"Clark, Katherine",RepKClark,57579
-C001067,"Clarke, Yvette D.",NY,9,Rep,"Clarke, Yvette",repyvettedclarke,Yvette D. Clarke,Democrat,"Clarke, Yvette",RepYvetteClarke,42161
-C001061,"Cleaver, Emanuel",MO,5,Rep,"Cleaver, Emanuel",emanuelcleaverii,Emanuel Cleaver,Democrat,"Cleaver, Emanuel",RepCleaver,34206
-C001077,"Coffman, Mike",CO,6,Rep,"Coffman, Mike",repmikecoffman,Mike Coffman,Republican,"Coffman, Mike",RepMikeCoffman,36926
-C001068,"Cohen, Steve",TN,9,Rep,"Cohen, Steve",CongressmanSteveCohen,Steve Cohen,Democrat,"Cohen, Steve",RepCohen,43806
+C001101,"Clark, Katherine M.",MA,5,Rep,"Clark, Katherine",CongresswomanClark,Katherine M. Clark,Democrat,"Clark, Katherine",RepKClark,57578
+C001067,"Clarke, Yvette D.",NY,9,Rep,"Clarke, Yvette",repyvettedclarke,Yvette D. Clarke,Democrat,"Clarke, Yvette",RepYvetteClarke,42160
+C001061,"Cleaver, Emanuel",MO,5,Rep,"Cleaver, Emanuel",emanuelcleaverii,Emanuel Cleaver,Democrat,"Cleaver, Emanuel",RepCleaver,34207
+C001077,"Coffman, Mike",CO,6,Rep,"Coffman, Mike",repmikecoffman,Mike Coffman,Republican,"Coffman, Mike",RepMikeCoffman,36928
+C001068,"Cohen, Steve",TN,9,Rep,"Cohen, Steve",CongressmanSteveCohen,Steve Cohen,Democrat,"Cohen, Steve",RepCohen,43803
 C001092,"Collins, Chris",NY,27,Rep,"Collins, Chris",RepChrisCollins,Chris Collins,Republican,"Collins, Chris",RepChrisCollins,19762
 C001093,"Collins, Doug",GA,9,Rep,"Collins, Doug",RepresentativeDougCollins,Doug Collins,Republican,"Collins, Doug",RepDougCollins,15820
 C001105,"Comstock, Barbara",VA,10,Rep,"Comstock, Barbara",RepBarbaraComstock,Barbara Comstock,Republican,"Comstock, Barbara",RepComstock,15938
 C001059,"Costa, Jim",CA,16,Rep,"Costa, Jim",RepJimCosta,Jim Costa,Democrat,"Costa, Jim",RepJimCosta,15601
 C001106,"Costello, Ryan A.",PA,6,Rep,"Costello, Ryan",CongressmanRyanCostello,Ryan A. Costello,Republican,"Costello, Ryan",RepRyanCostello,12391
 C001045,"Crenshaw, Ander",FL,4,Rep,"Crenshaw, Ander",200388204657,Ander Crenshaw,Republican,"Crenshaw, Ander",AnderCrenshaw,10597
-D000598,"Davis, Susan A.",CA,53,Rep,"Davis, Susan",RepSusanDavis,Susan A. Davis,Democrat,"Davis, Susan",RepSusanDavis,17428
-D000197,"DeGette, Diana",CO,1,Rep,"DeGette, Diana",DianaDeGette,Diana DeGette,Democrat,"DeGette, Diana",RepDianaDeGette,40606
+D000598,"Davis, Susan A.",CA,53,Rep,"Davis, Susan",RepSusanDavis,Susan A. Davis,Democrat,"Davis, Susan",RepSusanDavis,17427
+D000197,"DeGette, Diana",CO,1,Rep,"DeGette, Diana",DianaDeGette,Diana DeGette,Democrat,"DeGette, Diana",RepDianaDeGette,40607
 D000620,"Delaney, John K.",MD,6,Rep,"Delaney, John",congressmanjohndelaney,John K. Delaney,Democrat,"Delaney, John",RepJohnDelaney,18483
-D000617,"DelBene, Suzan K.",WA,1,Rep,"DelBene, Suzan",RepDelBene,Suzan K. DelBene,Democrat,"DelBene, Suzan",RepDelBene,23206
-D000623,"DeSaulnier, Mark",CA,11,Rep,"DeSaulnier, Mark",RepMarkDeSaulnier,Mark DeSaulnier,Democrat,"DeSaulnier, Mark",RepDeSaulnier,12560
+D000617,"DelBene, Suzan K.",WA,1,Rep,"DelBene, Suzan",RepDelBene,Suzan K. DelBene,Democrat,"DelBene, Suzan",RepDelBene,23203
+D000623,"DeSaulnier, Mark",CA,11,Rep,"DeSaulnier, Mark",RepMarkDeSaulnier,Mark DeSaulnier,Democrat,"DeSaulnier, Mark",RepDeSaulnier,12562
 D000616,"DesJarlais, Scott",TN,4,Rep,"DesJarlais, Scott",ScottDesJarlaisTN04,Scott DesJarlais,Republican,"DesJarlais, Scott",DesJarlaisTN04,14837
-D000600,"Diaz-Balart, Mario",FL,25,Rep,"Diaz-Balart, Mario",mdiazbalart,Mario Diaz-Balart,Republican,"Diaz-Balart, Mario",MarioDB,34878
-D000624,"Dingell, Debbie",MI,12,Rep,"Dingell, Debbie",RepDebbieDingell,Debbie Dingell,Democrat,"Dingell, Debbie",RepDebDingell,33788
+D000600,"Diaz-Balart, Mario",FL,25,Rep,"Diaz-Balart, Mario",mdiazbalart,Mario Diaz-Balart,Republican,"Diaz-Balart, Mario",MarioDB,34879
+D000624,"Dingell, Debbie",MI,12,Rep,"Dingell, Debbie",RepDebbieDingell,Debbie Dingell,Democrat,"Dingell, Debbie",RepDebDingell,33787
 D000613,"Dold, Robert J.",IL,10,Rep,"Dold, Robert",,,,,,-1
 D000625,"Donovan, Daniel M., Jr.",NY,11,Rep,"Donovan, Daniel",RepDanDonovan,"Daniel M. Donovan, Jr.",Republican,"Donovan, Daniel",RepDanDonovan,4478
-D000482,"Doyle, Michael F.",PA,14,Rep,"Doyle, Michael",usrepmikedoyle,Michael F. Doyle,Democrat,"Doyle, Michael",USRepMikeDoyle,16605
-D000622,"Duckworth, Tammy",IL,8,Rep,"Duckworth, Tammy",SenDuckworth,Tammy Duckworth,Democrat,"Duckworth, Tammy",SenDuckworth,473342
+D000482,"Doyle, Michael F.",PA,14,Rep,"Doyle, Michael",usrepmikedoyle,Michael F. Doyle,Democrat,"Doyle, Michael",USRepMikeDoyle,16606
+D000622,"Duckworth, Tammy",IL,8,Rep,"Duckworth, Tammy",SenDuckworth,Tammy Duckworth,Democrat,"Duckworth, Tammy",SenDuckworth,473377
 E000290,"Edwards, Donna F.",MD,4,Rep,"Edwards, Donna",107297211756,Donna F. Edwards,Democrat,"Edwards, Donna",RepDonnaEdwards,27746
-E000288,"Ellison, Keith",MN,5,Rep,"Ellison, Keith",Keith.Ellison,Keith Ellison,Democrat,"Ellison, Keith",KeithEllison,367704
-E000179,"Engel, Eliot L.",NY,16,Rep,"Engel, Eliot",RepEliotLEngel,Eliot L. Engel,Democrat,"Engel, Eliot",RepEliotEngel,22909
-E000215,"Eshoo, Anna G.",CA,18,Rep,"Eshoo, Anna",RepAnnaEshoo,Anna G. Eshoo,Democrat,"Eshoo, Anna",RepAnnaEshoo,35112
+E000288,"Ellison, Keith",MN,5,Rep,"Ellison, Keith",Keith.Ellison,Keith Ellison,Democrat,"Ellison, Keith",KeithEllison,367694
+E000179,"Engel, Eliot L.",NY,16,Rep,"Engel, Eliot",RepEliotLEngel,Eliot L. Engel,Democrat,"Engel, Eliot",RepEliotEngel,22907
+E000215,"Eshoo, Anna G.",CA,18,Rep,"Eshoo, Anna",RepAnnaEshoo,Anna G. Eshoo,Democrat,"Eshoo, Anna",RepAnnaEshoo,35111
 F000030,"Farr, Sam",CA,20,Rep,"Farr, Sam",RepSamFarr,Sam Farr,Democrat,"Farr, Sam",RepSamFarr,-1
 F000043,"Fattah, Chaka",PA,2,Rep,"Fattah, Chaka",repfattah,Chaka Fattah,Democrat,"Fattah, Chaka",ChakaFattah,11943
-F000461,"Flores, Bill",TX,17,Rep,"Flores, Bill",RepBillFlores,Bill Flores,Republican,"Flores, Bill",RepBillFlores,17853
+F000461,"Flores, Bill",TX,17,Rep,"Flores, Bill",RepBillFlores,Bill Flores,Republican,"Flores, Bill",RepBillFlores,17854
 F000449,"Fortenberry, Jeff",NE,1,Rep,"Fortenberry, Jeff",jefffortenberry,Jeff Fortenberry,Republican,"Fortenberry, Jeff",JeffFortenberry,18541
-F000462,"Frankel, Lois",FL,22,Rep,"Frankel, Lois",RepLoisFrankel,Lois Frankel,Democrat,"Frankel, Lois",RepLoisFrankel,20312
-F000455,"Fudge, Marcia L.",OH,11,Rep,"Fudge, Marcia",RepMarciaLFudge,Marcia L. Fudge,Democrat,"Fudge, Marcia",RepMarciaFudge,31228
-G000559,"Garamendi, John",CA,3,Rep,"Garamendi, John",repgaramendi,John Garamendi,Democrat,"Garamendi, John",RepGaramendi,25240
+F000462,"Frankel, Lois",FL,22,Rep,"Frankel, Lois",RepLoisFrankel,Lois Frankel,Democrat,"Frankel, Lois",RepLoisFrankel,20313
+F000455,"Fudge, Marcia L.",OH,11,Rep,"Fudge, Marcia",RepMarciaLFudge,Marcia L. Fudge,Democrat,"Fudge, Marcia",RepMarciaFudge,31227
+G000559,"Garamendi, John",CA,3,Rep,"Garamendi, John",repgaramendi,John Garamendi,Democrat,"Garamendi, John",RepGaramendi,25241
 G000563,"Gibbs, Bob",OH,7,Rep,"Gibbs, Bob",RepBobGibbs,Bob Gibbs,Republican,"Gibbs, Bob",RepBobGibbs,31084
 G000564,"Gibson, Christopher P.",NY,19,Rep,"Gibson, Christopher",RepChrisGibson,Christopher P. Gibson,Republican,"Gibson, Christopher",RepChrisGibson,10875
 G000568,"Griffith, H. Morgan",VA,9,Rep,"Griffith, Morgan",,,,,,-1
@@ -123,120 +123,120 @@ H001051,"Hanna, Richard L.",NY,22,Rep,"Hanna, Richard",reprichardhanna,Richard L
 H001070,"Hardy, Cresent",NV,4,Rep,"Hardy, Cresent",RepCresentHardy,Cresent Hardy,Republican,"Hardy, Cresent",RepHardy,2999
 H001045,"Harper, Gregg",MS,3,Rep,"Harper, Gregg",GreggHarper,Gregg Harper,Republican,"Harper, Gregg",GreggHarper,27048
 H001052,"Harris, Andy",MD,1,Rep,"Harris, Andy",AndyHarrisMD,Andy Harris,Republican,"Harris, Andy",RepAndyHarrisMD,12993
-H000324,"Hastings, Alcee L.",FL,20,Rep,"Hastings, Alcee",95696782238,Alcee L. Hastings,Democrat,"Hastings, Alcee",RepHastingsFL,19555
-H001064,"Heck, Denny",WA,10,Rep,"Heck, Denny",CongressmanDennyHeck,Denny Heck,Democrat,"Heck, Denny",RepDennyHeck,21466
+H000324,"Hastings, Alcee L.",FL,20,Rep,"Hastings, Alcee",95696782238,Alcee L. Hastings,Democrat,"Hastings, Alcee",RepHastingsFL,19559
+H001064,"Heck, Denny",WA,10,Rep,"Heck, Denny",CongressmanDennyHeck,Denny Heck,Democrat,"Heck, Denny",RepDennyHeck,21469
 H001056,"Herrera Beutler, Jaime",WA,3,Rep,"Herrera Beutler, Jaime",herrerabeutler,Jaime Herrera Beutler,Republican,"Herrera Beutler, Jaime",HerreraBeutler,17676
-H001038,"Higgins, Brian",NY,26,Rep,"Higgins, Brian",RepBrianHiggins,Brian Higgins,Democrat,"Higgins, Brian",RepBrianHiggins,22656
+H001038,"Higgins, Brian",NY,26,Rep,"Higgins, Brian",RepBrianHiggins,Brian Higgins,Democrat,"Higgins, Brian",RepBrianHiggins,22655
 H000636,"Hinojosa, Ruben",TX,15,Rep,"Hinojosa, Ruben",,,,,,-1
-H000874,"Hoyer, Steny H.",MD,5,Rep,"Hoyer, Steny",WhipHoyer,Steny H. Hoyer,Democrat,"Hoyer, Steny",WhipHoyer,103985
+H000874,"Hoyer, Steny H.",MD,5,Rep,"Hoyer, Steny",WhipHoyer,Steny H. Hoyer,Democrat,"Hoyer, Steny",WhipHoyer,103984
 H001067,"Hudson, Richard",NC,8,Rep,"Hudson, Richard",RepRichHudson,Richard Hudson,Republican,"Hudson, Richard",RepRichHudson,14760
-H001068,"Huffman, Jared",CA,2,Rep,"Huffman, Jared",RepHuffman,Jared Huffman,Democrat,"Huffman, Jared",RepHuffman,25225
-H001058,"Huizenga, Bill",MI,2,Rep,"Huizenga, Bill",RepHuizenga,Bill Huizenga,Republican,"Huizenga, Bill",RepHuizenga,17543
+H001068,"Huffman, Jared",CA,2,Rep,"Huffman, Jared",RepHuffman,Jared Huffman,Democrat,"Huffman, Jared",RepHuffman,25227
+H001058,"Huizenga, Bill",MI,2,Rep,"Huizenga, Bill",RepHuizenga,Bill Huizenga,Republican,"Huizenga, Bill",RepHuizenga,17544
 H001059,"Hultgren, Randy",IL,14,Rep,"Hultgren, Randy",RepHultgren,Randy Hultgren,Republican,"Hultgren, Randy",RepHultgren,18309
-I000057,"Israel, Steve",NY,3,Rep,"Israel, Steve",RepSteveIsrael,Steve Israel,Democrat,"Israel, Steve",RepSteveIsrael,30631
-J000032,"Jackson Lee, Sheila",TX,18,Rep,"Jackson Lee, Sheila",CongresswomanSheilaJacksonLee,Sheila Jackson Lee,Democrat,"Jackson Lee, Sheila",JacksonLeeTX18,54143
+I000057,"Israel, Steve",NY,3,Rep,"Israel, Steve",RepSteveIsrael,Steve Israel,Democrat,"Israel, Steve",RepSteveIsrael,30632
+J000032,"Jackson Lee, Sheila",TX,18,Rep,"Jackson Lee, Sheila",CongresswomanSheilaJacksonLee,Sheila Jackson Lee,Democrat,"Jackson Lee, Sheila",JacksonLeeTX18,54142
 J000297,"Jenkins, Evan H.",WV,3,Rep,"Jenkins, Evan",RepEvanJenkins,Evan H. Jenkins,Republican,"Jenkins, Evan",RepEvanJenkins,7760
 J000292,"Johnson, Bill",OH,6,Rep,"Johnson, Bill",RepBillJohnson,Bill Johnson,Republican,"Johnson, Bill",RepBillJohnson,31562
 J000126,"Johnson, Eddie Bernice",TX,30,Rep,"Johnson, Eddie Bernice",,,,,,-1
 J000288,"Johnson, Henry C. ""Hank,"" Jr.",GA,4,Rep,"Johnson, Henry",115356957005,"Henry C. ""Hank"" Johnson, Jr.",Democrat,"Johnson, Henry",RepHankJohnson,29714
 J000295,"Joyce, David P.",OH,14,Rep,"Joyce, David",RepDaveJoyce,David P. Joyce,Republican,"Joyce, David",RepDaveJoyce,18876
 K000009,"Kaptur, Marcy",OH,9,Rep,"Kaptur, Marcy",RepresentativeMarcyKaptur,Marcy Kaptur,Democrat,"Kaptur, Marcy",RepMarcyKaptur,16778
-K000386,"Katko, John",NY,24,Rep,"Katko, John",RepJohnKatko,John Katko,Republican,"Katko, John",RepJohnKatko,10609
+K000386,"Katko, John",NY,24,Rep,"Katko, John",RepJohnKatko,John Katko,Republican,"Katko, John",RepJohnKatko,10612
 K000375,"Keating, William R.",MA,9,Rep,"Keating, William",Congressman.Keating,William R. Keating,Democrat,"Keating, William",USRepKeating,13357
 K000385,"Kelly, Robin L.",IL,2,Rep,"Kelly, Robin",reprobinkelly,Robin L. Kelly,Democrat,"Kelly, Robin",RepRobinKelly,22277
 K000379,"Kennedy, Joseph P., III",MA,4,Rep,"Kennedy, Joseph, III",,,,,,-1
-K000380,"Kildee, Daniel T.",MI,5,Rep,"Kildee, Daniel",RepDanKildee,Daniel T. Kildee,Democrat,"Kildee, Daniel",RepDanKildee,32647
-K000381,"Kilmer, Derek",WA,6,Rep,"Kilmer, Derek",derek.kilmer,Derek Kilmer,Democrat,"Kilmer, Derek",RepDerekKilmer,23739
-K000188,"Kind, Ron",WI,3,Rep,"Kind, Ron",repronkind,Ron Kind,Democrat,"Kind, Ron",RepRonKind,12947
+K000380,"Kildee, Daniel T.",MI,5,Rep,"Kildee, Daniel",RepDanKildee,Daniel T. Kildee,Democrat,"Kildee, Daniel",RepDanKildee,32648
+K000381,"Kilmer, Derek",WA,6,Rep,"Kilmer, Derek",derek.kilmer,Derek Kilmer,Democrat,"Kilmer, Derek",RepDerekKilmer,23748
+K000188,"Kind, Ron",WI,3,Rep,"Kind, Ron",repronkind,Ron Kind,Democrat,"Kind, Ron",RepRonKind,12945
 K000378,"Kinzinger, Adam",IL,16,Rep,"Kinzinger, Adam",RepKinzinger,Adam Kinzinger,Republican,"Kinzinger, Adam",RepKinzinger,38906
 K000368,"Kirkpatrick, Ann",AZ,1,Rep,"Kirkpatrick, Ann",RepKirkpatrick,Ann Kirkpatrick,Democrat,"Kirkpatrick, Ann",RepKirkpatrick,-1
 K000387,"Knight, Stephen",CA,25,Rep,"Knight, Stephen",,,,,,-1
 K000382,"Kuster, Ann M.",NH,2,Rep,"Kuster, Ann",CongresswomanAnnieKuster,Ann M. Kuster,Democrat,"Kuster, Ann",RepAnnieKuster,18618
-L000578,"LaMalfa, Doug",CA,1,Rep,"LaMalfa, Doug",RepLaMalfa,Doug LaMalfa,Republican,"LaMalfa, Doug",RepLaMalfa,13807
+L000578,"LaMalfa, Doug",CA,1,Rep,"LaMalfa, Doug",RepLaMalfa,Doug LaMalfa,Republican,"LaMalfa, Doug",RepLaMalfa,13806
 L000567,"Lance, Leonard",NJ,7,Rep,"Lance, Leonard",CongressmanLance,Leonard Lance,Republican,"Lance, Leonard",RepLanceNJ7,14781
 L000559,"Langevin, James R.",RI,2,Rep,"Langevin, James",CongressmanJimLangevin,James R. Langevin,Democrat,"Langevin, James",JimLangevin,21135
-L000557,"Larson, John B.",CT,1,Rep,"Larson, John",RepJohnLarson,John B. Larson,Democrat,"Larson, John",RepJohnLarson,22960
+L000557,"Larson, John B.",CT,1,Rep,"Larson, John",RepJohnLarson,John B. Larson,Democrat,"Larson, John",RepJohnLarson,22956
 L000566,"Latta, Robert E.",OH,5,Rep,"Latta, Robert",boblatta,Robert E. Latta,Republican,"Latta, Robert",BobLatta,35291
 L000581,"Lawrence, Brenda L.",MI,14,Rep,"Lawrence, Brenda",395759603917487,Brenda L. Lawrence,Democrat,"Lawrence, Brenda",RepLawrence,11302
-L000551,"Lee, Barbara",CA,13,Rep,"Lee, Barbara",RepBarbaraLee,Barbara Lee,Democrat,"Lee, Barbara",RepBarbaraLee,178948
-L000287,"Lewis, John",GA,5,Rep,"Lewis, John",RepJohnLewis,John Lewis,Democrat,"Lewis, John",RepJohnLewis,915394
+L000551,"Lee, Barbara",CA,13,Rep,"Lee, Barbara",RepBarbaraLee,Barbara Lee,Democrat,"Lee, Barbara",RepBarbaraLee,178947
+L000287,"Lewis, John",GA,5,Rep,"Lewis, John",RepJohnLewis,John Lewis,Democrat,"Lewis, John",RepJohnLewis,915398
 L000582,"Lieu, Ted",CA,33,Rep,"Lieu, Ted",RepTedLieu,Ted Lieu,Democrat,"Lieu, Ted",RepTedLieu,102380
 L000563,"Lipinski, Daniel",IL,3,Rep,"Lipinski, Daniel",repdanlipinski,Daniel Lipinski,Democrat,"Lipinski, Daniel",RepLipinski,11677
 L000554,"LoBiondo, Frank A.",NJ,2,Rep,"LoBiondo, Frank",FrankLoBiondo,Frank A. LoBiondo,Republican,"LoBiondo, Frank",RepLoBiondo,15869
 L000565,"Loebsack, David",IA,2,Rep,"Loebsack, David",DaveLoebsack,David Loebsack,Democrat,"Loebsack, David",DaveLoebsack,7212
 L000397,"Lofgren, Zoe",CA,19,Rep,"Lofgren, Zoe",zoelofgren,Zoe Lofgren,Democrat,"Lofgren, Zoe",RepZoeLofgren,33353
 L000576,"Long, Billy",MO,7,Rep,"Long, Billy",Rep.Billy.Long,Billy Long,Republican,"Long, Billy",USRepLong,15659
-L000579,"Lowenthal, Alan S.",CA,47,Rep,"Lowenthal, Alan",RepLowenthal,Alan S. Lowenthal,Democrat,"Lowenthal, Alan",RepLowenthal,24850
+L000579,"Lowenthal, Alan S.",CA,47,Rep,"Lowenthal, Alan",RepLowenthal,Alan S. Lowenthal,Democrat,"Lowenthal, Alan",RepLowenthal,24852
 L000569,"Luetkemeyer, Blaine",MO,3,Rep,"Luetkemeyer, Blaine",BlaineLuetkemeyer,Blaine Luetkemeyer,Republican,"Luetkemeyer, Blaine",RepBlainePress,10656
 L000570,"Lujan, Ben Ray",NM,3,Rep,"Lujan, Ben Ray",,,,,,-1
-M000087,"Maloney, Carolyn B.",NY,12,Rep,"Maloney, Carolyn",RepCarolynMaloney,Carolyn B. Maloney,Democrat,"Maloney, Carolyn",RepMaloney,26177
+M000087,"Maloney, Carolyn B.",NY,12,Rep,"Maloney, Carolyn",RepCarolynMaloney,Carolyn B. Maloney,Democrat,"Maloney, Carolyn",RepMaloney,26176
 M001158,"Marchant, Kenny",TX,24,Rep,"Marchant, Kenny",RepKennyMarchant,Kenny Marchant,Republican,"Marchant, Kenny",RepKenMarchant,24127
-M001179,"Marino, Tom",PA,10,Rep,"Marino, Tom",CongressmanMarino,Tom Marino,Republican,"Marino, Tom",RepTomMarino,20713
+M001179,"Marino, Tom",PA,10,Rep,"Marino, Tom",CongressmanMarino,Tom Marino,Republican,"Marino, Tom",RepTomMarino,20712
 M001163,"Matsui, Doris O.",CA,6,Rep,"Matsui, Doris",doris.matsui,Doris O. Matsui,Democrat,"Matsui, Doris",DorisMatsui,30267
 M001157,"McCaul, Michael T.",TX,10,Rep,"McCaul, Michael",michaeltmccaul,Michael T. McCaul,Republican,"McCaul, Michael",RepMcCaul,25086
 M001143,"McCollum, Betty",MN,4,Rep,"McCollum, Betty",repbettymccollum,Betty McCollum,Democrat,"McCollum, Betty",BettyMcCollum04,25745
 M000312,"McGovern, James P.",MA,2,Rep,"McGovern, James",RepJimMcGovern,James P. McGovern,Democrat,"McGovern, James",RepMcGovern,36755
 M001156,"McHenry, Patrick T.",NC,10,Rep,"McHenry, Patrick",CongressmanMcHenry,Patrick T. McHenry,Republican,"McHenry, Patrick",PatrickMcHenry,23390
-M001180,"McKinley, David B.",WV,1,Rep,"McKinley, David",RepMcKinley,David B. McKinley,Republican,"McKinley, David",RepMcKinley,27976
+M001180,"McKinley, David B.",WV,1,Rep,"McKinley, David",RepMcKinley,David B. McKinley,Republican,"McKinley, David",RepMcKinley,27974
 M001159,"McMorris Rodgers, Cathy",WA,5,Rep,"McMorris Rodgers, Cathy",mcmorrisrodgers,Cathy McMorris Rodgers,Republican,"McMorris Rodgers, Cathy",CathyMcMorris,45138
 M001166,"McNerney, Jerry",CA,9,Rep,"McNerney, Jerry",jerrymcnerney,Jerry McNerney,Democrat,"McNerney, Jerry",RepMcNerney,19949
-M001187,"Meadows, Mark",NC,11,Rep,"Meadows, Mark",Repmarkmeadows,Mark Meadows,Republican,"Meadows, Mark",RepMarkMeadows,89750
+M001187,"Meadows, Mark",NC,11,Rep,"Meadows, Mark",Repmarkmeadows,Mark Meadows,Republican,"Meadows, Mark",RepMarkMeadows,89755
 M001188,"Meng, Grace",NY,6,Rep,"Meng, Grace",repgracemeng,Grace Meng,Democrat,"Meng, Grace",RepGraceMeng,22101
-M001160,"Moore, Gwen",WI,4,Rep,"Moore, Gwen",GwenSMoore,Gwen Moore,Democrat,"Moore, Gwen",RepGwenMoore,30864
-M001196,"Moulton, Seth",MA,6,Rep,"Moulton, Seth",CongressmanSethMoulton,Seth Moulton,Democrat,"Moulton, Seth",teammoulton,7194
+M001160,"Moore, Gwen",WI,4,Rep,"Moore, Gwen",GwenSMoore,Gwen Moore,Democrat,"Moore, Gwen",RepGwenMoore,30861
+M001196,"Moulton, Seth",MA,6,Rep,"Moulton, Seth",CongressmanSethMoulton,Seth Moulton,Democrat,"Moulton, Seth",teammoulton,7193
 M001151,"Murphy, Tim",PA,18,Rep,"Murphy, Tim",reptimmurphy,Tim Murphy,Republican,"Murphy, Tim",RepTimMurphy,-1
-N000002,"Nadler, Jerrold",NY,10,Rep,"Nadler, Jerrold",CongressmanNadler,Jerrold Nadler,Democrat,"Nadler, Jerrold",RepJerryNadler,51663
-N000127,"Nolan, Richard M.",MN,8,Rep,"Nolan, Richard",UsRepRickNolan,Richard M. Nolan,Democrat,"Nolan, Richard",USRepRickNolan,11828
+N000002,"Nadler, Jerrold",NY,10,Rep,"Nadler, Jerrold",CongressmanNadler,Jerrold Nadler,Democrat,"Nadler, Jerrold",RepJerryNadler,51664
+N000127,"Nolan, Richard M.",MN,8,Rep,"Nolan, Richard",UsRepRickNolan,Richard M. Nolan,Democrat,"Nolan, Richard",USRepRickNolan,11827
 N000147,"Norton, Eleanor Holmes",DC,0,Rep,"Norton, Eleanor Holmes",,,,,,-1
 O000170,"O'Rourke, Beto",TX,16,Rep,"O'Rourke, Beto",,,,,,-1
 O000168,"Olson, Pete",TX,22,Rep,"Olson, Pete",Rep.PeteOlson,Pete Olson,Republican,"Olson, Pete",RepPeteOlson,8827
-P000594,"Paulsen, Erik",MN,3,Rep,"Paulsen, Erik",CongressmanErikPaulsen,Erik Paulsen,Republican,"Paulsen, Erik",RepErikPaulsen,19720
-P000604,"Payne, Donald M., Jr.",NJ,10,Rep,"Payne, Donald",DonaldPayneJr,"Donald M. Payne, Jr.",Democrat,"Payne, Donald",RepDonaldPayne,12204
+P000594,"Paulsen, Erik",MN,3,Rep,"Paulsen, Erik",CongressmanErikPaulsen,Erik Paulsen,Republican,"Paulsen, Erik",RepErikPaulsen,19718
+P000604,"Payne, Donald M., Jr.",NJ,10,Rep,"Payne, Donald",DonaldPayneJr,"Donald M. Payne, Jr.",Democrat,"Payne, Donald",RepDonaldPayne,12205
 P000605,"Perry, Scott",PA,4,Rep,"Perry, Scott",repscottperry,Scott Perry,Republican,"Perry, Scott",RepScottPerry,13747
 P000608,"Peters, Scott H.",CA,52,Rep,"Peters, Scott",RepScottPeters,Scott H. Peters,Democrat,"Peters, Scott",RepScottPeters,22001
 P000596,"Pierluisi, Pedro R.",PR,0,Rep,"Pierluisi, Pedro",pedropierluisi,Pedro R. Pierluisi,Democrat,"Pierluisi, Pedro",PedroPierluisi,47886
 P000606,"Pittenger, Robert",NC,9,Rep,"Pittenger, Robert",congressmanpittenger,Robert Pittenger,Republican,"Pittenger, Robert",RepPittenger,13358
-P000607,"Pocan, Mark",WI,2,Rep,"Pocan, Mark",repmarkpocan,Mark Pocan,Democrat,"Pocan, Mark",RepMarkPocan,75429
+P000607,"Pocan, Mark",WI,2,Rep,"Pocan, Mark",repmarkpocan,Mark Pocan,Democrat,"Pocan, Mark",RepMarkPocan,75422
 P000598,"Polis, Jared",CO,2,Rep,"Polis, Jared",jaredpolis,Jared Polis,Democrat,"Polis, Jared",RepJaredPolis,14266
 P000602,"Pompeo, Mike",KS,4,Rep,"Pompeo, Mike",CongressmanPompeo,Mike Pompeo,Republican,"Pompeo, Mike",RepMikePompeo,-1
-Q000023,"Quigley, Mike",IL,5,Rep,"Quigley, Mike",repmikequigley,Mike Quigley,Democrat,"Quigley, Mike",RepMikeQuigley,37520
+Q000023,"Quigley, Mike",IL,5,Rep,"Quigley, Mike",repmikequigley,Mike Quigley,Democrat,"Quigley, Mike",RepMikeQuigley,37521
 R000053,"Rangel, Charles B.",NY,13,Rep,"Rangel, Charles",CBRangel,Charles B. Rangel,Democrat,"Rangel, Charles",CBRangel,29385
-R000585,"Reed, Tom",NY,23,Rep,"Reed, Tom",RepTomReed,Tom Reed,Republican,"Reed, Tom",RepTomReed,15101
-R000602,"Rice, Kathleen M.",NY,4,Rep,"Rice, Kathleen",RepKathleenRice,Kathleen M. Rice,Democrat,"Rice, Kathleen",RepKathleenRice,28977
+R000585,"Reed, Tom",NY,23,Rep,"Reed, Tom",RepTomReed,Tom Reed,Republican,"Reed, Tom",RepTomReed,15102
+R000602,"Rice, Kathleen M.",NY,4,Rep,"Rice, Kathleen",RepKathleenRice,Kathleen M. Rice,Democrat,"Rice, Kathleen",RepKathleenRice,28985
 R000589,"Rigell, E. Scott",VA,2,Rep,"Rigell, Scott",,,,,,-1
 R000575,"Rogers, Mike D.",AL,3,Rep,"Rogers, Mike",CongressmanMikeDRogers,Mike Rogers,Republican,"Rogers, Mike",RepMikeRogersAL,21931
-R000435,"Ros-Lehtinen, Ileana",FL,27,Rep,"Ros-Lehtinen, Ileana",iroslehtinen,Ileana Ros-Lehtinen,Republican,"Ros-Lehtinen, Ileana",RosLehtinen,117341
-R000580,"Roskam, Peter J.",IL,6,Rep,"Roskam, Peter",PeterRoskam,Peter J. Roskam,Republican,"Roskam, Peter",PeterRoskam,27557
-R000593,"Ross, Dennis A.",FL,15,Rep,"Ross, Dennis",dennis.ross.376,Dennis A. Ross,Republican,"Ross, Dennis",RepDennisRoss,18275
-R000486,"Roybal-Allard, Lucille",CA,40,Rep,"Roybal-Allard, Lucille",RepRoybalAllard,Lucille Roybal-Allard,Democrat,"Roybal-Allard, Lucille",RepRoybalAllard,20857
+R000435,"Ros-Lehtinen, Ileana",FL,27,Rep,"Ros-Lehtinen, Ileana",iroslehtinen,Ileana Ros-Lehtinen,Republican,"Ros-Lehtinen, Ileana",RosLehtinen,117338
+R000580,"Roskam, Peter J.",IL,6,Rep,"Roskam, Peter",PeterRoskam,Peter J. Roskam,Republican,"Roskam, Peter",PeterRoskam,27556
+R000593,"Ross, Dennis A.",FL,15,Rep,"Ross, Dennis",dennis.ross.376,Dennis A. Ross,Republican,"Ross, Dennis",RepDennisRoss,18274
+R000486,"Roybal-Allard, Lucille",CA,40,Rep,"Roybal-Allard, Lucille",RepRoybalAllard,Lucille Roybal-Allard,Democrat,"Roybal-Allard, Lucille",RepRoybalAllard,20859
 R000487,"Royce, Edward R.",CA,39,Rep,"Royce, Edward",EdRoyce,Edward R. Royce,Republican,"Royce, Edward",RepEdRoyce,28037
 R000576,"Ruppersberger, C. A. Dutch",MD,2,Rep,"Ruppersberger, Dutch",,,,,,-1
 R000515,"Rush, Bobby L.",IL,1,Rep,"Rush, Bobby",congressmanbobbyrush,Bobby L. Rush,Democrat,"Rush, Bobby",RepBobbyRush,14410
-R000577,"Ryan, Tim",OH,13,Rep,"Ryan, Tim",timryan,Tim Ryan,Democrat,"Ryan, Tim",RepTimRyan,53334
+R000577,"Ryan, Tim",OH,13,Rep,"Ryan, Tim",timryan,Tim Ryan,Democrat,"Ryan, Tim",RepTimRyan,53335
 S000018,"Salmon, Matt",AZ,5,Rep,"Salmon, Matt",RepMattSalmon,Matt Salmon,Republican,"Salmon, Matt",RepMattSalmon,0
-S001168,"Sarbanes, John P.",MD,3,Rep,"Sarbanes, John",RepSarbanes,John P. Sarbanes,Democrat,"Sarbanes, John",RepSarbanes,17573
-S001176,"Scalise, Steve",LA,1,Rep,"Scalise, Steve",RepSteveScalise,Steve Scalise,Republican,"Scalise, Steve",SteveScalise,276476
-S001145,"Schakowsky, Janice D.",IL,9,Rep,"Schakowsky, Janice",janschakowsky,Janice D. Schakowsky,Democrat,"Schakowsky, Janice",JanSchakowsky,36213
-S001180,"Schrader, Kurt",OR,5,Rep,"Schrader, Kurt",repschrader,Kurt Schrader,Democrat,"Schrader, Kurt",RepSchrader,22889
+S001168,"Sarbanes, John P.",MD,3,Rep,"Sarbanes, John",RepSarbanes,John P. Sarbanes,Democrat,"Sarbanes, John",RepSarbanes,17571
+S001176,"Scalise, Steve",LA,1,Rep,"Scalise, Steve",RepSteveScalise,Steve Scalise,Republican,"Scalise, Steve",SteveScalise,276483
+S001145,"Schakowsky, Janice D.",IL,9,Rep,"Schakowsky, Janice",janschakowsky,Janice D. Schakowsky,Democrat,"Schakowsky, Janice",JanSchakowsky,36209
+S001180,"Schrader, Kurt",OR,5,Rep,"Schrader, Kurt",repschrader,Kurt Schrader,Democrat,"Schrader, Kurt",RepSchrader,22888
 S001157,"Scott, David",GA,13,Rep,"Scott, David",113303673339,David Scott,Democrat,"Scott, David",RepDavidScott,17371
 S000364,"Shimkus, John",IL,15,Rep,"Shimkus, John",repshimkus,John Shimkus,Republican,"Shimkus, John",RepShimkus,28652
-S001148,"Simpson, Michael K.",ID,2,Rep,"Simpson, Michael",96007744606,Michael K. Simpson,Republican,"Simpson, Michael",CongMikeSimpson,12797
-S001191,"Sinema, Kyrsten",AZ,9,Rep,"Sinema, Kyrsten",CongresswomanSinema,Kyrsten Sinema,Democrat,"Sinema, Kyrsten",RepSinema,28721
-S001165,"Sires, Albio",NJ,8,Rep,"Sires, Albio",81058818750,Albio Sires,Democrat,"Sires, Albio",RepSires,16987
-S001175,"Speier, Jackie",CA,14,Rep,"Speier, Jackie",JackieSpeier,Jackie Speier,Democrat,"Speier, Jackie",RepSpeier,120036
-S001196,"Stefanik, Elise M.",NY,21,Rep,"Stefanik, Elise",RepEliseStefanik,Elise M. Stefanik,Republican,"Stefanik, Elise",RepStefanik,16768
+S001148,"Simpson, Michael K.",ID,2,Rep,"Simpson, Michael",96007744606,Michael K. Simpson,Republican,"Simpson, Michael",CongMikeSimpson,12796
+S001191,"Sinema, Kyrsten",AZ,9,Rep,"Sinema, Kyrsten",CongresswomanSinema,Kyrsten Sinema,Democrat,"Sinema, Kyrsten",RepSinema,28723
+S001165,"Sires, Albio",NJ,8,Rep,"Sires, Albio",81058818750,Albio Sires,Democrat,"Sires, Albio",RepSires,16988
+S001175,"Speier, Jackie",CA,14,Rep,"Speier, Jackie",JackieSpeier,Jackie Speier,Democrat,"Speier, Jackie",RepSpeier,120037
+S001196,"Stefanik, Elise M.",NY,21,Rep,"Stefanik, Elise",RepEliseStefanik,Elise M. Stefanik,Republican,"Stefanik, Elise",RepStefanik,16770
 S001187,"Stivers, Steve",OH,15,Rep,"Stivers, Steve",116058275133542,Steve Stivers,Republican,"Stivers, Steve",RepSteveStivers,30041
 T000473,"Takai, Mark",HI,1,Rep,"Takai, Mark",repmarktakai,Mark Takai,Democrat,"Takai, Mark",RepMarkTakai,2986
-T000472,"Takano, Mark",CA,41,Rep,"Takano, Mark",RepMarkTakano,Mark Takano,Democrat,"Takano, Mark",RepMarkTakano,47058
+T000472,"Takano, Mark",CA,41,Rep,"Takano, Mark",RepMarkTakano,Mark Takano,Democrat,"Takano, Mark",RepMarkTakano,47053
 T000462,"Tiberi, Patrick J.",OH,12,Rep,"Tiberi, Patrick",RepPatTiberi,Patrick J. Tiberi,Republican,"Tiberi, Patrick",pattiberi,15748
 T000469,"Tonko, Paul",NY,20,Rep,"Tonko, Paul",reppaultonko,Paul Tonko,Democrat,"Tonko, Paul",RepPaulTonko,23247
 T000474,"Torres, Norma J.",CA,35,Rep,"Torres, Norma",RepNormaTorres,Norma J. Torres,Democrat,"Torres, Norma",NormaJTorres,11578
 T000475,"Trott, David A.",MI,11,Rep,"Trott, David",,,,,,-1
-T000463,"Turner, Michael R.",OH,10,Rep,"Turner, Michael",RepMikeTurner,Michael R. Turner,Republican,"Turner, Michael",RepMikeTurner,19237
-V000129,"Valadao, David G.",CA,21,Rep,"Valadao, David",CongressmanDavidValadao,David G. Valadao,Republican,"Valadao, David",RepDavidValadao,15612
-V000128,"Van Hollen, Chris",MD,8,Rep,"Van Hollen, Chris",chrisvanhollen,Chris Van Hollen,Democrat,"Van Hollen, Chris",ChrisVanHollen,127629
-V000130,"Vargas, Juan",CA,51,Rep,"Vargas, Juan",RepJuanVargas,Juan Vargas,Democrat,"Vargas, Juan",RepJuanVargas,17757
-V000131,"Veasey, Marc A.",TX,33,Rep,"Veasey, Marc",CongressmanMarcVeasey,Marc A. Veasey,Democrat,"Veasey, Marc",RepVeasey,18464
+T000463,"Turner, Michael R.",OH,10,Rep,"Turner, Michael",RepMikeTurner,Michael R. Turner,Republican,"Turner, Michael",RepMikeTurner,19238
+V000129,"Valadao, David G.",CA,21,Rep,"Valadao, David",CongressmanDavidValadao,David G. Valadao,Republican,"Valadao, David",RepDavidValadao,15613
+V000128,"Van Hollen, Chris",MD,8,Rep,"Van Hollen, Chris",chrisvanhollen,Chris Van Hollen,Democrat,"Van Hollen, Chris",ChrisVanHollen,127657
+V000130,"Vargas, Juan",CA,51,Rep,"Vargas, Juan",RepJuanVargas,Juan Vargas,Democrat,"Vargas, Juan",RepJuanVargas,17756
+V000131,"Veasey, Marc A.",TX,33,Rep,"Veasey, Marc",CongressmanMarcVeasey,Marc A. Veasey,Democrat,"Veasey, Marc",RepVeasey,18465
 V000081,"Velazquez, Nydia M.",NY,7,Rep,"Velazquez, Nydia",,,,,,-1
 W000812,"Wagner, Ann",MO,2,Rep,"Wagner, Ann",RepAnnWagner,Ann Wagner,Republican,"Wagner, Ann",RepAnnWagner,18420
 W000798,"Walberg, Tim",MI,7,Rep,"Walberg, Tim",RepWalberg,Tim Walberg,Republican,"Walberg, Tim",RepWalberg,14992
@@ -245,81 +245,81 @@ W000813,"Walorski, Jackie",IN,2,Rep,"Walorski, Jackie",RepJackieWalorski,Jackie 
 W000820,"Walters, Mimi",CA,45,Rep,"Walters, Mimi",RepMimiWalters,Mimi Walters,Republican,"Walters, Mimi",RepMimiWalters,12305
 W000799,"Walz, Timothy J.",MN,1,Rep,"Walz, Timothy",,Timothy J. Walz,Democrat,"Walz, Timothy",RepTimWalz,28145
 W000797,"Wasserman Schultz, Debbie",FL,23,Rep,"Wasserman Schultz, Debbie",RepDWS,Debbie Wasserman Schultz,Democrat,"Wasserman Schultz, Debbie",RepDWStweets,13008
-W000187,"Waters, Maxine",CA,43,Rep,"Waters, Maxine",MaxineWaters,Maxine Waters,Democrat,"Waters, Maxine",RepMaxineWaters,746692
+W000187,"Waters, Maxine",CA,43,Rep,"Waters, Maxine",MaxineWaters,Maxine Waters,Democrat,"Waters, Maxine",RepMaxineWaters,746707
 W000806,"Webster, Daniel",FL,10,Rep,"Webster, Daniel",RepWebster,Daniel Webster,Republican,"Webster, Daniel",RepWebster,20494
 W000800,"Welch, Peter",VT,0,Rep,"Welch, Peter",PeterWelch,Peter Welch,Democrat,"Welch, Peter",PeterWelch,11314
-W000815,"Wenstrup, Brad R.",OH,2,Rep,"Wenstrup, Brad",RepBradWenstrup,Brad R. Wenstrup,Republican,"Wenstrup, Brad",RepBradWenstrup,18559
-W000413,"Whitfield, Ed",KY,1,Rep,"Whitfield, Ed",RepEdWhitfield,Ed Whitfield,Republican,"Whitfield, Ed",RepEdWhitfield,8524
+W000815,"Wenstrup, Brad R.",OH,2,Rep,"Wenstrup, Brad",RepBradWenstrup,Brad R. Wenstrup,Republican,"Wenstrup, Brad",RepBradWenstrup,18557
+W000413,"Whitfield, Ed",KY,1,Rep,"Whitfield, Ed",RepEdWhitfield,Ed Whitfield,Republican,"Whitfield, Ed",RepEdWhitfield,8523
 W000808,"Wilson, Frederica S.",FL,24,Rep,"Wilson, Frederica",RepWilson,Frederica S. Wilson,Democrat,"Wilson, Frederica",RepWilson,62523
 W000809,"Womack, Steve",AR,3,Rep,"Womack, Steve",RepSteveWomack,Steve Womack,Republican,"Womack, Steve",Rep_SteveWomack,17784
-Y000062,"Yarmuth, John A.",KY,3,Rep,"Yarmuth, John",214258646163,John A. Yarmuth,Democrat,"Yarmuth, John",RepJohnYarmuth,30300
-Y000063,"Yoder, Kevin",KS,3,Rep,"Yoder, Kevin",CongressmanKevinYoder,Kevin Yoder,Republican,"Yoder, Kevin",RepKevinYoder,28839
+Y000062,"Yarmuth, John A.",KY,3,Rep,"Yarmuth, John",214258646163,John A. Yarmuth,Democrat,"Yarmuth, John",RepJohnYarmuth,30299
+Y000063,"Yoder, Kevin",KS,3,Rep,"Yoder, Kevin",CongressmanKevinYoder,Kevin Yoder,Republican,"Yoder, Kevin",RepKevinYoder,28841
 Y000066,"Young, David",IA,3,Rep,"Young, David",RepDavidYoung,David Young,Republican,"Young, David",RepDavidYoung,11143
-Z000017,"Zeldin, Lee M.",NY,1,Rep,"Zeldin, Lee",RepLeeZeldin,Lee M. Zeldin,Republican,"Zeldin, Lee",RepLeeZeldin,34992
-S000522,"Smith, Christopher H.",NJ,4,Rep,"Smith, Christopher",RepChrisSmith,Christopher H. Smith,Republican,"Smith, Christopher",RepChrisSmith,21279
+Z000017,"Zeldin, Lee M.",NY,1,Rep,"Zeldin, Lee",RepLeeZeldin,Lee M. Zeldin,Republican,"Zeldin, Lee",RepLeeZeldin,34993
+S000522,"Smith, Christopher H.",NJ,4,Rep,"Smith, Christopher",RepChrisSmith,Christopher H. Smith,Republican,"Smith, Christopher",RepChrisSmith,21280
 A000374,"Abraham, Ralph Lee",LA,5,Rep,"Abraham, Ralph Lee",,,,,,-1
 B001273,"Black, Diane",TN,6,Rep,"Black, Diane",DianeBlackTN06,Diane Black,Republican,"Black, Diane",RepDianeBlack,26935
-B000589,"Boehner, John A.",OH,8,Rep,"Boehner, John",SpeakerJohnBoehner,John A. Boehner,Republican,"Boehner, John",SpeakerBoehner,1441061
+B000589,"Boehner, John A.",OH,8,Rep,"Boehner, John",SpeakerJohnBoehner,John A. Boehner,Republican,"Boehner, John",SpeakerBoehner,1441045
 D000533,"Duncan, John J., Jr.",TN,2,Rep,"Duncan, John",CongressmanDuncan,"John J. Duncan, Jr.",Republican,"Duncan, John",RepJohnDuncanJr,5920
 G000546,"Graves, Sam",MO,6,Rep,"Graves, Sam",118514606128,Sam Graves,Republican,"Graves, Sam",RepSamGraves,12486
 H001053,"Hartzler, Vicky",MO,4,Rep,"Hartzler, Vicky",Congresswoman.Hartzler,Vicky Hartzler,Republican,"Hartzler, Vicky",RepHartzler,19441
-J000290,"Jenkins, Lynn",KS,2,Rep,"Jenkins, Lynn",replynnjenkins,Lynn Jenkins,Republican,"Jenkins, Lynn",RepLynnJenkins,23564
+J000290,"Jenkins, Lynn",KS,2,Rep,"Jenkins, Lynn",replynnjenkins,Lynn Jenkins,Republican,"Jenkins, Lynn",RepLynnJenkins,23565
 L000571,"Lummis, Cynthia M.",WY,0,Rep,"Lummis, Cynthia",152754318103332,Cynthia M. Lummis,Republican,"Lummis, Cynthia",CynthiaLummis,14150
-M001184,"Massie, Thomas",KY,4,Rep,"Massie, Thomas",RepThomasMassie,Thomas Massie,Republican,"Massie, Thomas",RepThomasMassie,45979
-M001165,"McCarthy, Kevin",CA,23,Rep,"McCarthy, Kevin",CongressmanKevinMcCarthy,Kevin McCarthy,Republican,"McCarthy, Kevin",GOPLeader,153196
-P000592,"Poe, Ted",TX,2,Rep,"Poe, Ted",106631626049851,Ted Poe,Republican,"Poe, Ted",JudgeTedPoe,31559
+M001184,"Massie, Thomas",KY,4,Rep,"Massie, Thomas",RepThomasMassie,Thomas Massie,Republican,"Massie, Thomas",RepThomasMassie,45982
+M001165,"McCarthy, Kevin",CA,23,Rep,"McCarthy, Kevin",CongressmanKevinMcCarthy,Kevin McCarthy,Republican,"McCarthy, Kevin",GOPLeader,153197
+P000592,"Poe, Ted",TX,2,Rep,"Poe, Ted",106631626049851,Ted Poe,Republican,"Poe, Ted",JudgeTedPoe,31560
 R000591,"Roby, Martha",AL,2,Rep,"Roby, Martha",Representative.Martha.Roby,Martha Roby,Republican,"Roby, Martha",RepMarthaRoby,29289
-S001189,"Scott, Austin",GA,8,Rep,"Scott, Austin",RepAustinScott,Austin Scott,Republican,"Scott, Austin",AustinScottGA08,17038
-G000289,"Goodlatte, Bob",VA,6,Rep,"Goodlatte, Bob",BobGoodlatte,Bob Goodlatte,Republican,"Goodlatte, Bob",RepGoodlatte,52162
+S001189,"Scott, Austin",GA,8,Rep,"Scott, Austin",RepAustinScott,Austin Scott,Republican,"Scott, Austin",AustinScottGA08,17039
+G000289,"Goodlatte, Bob",VA,6,Rep,"Goodlatte, Bob",BobGoodlatte,Bob Goodlatte,Republican,"Goodlatte, Bob",RepGoodlatte,52163
 A000369,"Amodei, Mark E.",NV,2,Rep,"Amodei, Mark",MarkAmodeiNV2,Mark E. Amodei,Republican,"Amodei, Mark",MarkAmodeiNV2,12027
-C001076,"Chaffetz, Jason",UT,3,Rep,"Chaffetz, Jason",CongressmanJasonChaffetz,Jason Chaffetz,Republican,"Chaffetz, Jason",JasonInTheHouse,411793
-D000191,"DeFazio, Peter A.",OR,4,Rep,"DeFazio, Peter",RepPeterDeFazio,Peter A. DeFazio,Democrat,"DeFazio, Peter",RepPeterDeFazio,24936
+C001076,"Chaffetz, Jason",UT,3,Rep,"Chaffetz, Jason",CongressmanJasonChaffetz,Jason Chaffetz,Republican,"Chaffetz, Jason",JasonInTheHouse,411787
+D000191,"DeFazio, Peter A.",OR,4,Rep,"DeFazio, Peter",RepPeterDeFazio,Peter A. DeFazio,Democrat,"DeFazio, Peter",RepPeterDeFazio,24937
 F000460,"Farenthold, Blake",TX,27,Rep,"Farenthold, Blake",BlakeFarenthold,Blake Farenthold,Republican,"Farenthold, Blake",Farenthold,-1
 F000458,"Fincher, Stephen Lee",TN,8,Rep,"Fincher, Stephen Lee",,,,,,-1
 F000445,"Forbes, J. Randy",VA,4,Rep,"Forbes, Randy",,,,,,-1
 H001065,"Holding, George",NC,13,Rep,"Holding, George",CongressmanGeorgeHolding,George Holding,Republican,"Holding, George",RepHolding,13301
 H001034,"Honda, Michael M.",CA,17,Rep,"Honda, Michael",RepMikeHonda,Michael M. Honda,Democrat,"Honda, Michael",RepMikeHonda,24331
-I000056,"Issa, Darrell E.",CA,49,Rep,"Issa, Darrell",darrellissa,Darrell E. Issa,Republican,"Issa, Darrell",DarrellIssa,294109
+I000056,"Issa, Darrell E.",CA,49,Rep,"Issa, Darrell",darrellissa,Darrell E. Issa,Republican,"Issa, Darrell",DarrellIssa,294104
 J000294,"Jeffries, Hakeem S.",NY,8,Rep,"Jeffries, Hakeem",RepHakeemJeffries,Hakeem S. Jeffries,Democrat,"Jeffries, Hakeem",RepJeffries,48008
-L000560,"Larsen, Rick",WA,2,Rep,"Larsen, Rick",RepRickLarsen,Rick Larsen,Democrat,"Larsen, Rick",RepRickLarsen,16924
+L000560,"Larsen, Rick",WA,2,Rep,"Larsen, Rick",RepRickLarsen,Rick Larsen,Democrat,"Larsen, Rick",RepRickLarsen,16925
 S000583,"Smith, Lamar",TX,21,Rep,"Smith, Lamar",LamarSmithTX21,Lamar Smith,Republican,"Smith, Lamar",LamarSmithTX21,25652
-S001193,"Swalwell, Eric",CA,15,Rep,"Swalwell, Eric",CongressmanEricSwalwell,Eric Swalwell,Democrat,"Swalwell, Eric",RepSwalwell,295550
+S001193,"Swalwell, Eric",CA,15,Rep,"Swalwell, Eric",CongressmanEricSwalwell,Eric Swalwell,Democrat,"Swalwell, Eric",RepSwalwell,295576
 T000460,"Thompson, Mike",CA,5,Rep,"Thompson, Mike",RepMikeThompson,Mike Thompson,Democrat,"Thompson, Mike",RepThompson,21941
 B001294,"Blum, Rod",IA,1,Rep,"Blum, Rod",congressmanrodblum,Rod Blum,Republican,"Blum, Rod",RepRodBlum,11340
 C001053,"Cole, Tom",OK,4,Rep,"Cole, Tom",TomColeOK04,Tom Cole,Republican,"Cole, Tom",TomColeOK04,18590
-D000621,"DeSantis, Ron",FL,6,Rep,"DeSantis, Ron",RepDeSantis,Ron DeSantis,Republican,"DeSantis, Ron",RepDeSantis,184752
-F000372,"Frelinghuysen, Rodney P.",NJ,11,Rep,"Frelinghuysen, Rodney",rfrelinghuysen,Rodney P. Frelinghuysen,Republican,"Frelinghuysen, Rodney",USRepRodney,13719
+D000621,"DeSantis, Ron",FL,6,Rep,"DeSantis, Ron",RepDeSantis,Ron DeSantis,Republican,"DeSantis, Ron",RepDeSantis,184780
+F000372,"Frelinghuysen, Rodney P.",NJ,11,Rep,"Frelinghuysen, Rodney",rfrelinghuysen,Rodney P. Frelinghuysen,Republican,"Frelinghuysen, Rodney",USRepRodney,13718
 M001182,"Mulvaney, Mick",SC,5,Rep,"Mulvaney, Mick",MulvaneySC5,Mick Mulvaney,Republican,"Mulvaney, Mick",RepMickMulvaney,-1
-A000370,"Adams, Alma S.",NC,12,Rep,"Adams, Alma",CongresswomanAdams,Alma S. Adams,Democrat,"Adams, Alma",RepAdams,10642
+A000370,"Adams, Alma S.",NC,12,Rep,"Adams, Alma",CongresswomanAdams,Alma S. Adams,Democrat,"Adams, Alma",RepAdams,10641
 A000371,"Aguilar, Pete",CA,31,Rep,"Aguilar, Pete",reppeteaguilar,Pete Aguilar,Democrat,"Aguilar, Pete",reppeteaguilar,8157
-B001270,"Bass, Karen",CA,37,Rep,"Bass, Karen",RepKarenBass,Karen Bass,Democrat,"Bass, Karen",RepKarenBass,83557
-B001281,"Beatty, Joyce",OH,3,Rep,"Beatty, Joyce",RepJoyceBeatty,Joyce Beatty,Democrat,"Beatty, Joyce",RepBeatty,24310
+B001270,"Bass, Karen",CA,37,Rep,"Bass, Karen",RepKarenBass,Karen Bass,Democrat,"Bass, Karen",RepKarenBass,83564
+B001281,"Beatty, Joyce",OH,3,Rep,"Beatty, Joyce",RepJoyceBeatty,Joyce Beatty,Democrat,"Beatty, Joyce",RepBeatty,24309
 B000287,"Becerra, Xavier",CA,34,Rep,"Becerra, Xavier",XavierBecerra,Xavier Becerra,Democrat,"Becerra, Xavier",RepBecerra,45
 B001292,"Beyer, Donald S., Jr.",VA,8,Rep,"Beyer, Donald",repdonbeyer,"Donald S. Beyer, Jr.",Democrat,"Beyer, Donald",repdonbeyer,59433
-B000490,"Bishop, Sanford D., Jr.",GA,2,Rep,"Bishop, Sanford",sanfordbishop,"Sanford D. Bishop, Jr.",Democrat,"Bishop, Sanford",SanfordBishop,16775
+B000490,"Bishop, Sanford D., Jr.",GA,2,Rep,"Bishop, Sanford",sanfordbishop,"Sanford D. Bishop, Jr.",Democrat,"Bishop, Sanford",SanfordBishop,16774
 B000574,"Blumenauer, Earl",OR,3,Rep,"Blumenauer, Earl",,Earl Blumenauer,Democrat,"Blumenauer, Earl",BlumenauerMedia,3087
 C001083,"Carney, John C., Jr.",DE,0,Rep,"Carney, John",JohnCarneyDE,John C. Carney Jr.,Democrat,"Carney, John",JohnCarneyde,22038
 C001072,"Carson, Andre",IN,7,Rep,"Carson, Andre",,,,,,-1
 C001049,"Clay, Wm. Lacy",MO,1,Rep,"Clay, Wm. Lacy",,,,,,-1
-C000537,"Clyburn, James E.",SC,6,Rep,"Clyburn, James",jameseclyburn,James E. Clyburn,Democrat,"Clyburn, James",Clyburn,56850
+C000537,"Clyburn, James E.",SC,6,Rep,"Clyburn, James",jameseclyburn,James E. Clyburn,Democrat,"Clyburn, James",Clyburn,56851
 C001078,"Connolly, Gerald E.",VA,11,Rep,"Connolly, Gerald",CongressmanGerryConnolly,Gerald E. Connolly,Democrat,"Connolly, Gerald",GerryConnolly,42793
-C000714,"Conyers, John, Jr.",MI,13,Rep,"Conyers, John",CongressmanConyers,"John Conyers, Jr.",Democrat,"Conyers, John",RepJohnConyers,43698
-C001038,"Crowley, Joseph",NY,14,Rep,"Crowley, Joseph",repjoecrowley,Joseph Crowley,Democrat,"Crowley, Joseph",RepJoeCrowley,29675
-C001063,"Cuellar, Henry",TX,28,Rep,"Cuellar, Henry",152569121550,Henry Cuellar,Democrat,"Cuellar, Henry",RepCuellar,21158
-C000984,"Cummings, Elijah E.",MD,7,Rep,"Cummings, Elijah",elijahcummings,Elijah E. Cummings,Democrat,"Cummings, Elijah",RepCummings,200863
-D000096,"Davis, Danny K.",IL,7,Rep,"Davis, Danny",CongressmanDKDavis,Danny K. Davis,Democrat,"Davis, Danny",RepDannyDavis,9691
-D000216,"DeLauro, Rosa L.",CT,3,Rep,"DeLauro, Rosa",CongresswomanRosaDeLauro,Rosa L. DeLauro,Democrat,"DeLauro, Rosa",RosaDeLauro,35070
-D000610,"Deutch, Theodore E.",FL,21,Rep,"Deutch, Theodore",CongressmanTedDeutch,Theodore E. Deutch,Democrat,"Deutch, Theodore",RepTedDeutch,42929
+C000714,"Conyers, John, Jr.",MI,13,Rep,"Conyers, John",CongressmanConyers,"John Conyers, Jr.",Democrat,"Conyers, John",RepJohnConyers,43697
+C001038,"Crowley, Joseph",NY,14,Rep,"Crowley, Joseph",repjoecrowley,Joseph Crowley,Democrat,"Crowley, Joseph",RepJoeCrowley,29674
+C001063,"Cuellar, Henry",TX,28,Rep,"Cuellar, Henry",152569121550,Henry Cuellar,Democrat,"Cuellar, Henry",RepCuellar,21160
+C000984,"Cummings, Elijah E.",MD,7,Rep,"Cummings, Elijah",elijahcummings,Elijah E. Cummings,Democrat,"Cummings, Elijah",RepCummings,200864
+D000096,"Davis, Danny K.",IL,7,Rep,"Davis, Danny",CongressmanDKDavis,Danny K. Davis,Democrat,"Davis, Danny",RepDannyDavis,9692
+D000216,"DeLauro, Rosa L.",CT,3,Rep,"DeLauro, Rosa",CongresswomanRosaDeLauro,Rosa L. DeLauro,Democrat,"DeLauro, Rosa",RosaDeLauro,35069
+D000610,"Deutch, Theodore E.",FL,21,Rep,"Deutch, Theodore",CongressmanTedDeutch,Theodore E. Deutch,Democrat,"Deutch, Theodore",RepTedDeutch,42934
 D000399,"Doggett, Lloyd",TX,35,Rep,"Doggett, Lloyd",lloyddoggett,Lloyd Doggett,Democrat,"Doggett, Lloyd",RepLloydDoggett,29380
-E000293,"Esty, Elizabeth H.",CT,5,Rep,"Esty, Elizabeth",RepEsty,Elizabeth H. Esty,Democrat,"Esty, Elizabeth",RepEsty,22533
-F000454,"Foster, Bill",IL,11,Rep,"Foster, Bill",CongressmanBillFoster,Bill Foster,Democrat,"Foster, Bill",RepBillFoster,48453
-G000571,"Gabbard, Tulsi",HI,2,Rep,"Gabbard, Tulsi",RepTulsiGabbard,Tulsi Gabbard,Democrat,"Gabbard, Tulsi",TulsiPress,97411
+E000293,"Esty, Elizabeth H.",CT,5,Rep,"Esty, Elizabeth",RepEsty,Elizabeth H. Esty,Democrat,"Esty, Elizabeth",RepEsty,22532
+F000454,"Foster, Bill",IL,11,Rep,"Foster, Bill",CongressmanBillFoster,Bill Foster,Democrat,"Foster, Bill",RepBillFoster,48467
+G000571,"Gabbard, Tulsi",HI,2,Rep,"Gabbard, Tulsi",RepTulsiGabbard,Tulsi Gabbard,Democrat,"Gabbard, Tulsi",TulsiPress,97403
 G000574,"Gallego, Ruben",AZ,7,Rep,"Gallego, Ruben",RepRubenGallego,Ruben Gallego,Democrat,"Gallego, Ruben",RepRubenGallego,76764
 G000575,"Graham, Gwen",FL,2,Rep,"Graham, Gwen",repgwengraham,Gwen Graham,Democrat,"Graham, Gwen",RepGwenGraham,-1
 G000556,"Grayson, Alan",FL,9,Rep,"Grayson, Alan",,Alan Grayson,Democrat,"Grayson, Alan",,-1
-G000553,"Green, Al",TX,9,Rep,"Green, Al",repalgreen,Al Green,Democrat,"Green, Al",RepAlGreen,48608
+G000553,"Green, Al",TX,9,Rep,"Green, Al",repalgreen,Al Green,Democrat,"Green, Al",RepAlGreen,48609
 G000551,"Grijalva, Raul M.",AZ,3,Rep,"Grijalva, Raul",,,,,,-1
-H001047,"Himes, James A.",CT,4,Rep,"Himes, James",CongressmanJimHimes,James A. Himes,Democrat,"Himes, James",JAHimes,73143
+H001047,"Himes, James A.",CT,4,Rep,"Himes, James",CongressmanJimHimes,James A. Himes,Democrat,"Himes, James",JAHimes,73144
 L000480,"Lowey, Nita M.",NY,17,Rep,"Lowey, Nita",RepLowey,Nita M. Lowey,Democrat,"Lowey, Nita",NitaLowey,25318
 L000580,"Lujan Grisham, Michelle",NM,1,Rep,"Lujan Grisham, Michelle",RepLujanGrisham,Michelle Lujan Grisham,Democrat,"Lujan Grisham, Michelle",RepLujanGrisham,25726
 L000562,"Lynch, Stephen F.",MA,8,Rep,"Lynch, Stephen",repstephenlynch,Stephen F. Lynch,Democrat,"Lynch, Stephen",RepStephenLynch,16320
@@ -329,115 +329,119 @@ M001191,"Murphy, Patrick",FL,18,Rep,"Murphy, Patrick",CongressmanPatrickMurphy,P
 N000179,"Napolitano, Grace F.",CA,32,Rep,"Napolitano, Grace",RepGraceNapolitano,Grace F. Napolitano,Democrat,"Napolitano, Grace",GraceNapolitano,28590
 N000015,"Neal, Richard E.",MA,1,Rep,"Neal, Richard",reprichardneal,Richard E. Neal,Democrat,"Neal, Richard",RepRichardNeal,14719
 N000188,"Norcross, Donald",NJ,1,Rep,"Norcross, Donald",DonaldNorcrossNJ,Donald Norcross,Democrat,"Norcross, Donald",DonaldNorcross,9103
-P000096,"Pascrell, Bill, Jr.",NJ,9,Rep,"Pascrell, Bill",pascrell,"Bill Pascrell, Jr.",Democrat,"Pascrell, Bill",BillPascrell,31462
-P000197,"Pelosi, Nancy",CA,12,Rep,"Pelosi, Nancy",NancyPelosi,Nancy Pelosi,Democrat,"Pelosi, Nancy",NancyPelosi,1581541
-P000597,"Pingree, Chellie",ME,1,Rep,"Pingree, Chellie",ChelliePingree,Chellie Pingree,Democrat,"Pingree, Chellie",ChelliePingree,22724
+P000096,"Pascrell, Bill, Jr.",NJ,9,Rep,"Pascrell, Bill",pascrell,"Bill Pascrell, Jr.",Democrat,"Pascrell, Bill",BillPascrell,31463
+P000197,"Pelosi, Nancy",CA,12,Rep,"Pelosi, Nancy",NancyPelosi,Nancy Pelosi,Democrat,"Pelosi, Nancy",NancyPelosi,1581518
+P000597,"Pingree, Chellie",ME,1,Rep,"Pingree, Chellie",ChelliePingree,Chellie Pingree,Democrat,"Pingree, Chellie",ChelliePingree,22725
 P000610,"Plaskett, Stacey E.",VI,0,Rep,"Plaskett, Stacey",repstaceyplaskett,Stacey E. Plaskett,Democrat,"Plaskett, Stacey",staceyplaskett,5278
 P000523,"Price, David E.",NC,4,Rep,"Price, David",RepDavidEPrice,David E. Price,Democrat,"Price, David",RepDavidEPrice,22859
 R000588,"Richmond, Cedric L.",LA,2,Rep,"Richmond, Cedric",RepRichmond,Cedric L. Richmond,Democrat,"Richmond, Cedric",RepRichmond,25216
-R000599,"Ruiz, Raul",CA,36,Rep,"Ruiz, Raul",CongressmanRaulRuizMD,Raul Ruiz,Democrat,"Ruiz, Raul",CongressmanRuiz,18981
+R000599,"Ruiz, Raul",CA,36,Rep,"Ruiz, Raul",CongressmanRaulRuizMD,Raul Ruiz,Democrat,"Ruiz, Raul",CongressmanRuiz,18980
 S001177,"Sablan, Gregorio Kilili Camacho",MP,0,Rep,"Sablan, Gregorio Kilili Camacho",,,,,,-1
 S001156,"Sanchez, Linda T.",CA,38,Rep,"Sanchez, Linda",,,,,,-1
 S000030,"Sanchez, Loretta",CA,46,Rep,"Sanchez, Loretta",LorettaSanchez,Loretta Sanchez,Democrat,"Sanchez, Loretta",LorettaSanchez,19292
-S001150,"Schiff, Adam B.",CA,28,Rep,"Schiff, Adam",RepAdamSchiff,Adam B. Schiff,Democrat,"Schiff, Adam",RepAdamSchiff,913595
+S001150,"Schiff, Adam B.",CA,28,Rep,"Schiff, Adam",RepAdamSchiff,Adam B. Schiff,Democrat,"Schiff, Adam",RepAdamSchiff,913611
 S000185,"Scott, Robert C. ""Bobby""",VA,3,Rep,"Scott, Robert",RepBobbyScott,"Robert C. ""Bobby"" Scott",Democrat,"Scott, Robert",BobbyScott,27060
 S000248,"Serrano, Jose E.",NY,15,Rep,"Serrano, Jose",,,,,,-1
 S001185,"Sewell, Terri A.",AL,7,Rep,"Sewell, Terri",RepSewell,Terri A. Sewell,Democrat,"Sewell, Terri",RepTerriSewell,30149
-S000344,"Sherman, Brad",CA,30,Rep,"Sherman, Brad",63158229861,Brad Sherman,Democrat,"Sherman, Brad",BradSherman,37383
+S000344,"Sherman, Brad",CA,30,Rep,"Sherman, Brad",63158229861,Brad Sherman,Democrat,"Sherman, Brad",BradSherman,37382
 S000480,"Slaughter, Louise McIntosh",NY,25,Rep,"Slaughter, Louise McIntosh",,,,,,-1
 S000510,"Smith, Adam",WA,9,Rep,"Smith, Adam",RepAdamSmith,Adam Smith,Democrat,"Smith, Adam",RepAdamSmith,27794
 T000193,"Thompson, Bennie G.",MS,2,Rep,"Thompson, Bennie",CongressmanBennieGThompson,Bennie G. Thompson,Democrat,"Thompson, Bennie",BennieGThompson,8922
-T000468,"Titus, Dina",NV,1,Rep,"Titus, Dina",CongresswomanTitus,Dina Titus,Democrat,"Titus, Dina",RepDinaTitus,31829
+T000468,"Titus, Dina",NV,1,Rep,"Titus, Dina",CongresswomanTitus,Dina Titus,Democrat,"Titus, Dina",RepDinaTitus,31828
 T000465,"Tsongas, Niki",MA,3,Rep,"Tsongas, Niki",RepTsongas,Niki Tsongas,Democrat,"Tsongas, Niki",NikiInTheHouse,21251
 V000132,"Vela, Filemon",TX,34,Rep,"Vela, Filemon",USCongressmanFilemonVela,Filemon Vela,Democrat,"Vela, Filemon",RepFilemonVela,12496
-V000108,"Visclosky, Peter J.",IN,1,Rep,"Visclosky, Peter",repvisclosky,Peter J. Visclosky,Democrat,"Visclosky, Peter",RepVisclosky,12100
+V000108,"Visclosky, Peter J.",IN,1,Rep,"Visclosky, Peter",repvisclosky,Peter J. Visclosky,Democrat,"Visclosky, Peter",RepVisclosky,12101
 W000822,"Watson Coleman, Bonnie",NJ,12,Rep,"Watson Coleman, Bonnie",RepBonnie,Bonnie Watson Coleman,Democrat,"Watson Coleman, Bonnie",RepBonnie,12190
-C000754,"Cooper, Jim",TN,5,Rep,"Cooper, Jim",JimCooper,Jim Cooper,Democrat,"Cooper, Jim",RepJimCooper,21373
-J000255,"Jones, Walter B., Jr.",NC,3,Rep,"Jones, Walter",15083070102,Walter B. Jones,Republican,"Jones, Walter",RepWalterJones,23448
+C000754,"Cooper, Jim",TN,5,Rep,"Cooper, Jim",JimCooper,Jim Cooper,Democrat,"Cooper, Jim",RepJimCooper,21374
+J000255,"Jones, Walter B., Jr.",NC,3,Rep,"Jones, Walter",15083070102,Walter B. Jones,Republican,"Jones, Walter",RepWalterJones,23446
 S000244,"Sensenbrenner, F. James, Jr.",WI,5,Rep,"Sensenbrenner, James",,,,,,-1
-B001283,"Bridenstine, Jim",OK,1,Rep,"Bridenstine, Jim",CongressmanJimBridenstine,Jim Bridenstine,Republican,"Bridenstine, Jim",RepJBridenstine,22834
+B001283,"Bridenstine, Jim",OK,1,Rep,"Bridenstine, Jim",CongressmanJimBridenstine,Jim Bridenstine,Republican,"Bridenstine, Jim",RepJBridenstine,22837
 G000576,"Grothman, Glenn",WI,6,Rep,"Grothman, Glenn",RepGrothman,Glenn Grothman,Republican,"Grothman, Glenn",RepGrothman,5080
-J000289,"Jordan, Jim",OH,4,Rep,"Jordan, Jim",repjimjordan,Jim Jordan,Republican,"Jordan, Jim",Jim_Jordan,162228
+J000289,"Jordan, Jim",OH,4,Rep,"Jordan, Jim",repjimjordan,Jim Jordan,Republican,"Jordan, Jim",Jim_Jordan,162235
 N000185,"Nugent, Richard B.",FL,11,Rep,"Nugent, Richard",RepRichNugent,Richard B. Nugent,Republican,"Nugent, Richard",RepRichNugent,3379
 P000599,"Posey, Bill",FL,8,Rep,"Posey, Bill",bill.posey15,Bill Posey,Republican,"Posey, Bill",CongBillPosey,19782
-R000587,"Ribble, Reid J.",WI,8,Rep,"Ribble, Reid",CongressmanReidRibble,Reid J. Ribble,Republican,"Ribble, Reid",RepRibble,10766
+R000587,"Ribble, Reid J.",WI,8,Rep,"Ribble, Reid",CongressmanReidRibble,Reid J. Ribble,Republican,"Ribble, Reid",RepRibble,10767
 S001172,"Smith, Adrian",NE,3,Rep,"Smith, Adrian",,Adrian Smith,Republican,"Smith, Adrian",RepAdrianSmith,10334
 B001282,"Barr, Andy",KY,6,Rep,"Barr, Andy",,,,,,-1
 B001290,"Brat, Dave",VA,7,Rep,"Brat, Dave",,,,,,-1
-B001274,"Brooks, Mo",AL,5,Rep,"Brooks, Mo",RepMoBrooks,Mo Brooks,Republican,"Brooks, Mo",RepMoBrooks,26086
+B001274,"Brooks, Mo",AL,5,Rep,"Brooks, Mo",RepMoBrooks,Mo Brooks,Republican,"Brooks, Mo",RepMoBrooks,26085
 C001102,"Clawson, Curt",FL,19,Rep,"Clawson, Curt",,,,,,-1
 C001087,"Crawford, Eric A. ""Rick""",AR,1,Rep,"Crawford, Eric",RepRickCrawford,"Eric A. ""Rick"" Crawford",Republican,"Crawford, Eric",RepRickCrawford,16004
-D000614,"Duffy, Sean P.",WI,7,Rep,"Duffy, Sean",RepSeanDuffy,Sean P. Duffy,Republican,"Duffy, Sean",RepSeanDuffy,33069
-E000294,"Emmer, Tom",MN,6,Rep,"Emmer, Tom",reptomemmer,Tom Emmer,Republican,"Emmer, Tom",RepTomEmmer,10301
-F000459,"Fleischmann, Charles J. ""Chuck""",TN,3,Rep,"Fleischmann, Charles",repchuck,"Charles J. ""Chuck"" Fleischmann",Republican,"Fleischmann, Charles",RepChuck,13350
+D000614,"Duffy, Sean P.",WI,7,Rep,"Duffy, Sean",RepSeanDuffy,Sean P. Duffy,Republican,"Duffy, Sean",RepSeanDuffy,33070
+E000294,"Emmer, Tom",MN,6,Rep,"Emmer, Tom",reptomemmer,Tom Emmer,Republican,"Emmer, Tom",RepTomEmmer,10300
+F000459,"Fleischmann, Charles J. ""Chuck""",TN,3,Rep,"Fleischmann, Charles",repchuck,"Charles J. ""Chuck"" Fleischmann",Republican,"Fleischmann, Charles",RepChuck,13349
 F000448,"Franks, Trent",AZ,8,Rep,"Franks, Trent",TrentFranks,Trent Franks,Republican,"Franks, Trent",RepTrentFranks,-1
-J000296,"Jolly, David",FL,13,Rep,"Jolly, David",repdavidjolly,David W. Jolly,Republican,"Jolly, David",USRepDavidJolly,5800
-K000362,"King, Steve",IA,4,Rep,"King, Steve",stevekingia,Steve King,Republican,"King, Steve",SteveKingIA,88475
+J000296,"Jolly, David",FL,13,Rep,"Jolly, David",repdavidjolly,David W. Jolly,Republican,"Jolly, David",USRepDavidJolly,5799
+K000362,"King, Steve",IA,4,Rep,"King, Steve",stevekingia,Steve King,Republican,"King, Steve",SteveKingIA,88474
 L000564,"Lamborn, Doug",CO,5,Rep,"Lamborn, Doug",CongressmanDougLamborn,Doug Lamborn,Republican,"Lamborn, Doug",RepDLamborn,15747
 M001193,"MacArthur, Thomas",NJ,3,Rep,"MacArthur, Thomas",,,,,,-1
-M001197,"McSally, Martha",AZ,2,Rep,"McSally, Martha",RepMcSally,Martha McSally,Republican,"McSally, Martha",RepMcSally,32284
+M001197,"McSally, Martha",AZ,2,Rep,"McSally, Martha",RepMcSally,Martha McSally,Republican,"McSally, Martha",RepMcSally,32283
 M001181,"Meehan, Patrick",PA,7,Rep,"Meehan, Patrick",CongressmanPatrickMeehan,Patrick Meehan,Republican,"Meehan, Patrick",RepMeehan,18355
 M000689,"Mica, John L.",FL,7,Rep,"Mica, John",JohnMica,John L. Mica,Republican,"Mica, John",,-1
-N000182,"Neugebauer, Randy",TX,19,Rep,"Neugebauer, Randy",rep.randy.neugebauer,Randy Neugebauer,Republican,"Neugebauer, Randy",RandyNeugebauer,14347
+N000182,"Neugebauer, Randy",TX,19,Rep,"Neugebauer, Randy",rep.randy.neugebauer,Randy Neugebauer,Republican,"Neugebauer, Randy",RandyNeugebauer,14348
 N000189,"Newhouse, Dan",WA,4,Rep,"Newhouse, Dan",RepNewhouse,Dan Newhouse,Republican,"Newhouse, Dan",RepNewhouse,9487
 P000601,"Palazzo, Steven M.",MS,4,Rep,"Palazzo, Steven",stevenpalazzo,Steven M. Palazzo,Republican,"Palazzo, Steven",CongPalazzo,14105
-R000586,"Renacci, James B.",OH,16,Rep,"Renacci, James",repjimrenacci,James B. Renacci,Republican,"Renacci, James",RepJimRenacci,28367
+R000586,"Renacci, James B.",OH,16,Rep,"Renacci, James",repjimrenacci,James B. Renacci,Republican,"Renacci, James",RepJimRenacci,28365
 R000597,"Rice, Tom",SC,7,Rep,"Rice, Tom",reptomrice,Tom Rice,Republican,"Rice, Tom",RepTomRice,14642
 S001179,"Schock, Aaron",IL,18,Rep,"Schock, Aaron",RepAaronSchock,Aaron Schock,Republican,"Schock, Aaron",AaronSchock,27207
-S001195,"Smith, Jason",MO,8,Rep,"Smith, Jason",repjasonsmith,Jason Smith,Republican,"Smith, Jason",RepJasonSmith,26888
-S001192,"Stewart, Chris",UT,2,Rep,"Stewart, Chris",RepChrisStewart,Chris Stewart,Republican,"Stewart, Chris",RepChrisStewart,17930
-T000467,"Thompson, Glenn",PA,5,Rep,"Thompson, Glenn",CongressmanGT,Glenn Thompson,Republican,"Thompson, Glenn",CongressmanGT,18683
+S001195,"Smith, Jason",MO,8,Rep,"Smith, Jason",repjasonsmith,Jason Smith,Republican,"Smith, Jason",RepJasonSmith,26913
+S001192,"Stewart, Chris",UT,2,Rep,"Stewart, Chris",RepChrisStewart,Chris Stewart,Republican,"Stewart, Chris",RepChrisStewart,17928
+T000467,"Thompson, Glenn",PA,5,Rep,"Thompson, Glenn",CongressmanGT,Glenn Thompson,Republican,"Thompson, Glenn",CongressmanGT,18681
 W000796,"Westmoreland, Lynn A.",GA,3,Rep,"Westmoreland, Lynn",71389451419,Lynn A. Westmoreland,Republican,"Westmoreland, Lynn",RepWestmoreland,-1
-W000816,"Williams, Roger",TX,25,Rep,"Williams, Roger",RepRogerWilliams,Roger Williams,Republican,"Williams, Roger",RepRWilliams,9631
+W000816,"Williams, Roger",TX,25,Rep,"Williams, Roger",RepRogerWilliams,Roger Williams,Republican,"Williams, Roger",RepRWilliams,9630
 W000804,"Wittman, Robert J.",VA,1,Rep,"Wittman, Robert",RepRobWittman,Robert J. Wittman,Republican,"Wittman, Robert",RobWittman,25826
 W000810,"Woodall, Rob",GA,7,Rep,"Woodall, Rob",RepRobWoodall,Rob Woodall,Republican,"Woodall, Rob",RepRobWoodall,9262
-Y000065,"Yoho, Ted S.",FL,3,Rep,"Yoho, Ted",CongressmanTedYoho,Ted S. Yoho,Republican,"Yoho, Ted",RepTedYoho,25070
+Y000065,"Yoho, Ted S.",FL,3,Rep,"Yoho, Ted",CongressmanTedYoho,Ted S. Yoho,Republican,"Yoho, Ted",RepTedYoho,25071
 A000367,"Amash, Justin",MI,3,Rep,"Amash, Justin",repjustinamash,Justin Amash,Republican,"Amash, Justin",,-1
 B001260,"Buchanan, Vern",FL,16,Rep,"Buchanan, Vern",CongressmanBuchanan,Vern Buchanan,Republican,"Buchanan, Vern",VernBuchanan,26797
 C001103,"Carter, Earl L. ""Buddy""",GA,1,Rep,"Carter, Earl",,,,,,-1
 C001051,"Carter, John R.",TX,31,Rep,"Carter, John",judgecarter,John R. Carter,Republican,"Carter, John",JudgeCarter,14392
-D000615,"Duncan, Jeff",SC,3,Rep,"Duncan, Jeff",RepJeffDuncan,Jeff Duncan,Republican,"Duncan, Jeff",RepJeffDuncan,55896
-F000456,"Fleming, John",LA,4,Rep,"Fleming, John",repjohnfleming,John Fleming,Republican,"Fleming, John",RepFleming,13393
+D000615,"Duncan, Jeff",SC,3,Rep,"Duncan, Jeff",RepJeffDuncan,Jeff Duncan,Republican,"Duncan, Jeff",RepJeffDuncan,55897
+F000456,"Fleming, John",LA,4,Rep,"Fleming, John",repjohnfleming,John Fleming,Republican,"Fleming, John",RepFleming,13392
 G000548,"Garrett, Scott",NJ,5,Rep,"Garrett, Scott",repscottgarrett,Scott Garrett,Republican,"Garrett, Scott",RepGarrett,6603
-G000552,"Gohmert, Louie",TX,1,Rep,"Gohmert, Louie",50375006903,Louie Gohmert,Republican,"Gohmert, Louie",RepLouieGohmert,107543
-G000566,"Gowdy, Trey",SC,4,Rep,"Gowdy, Trey",RepTreyGowdy,Trey Gowdy,Republican,"Gowdy, Trey",TGowdySC,841170
+G000552,"Gohmert, Louie",TX,1,Rep,"Gohmert, Louie",50375006903,Louie Gohmert,Republican,"Gohmert, Louie",RepLouieGohmert,107539
+G000566,"Gowdy, Trey",SC,4,Rep,"Gowdy, Trey",RepTreyGowdy,Trey Gowdy,Republican,"Gowdy, Trey",TGowdySC,841155
 G000560,"Graves, Tom",GA,14,Rep,"Graves, Tom",reptomgraves,Tom Graves,Republican,"Graves, Tom",RepTomGraves,17660
 H001071,"Hice, Jody B.",GA,10,Rep,"Hice, Jody",CongressmanJodyHice,Jody B. Hice,Republican,"Hice, Jody",congressmanhice,14602
 H001057,"Huelskamp, Tim",KS,1,Rep,"Huelskamp, Tim",congressmanhuelskamp,Tim Huelskamp,Republican,"Huelskamp, Tim",CongHuelskamp,20185
 H001073,"Hurd, Will",TX,23,Rep,"Hurd, Will",HurdOnTheHill,Will Hurd,Republican,"Hurd, Will",hurdonthehill,25133
-H001060,"Hurt, Robert",VA,5,Rep,"Hurt, Robert",RepRobertHurt,Robert Hurt,Republican,"Hurt, Robert",RepRobertHurt,16652
+H001060,"Hurt, Robert",VA,5,Rep,"Hurt, Robert",RepRobertHurt,Robert Hurt,Republican,"Hurt, Robert",RepRobertHurt,16651
 J000174,"Johnson, Sam",TX,3,Rep,"Johnson, Sam",RepSamJohnson,Sam Johnson,Republican,"Johnson, Sam",SamsPressShop,10695
-K000388,"Kelly, Trent",MS,1,Rep,"Kelly, Trent",reptrentkelly,Trent Kelly,Republican,"Kelly, Trent",reptrentkelly,11503
+K000388,"Kelly, Trent",MS,1,Rep,"Kelly, Trent",reptrentkelly,Trent Kelly,Republican,"Kelly, Trent",reptrentkelly,11504
 L000573,"Labrador, Raul R.",ID,1,Rep,"Labrador, Raul",,,,,,-1
-L000585,"LaHood, Darin",IL,18,Rep,"LaHood, Darin",replahood,Darin LaHood,Republican,"LaHood, Darin",RepLaHood,9182
+L000585,"LaHood, Darin",IL,18,Rep,"LaHood, Darin",replahood,Darin LaHood,Republican,"LaHood, Darin",RepLaHood,9183
 L000583,"Loudermilk, Barry",GA,11,Rep,"Loudermilk, Barry",reploudermilk,Barry Loudermilk,Republican,"Loudermilk, Barry",RepLoudermilk,13224
-L000584,"Love, Mia B.",UT,4,Rep,"Love, Mia",repmialove,Mia B. Love,Republican,"Love, Mia",repmialove,36713
+L000584,"Love, Mia B.",UT,4,Rep,"Love, Mia",repmialove,Mia B. Love,Republican,"Love, Mia",repmialove,36723
 L000491,"Lucas, Frank D.",OK,3,Rep,"Lucas, Frank",RepFrankLucas,Frank D. Lucas,Republican,"Lucas, Frank",RepFrankLucas,13837
 N000184,"Noem, Kristi L.",SD,0,Rep,"Noem, Kristi",,Kristi L. Noem,Republican,"Noem, Kristi",RepKristiNoem,27229
 P000609,"Palmer, Gary J.",AL,6,Rep,"Palmer, Gary",CongressmanGaryPalmer,Gary J. Palmer,Republican,"Palmer, Gary",USRepGaryPalmer,13915
 P000591,"Price, Tom",GA,6,Rep,"Price, Tom",reptomprice,Tom Price,Republican,"Price, Tom",RepTomPrice,39588
 R000409,"Rohrabacher, Dana",CA,48,Rep,"Rohrabacher, Dana",RepRohrabacher,Dana Rohrabacher,Republican,"Rohrabacher, Dana",reprohrabacher,5102
 R000598,"Rothfus, Keith J.",PA,12,Rep,"Rothfus, Keith",keithrothfus,Keith J. Rothfus,Republican,"Rothfus, Keith",KeithRothfus,9707
-R000604,"Russell, Steve",OK,5,Rep,"Russell, Steve",reprussell,Steve Russell,Republican,"Russell, Steve",RepRussell,7778
+R000604,"Russell, Steve",OK,5,Rep,"Russell, Steve",reprussell,Steve Russell,Republican,"Russell, Steve",RepRussell,7779
 S000051,"Sanford, Mark",SC,1,Rep,"Sanford, Mark",,,,,,-1
-S001183,"Schweikert, David",AZ,6,Rep,"Schweikert, David",repdavidschweikert,David Schweikert,Republican,"Schweikert, David",RepDavid,22517
+S001183,"Schweikert, David",AZ,6,Rep,"Schweikert, David",repdavidschweikert,David Schweikert,Republican,"Schweikert, David",RepDavid,22516
 S001188,"Stutzman, Marlin A.",IN,3,Rep,"Stutzman, Marlin",CongressmanMarlinStutzman,Marlin A. Stutzman,Republican,"Stutzman, Marlin",RepStutzman,7981
-T000470,"Tipton, Scott  R.",CO,3,Rep,"Tipton, Scott",CongressmanScottTipton,Scott R. Tipton,Republican,"Tipton, Scott",RepTipton,18765
+T000470,"Tipton, Scott  R.",CO,3,Rep,"Tipton, Scott",CongressmanScottTipton,Scott R. Tipton,Republican,"Tipton, Scott",RepTipton,18763
 W000819,"Walker, Mark",NC,6,Rep,"Walker, Mark",RepMarkWalker,Mark Walker,Republican,"Walker, Mark",RepMarkWalker,10574
-W000814,"Weber, Randy K., Sr.",TX,14,Rep,"Weber, Randy",TXRandy14,"Randy K. Weber, Sr.",Republican,"Weber, Randy",TXRandy14,13433
-W000795,"Wilson, Joe",SC,2,Rep,"Wilson, Joe",JoeWilson,Joe Wilson,Republican,"Wilson, Joe",RepJoeWilson,11805
+W000814,"Weber, Randy K., Sr.",TX,14,Rep,"Weber, Randy",TXRandy14,"Randy K. Weber, Sr.",Republican,"Weber, Randy",TXRandy14,13434
+W000795,"Wilson, Joe",SC,2,Rep,"Wilson, Joe",JoeWilson,Joe Wilson,Republican,"Wilson, Joe",RepJoeWilson,11804
 Y000033,"Young, Don",AK,0,Rep,"Young, Don",RepDonYoung,Don Young,Republican,"Young, Don",RepDonYoung,16455
-Y000064,"Young, Todd C.",IN,9,Rep,"Young, Todd",SenatorToddYoung,Todd Young,Republican,"Young, Todd",SenToddYoung,36041
+Y000064,"Young, Todd C.",IN,9,Rep,"Young, Todd",SenatorToddYoung,Todd Young,Republican,"Young, Todd",SenToddYoung,36043
 G000377,"Granger, Kay",TX,12,Rep,"Granger, Kay",RepKayGranger,Kay Granger,Republican,"Granger, Kay",RepKayGranger,17737
 H001036,"Hensarling, Jeb",TX,5,Rep,"Hensarling, Jeb",RepHensarling,Jeb Hensarling,Republican,"Hensarling, Jeb",RepHensarling,25026
 R000583,"Rooney, Thomas J.",FL,17,Rep,"Rooney, Thomas",reptomrooney,Thomas J. Rooney,Republican,"Rooney, Thomas",TomRooney,22260
-T000238,"Thornberry, Mac",TX,13,Rep,"Thornberry, Mac",repmacthornberry,Mac Thornberry,Republican,"Thornberry, Mac",MacTXPress,12893
+T000238,"Thornberry, Mac",TX,13,Rep,"Thornberry, Mac",repmacthornberry,Mac Thornberry,Republican,"Thornberry, Mac",MacTXPress,12894
 P000258,"Peterson, Collin C.",MN,7,Rep,"Peterson, Collin",,Collin C. Peterson,Democrat,"Peterson, Collin",,-1
 R000395,"Rogers, Harold",KY,5,Rep,"Rogers, Harold",CongressmanHalRogers,Harold Rogers,Republican,"Rogers, Harold",RepHalRogers,14260
 P000611,"Poliquin, Bruce",ME,2,Rep,"Poliquin, Bruce",RepPoliquin,Bruce Poliquin,Republican,"Poliquin, Bruce",RepPoliquin,8692
-R000578,"Reichert, David G.",WA,8,Rep,"Reichert, David",repdavereichert,David G. Reichert,Republican,"Reichert, David",DaveReichert,20405
-A000055,"Aderholt, Robert B.",AL,4,Rep,"Aderholt, Robert",RobertAderholt,Robert B. Aderholt,Republican,"Aderholt, Robert",Robert_Aderholt,20699
+R000578,"Reichert, David G.",WA,8,Rep,"Reichert, David",repdavereichert,David G. Reichert,Republican,"Reichert, David",DaveReichert,20406
+A000055,"Aderholt, Robert B.",AL,4,Rep,"Aderholt, Robert",RobertAderholt,Robert B. Aderholt,Republican,"Aderholt, Robert",Robert_Aderholt,20700
 G000577,"Graves, Garret",LA,6,Rep,"Graves, Garret",CongressmanGarretGraves,Garret Graves,Republican,"Graves, Garret",RepGarretGraves,7979
 K000210,"King, Peter T.",NY,2,Rep,"King, Peter",reppeteking,Peter T. King,Republican,"King, Peter",RepPeteKing,33176
-N000181,"Nunes, Devin",CA,22,Rep,"Nunes, Devin",,Devin Nunes,Republican,"Nunes, Devin",RepDevinNunes,24081
+N000181,"Nunes, Devin",CA,22,Rep,"Nunes, Devin",,Devin Nunes,Republican,"Nunes, Devin",RepDevinNunes,24077
 N000186,"Nunnelee, Alan",MS,1,Rep,"Nunnelee, Alan",CongressmanNunnelee,Alan Nunnelee,Republican,"Nunnelee, Alan",RepAlanNunnelee,-1
+D000626,"Davidson, Warren",OH,8,Rep,"Davidson, Warren",CongressmanWarrenDavidson,Warren Davidson,Republican,"Davidson, Warren",WarrenDavidson,7574
+R000600,"Radewagen, Aumua Amata Coleman",AS,0,Rep,"Radewagen, Aumua Amata Coleman",,,,,,-1
+E000296,"Evans, Dwight",PA,2,Rep,"Evans, Dwight",RepDwightEvans,Dwight Evans,Democrat,"Evans, Dwight",RepDwightEvans,10807
+H001050,"Hanabusa, Colleen W.",HI,1,Rep,"Hanabusa, Colleen",RepColleenHanabusa,Colleen Hanabusa,Democrat,"Hanabusa, Colleen",RepHanabusa,11532
