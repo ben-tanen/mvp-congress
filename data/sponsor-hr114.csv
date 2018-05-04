@@ -1,0 +1,2650 @@
+_bill,_district,_id,_joined_at,_name,_state,_title,_type
+hr2,26,B001248,2015-03-24,"Burgess, Michael C.",TX,Rep,sponsor
+hr2,3,B001255,2015-03-24,"Boustany, Charles W., Jr.",LA,Rep,original cosponsor
+hr2,8,B000755,2015-03-24,"Brady, Kevin",TX,Rep,original cosponsor
+hr2,2,C001069,2015-03-25,"Courtney, Joe",CT,Rep,cosponsor
+hr2,29,G000410,2015-03-24,"Green, Gene",TX,Rep,original cosponsor
+hr2,3,H001055,2015-03-25,"Heck, Joseph J.",NV,Rep,cosponsor
+hr2,9,L000263,2015-03-24,"Levin, Sander M.",MI,Rep,original cosponsor
+hr2,7,M000404,2015-03-24,"McDermott, Jim",WA,Rep,original cosponsor
+hr2,6,P000034,2015-03-24,"Pallone, Frank, Jr.",NJ,Rep,original cosponsor
+hr2,7,P000593,2015-03-25,"Perlmutter, Ed",CO,Rep,cosponsor
+hr2,16,P000373,2015-03-24,"Pitts, Joseph R.",PA,Rep,original cosponsor
+hr2,1,R000570,2015-03-24,"Ryan, Paul",WI,Rep,original cosponsor
+hr2,32,S000250,2015-03-24,"Sessions, Pete",TX,Rep,original cosponsor
+hr2,6,U000031,2015-03-24,"Upton, Fred",MI,Rep,original cosponsor
+hr3,0,C001096,2015-01-06,"Cramer, Kevin",ND,Rep,sponsor
+hr3,36,B001291,2015-01-08,"Babin, Brian",TX,Rep,cosponsor
+hr3,11,B001269,2015-01-06,"Barletta, Lou",PA,Rep,original cosponsor
+hr3,11,B001269,2015-01-06,"Barletta, Lou",PA,Rep,original cosponsor
+hr3,1,B001250,2015-01-06,"Bishop, Rob",UT,Rep,original cosponsor
+hr3,1,B001250,2015-01-06,"Bishop, Rob",UT,Rep,original cosponsor
+hr3,12,B001295,2015-01-08,"Bost, Mike",IL,Rep,cosponsor
+hr3,4,B001297,2015-01-08,"Buck, Ken",CO,Rep,cosponsor
+hr3,11,C001062,2015-01-08,"Conaway, K. Michael",TX,Rep,cosponsor
+hr3,8,C001094,2015-01-09,"Cook, Paul",CA,Rep,cosponsor
+hr3,7,C001048,2015-01-08,"Culberson, John Abney",TX,Rep,cosponsor
+hr3,13,D000619,2015-01-06,"Davis, Rodney",IL,Rep,original cosponsor
+hr3,13,D000619,2015-01-06,"Davis, Rodney",IL,Rep,original cosponsor
+hr3,10,D000612,2015-01-06,"Denham, Jeff",CA,Rep,original cosponsor
+hr3,10,D000612,2015-01-06,"Denham, Jeff",CA,Rep,original cosponsor
+hr3,15,D000604,2015-01-08,"Dent, Charles W.",PA,Rep,cosponsor
+hr3,2,E000291,2015-01-08,"Ellmers, Renee L.",NC,Rep,cosponsor
+hr3,8,F000451,2015-01-06,"Fitzpatrick, Michael G.",PA,Rep,original cosponsor
+hr3,8,F000451,2015-01-06,"Fitzpatrick, Michael G.",PA,Rep,original cosponsor
+hr3,4,G000565,2015-01-06,"Gosar, Paul A.",AZ,Rep,original cosponsor
+hr3,4,G000565,2015-01-06,"Gosar, Paul A.",AZ,Rep,original cosponsor
+hr3,2,H001072,2015-01-08,"Hill, J. French",AR,Rep,cosponsor
+hr3,3,K000376,2015-01-06,"Kelly, Mike",PA,Rep,original cosponsor
+hr3,3,K000376,2015-01-06,"Kelly, Mike",PA,Rep,original cosponsor
+hr3,4,M001177,2015-01-08,"McClintock, Tom",CA,Rep,cosponsor
+hr3,10,M001150,2015-01-06,"Miller, Candice S.",MI,Rep,original cosponsor
+hr3,10,M001150,2015-01-06,"Miller, Candice S.",MI,Rep,original cosponsor
+hr3,1,M001144,2015-01-06,"Miller, Jeff",FL,Rep,original cosponsor
+hr3,1,M001144,2015-01-06,"Miller, Jeff",FL,Rep,original cosponsor
+hr3,4,M001194,2015-01-08,"Moolenaar, John R.",MI,Rep,cosponsor
+hr3,2,M001195,2015-01-08,"Mooney, Alexander X.",WV,Rep,cosponsor
+hr3,2,M001190,2015-01-06,"Mullin, Markwayne",OK,Rep,original cosponsor
+hr3,2,M001190,2015-01-06,"Mullin, Markwayne",OK,Rep,original cosponsor
+hr3,2,P000588,2015-01-06,"Pearce, Stevan",NM,Rep,original cosponsor
+hr3,2,P000588,2015-01-06,"Pearce, Stevan",NM,Rep,original cosponsor
+hr3,4,R000601,2015-01-06,"Ratcliffe, John",TX,Rep,original cosponsor
+hr3,4,R000601,2015-01-06,"Ratcliffe, John",TX,Rep,original cosponsor
+hr3,7,R000603,2015-01-06,"Rouzer, David",NC,Rep,original cosponsor
+hr3,7,R000603,2015-01-06,"Rouzer, David",NC,Rep,original cosponsor
+hr3,32,S000250,2015-01-06,"Sessions, Pete",TX,Rep,original cosponsor
+hr3,32,S000250,2015-01-06,"Sessions, Pete",TX,Rep,original cosponsor
+hr3,9,S001154,2015-01-06,"Shuster, Bill",PA,Rep,original cosponsor
+hr3,9,S001154,2015-01-06,"Shuster, Bill",PA,Rep,original cosponsor
+hr3,6,U000031,2015-01-06,"Upton, Fred",MI,Rep,original cosponsor
+hr3,6,U000031,2015-01-06,"Upton, Fred",MI,Rep,original cosponsor
+hr3,4,W000821,2015-01-06,"Westerman, Bruce",AR,Rep,original cosponsor
+hr3,4,W000821,2015-01-06,"Westerman, Bruce",AR,Rep,original cosponsor
+hr3,0,Z000018,2015-01-06,"Zinke, Ryan K.",MT,Rep,original cosponsor
+hr3,0,Z000018,2015-01-06,"Zinke, Ryan K.",MT,Rep,original cosponsor
+hr5,2,K000363,2015-02-03,"Kline, John",MN,Rep,sponsor
+hr5,12,A000372,2015-02-20,"Allen, Rick W.",GA,Rep,cosponsor
+hr5,1,B001289,2015-02-20,"Byrne, Bradley",AL,Rep,cosponsor
+hr5,26,C001107,2015-02-20,"Curbelo, Carlos",FL,Rep,cosponsor
+hr5,5,F000450,2015-02-20,"Foxx, Virginia",NC,Rep,cosponsor
+hr5,2,G000558,2015-02-20,"Guthrie, Brett",KY,Rep,cosponsor
+hr5,3,H001055,2015-02-20,"Heck, Joseph J.",NV,Rep,cosponsor
+hr5,50,H001048,2015-02-20,"Hunter, Duncan D.",CA,Rep,cosponsor
+hr5,6,M001189,2015-02-20,"Messer, Luke",IN,Rep,cosponsor
+hr5,1,R000582,2015-02-20,"Roe, David P.",TN,Rep,cosponsor
+hr5,4,R000592,2015-02-03,"Rokita, Todd",IN,Rep,original cosponsor
+hr5,32,S000250,2015-02-20,"Sessions, Pete",TX,Rep,cosponsor
+hr6,6,U000031,2015-05-19,"Upton, Fred",MI,Rep,sponsor
+hr6,12,A000372,2015-06-02,"Allen, Rick W.",GA,Rep,cosponsor
+hr6,2,A000373,2015-06-17,"Ashford, Brad",NE,Rep,cosponsor
+hr6,11,B001269,2015-06-15,"Barletta, Lou",PA,Rep,cosponsor
+hr6,6,B000213,2015-05-22,"Barton, Joe",TX,Rep,cosponsor
+hr6,1,B001271,2015-06-04,"Benishek, Dan",MI,Rep,cosponsor
+hr6,7,B001287,2015-06-15,"Bera, Ami",CA,Rep,cosponsor
+hr6,12,B001257,2015-05-22,"Bilirakis, Gus M.",FL,Rep,cosponsor
+hr6,8,B001293,2015-06-09,"Bishop, Mike",MI,Rep,cosponsor
+hr6,7,B001243,2015-05-22,"Blackburn, Marsha",TN,Rep,cosponsor
+hr6,1,B001278,2015-06-24,"Bonamici, Suzanne",OR,Rep,cosponsor
+hr6,0,B001245,2015-06-18,"Bordallo, Madeleine Z.",GU,Rep,cosponsor
+hr6,12,B001295,2015-06-16,"Bost, Mike",IL,Rep,cosponsor
+hr6,13,B001296,2015-06-23,"Boyle, Brendan F.",PA,Rep,cosponsor
+hr6,1,B001227,2015-06-25,"Brady, Robert A.",PA,Rep,cosponsor
+hr6,5,B001284,2015-05-22,"Brooks, Susan W.",IN,Rep,cosponsor
+hr6,5,B000911,2015-06-25,"Brown, Corrine",FL,Rep,cosponsor
+hr6,26,B001285,2015-06-01,"Brownley, Julia",CA,Rep,cosponsor
+hr6,8,B001275,2015-05-22,"Bucshon, Larry",IN,Rep,cosponsor
+hr6,26,B001248,2015-05-22,"Burgess, Michael C.",TX,Rep,cosponsor
+hr6,17,B001286,2015-06-01,"Bustos, Cheri",IL,Rep,cosponsor
+hr6,1,B001251,2015-05-22,"Butterfield, G. K.",NC,Rep,cosponsor
+hr6,42,C000059,2015-06-25,"Calvert, Ken",CA,Rep,cosponsor
+hr6,24,C001036,2015-06-09,"Capps, Lois",CA,Rep,cosponsor
+hr6,7,C001037,2015-06-23,"Capuano, Michael E.",MA,Rep,cosponsor
+hr6,29,C001097,2015-06-09,"Cardenas, Tony",CA,Rep,cosponsor
+hr6,17,C001090,2015-06-17,"Cartwright, Matt",PA,Rep,cosponsor
+hr6,14,C001066,2015-05-22,"Castor, Kathy",FL,Rep,cosponsor
+hr6,20,C001091,2015-06-01,"Castro, Joaquin",TX,Rep,cosponsor
+hr6,1,C000266,2015-06-24,"Chabot, Steve",OH,Rep,cosponsor
+hr6,27,C001080,2015-06-25,"Chu, Judy",CA,Rep,cosponsor
+hr6,1,C001084,2015-06-24,"Cicilline, David N.",RI,Rep,cosponsor
+hr6,5,C001101,2015-06-16,"Clark, Katherine M.",MA,Rep,cosponsor
+hr6,9,C001067,2015-05-22,"Clarke, Yvette D.",NY,Rep,cosponsor
+hr6,5,C001061,2015-06-24,"Cleaver, Emanuel",MO,Rep,cosponsor
+hr6,6,C001077,2015-06-11,"Coffman, Mike",CO,Rep,cosponsor
+hr6,9,C001068,2015-05-22,"Cohen, Steve",TN,Rep,cosponsor
+hr6,27,C001092,2015-06-02,"Collins, Chris",NY,Rep,cosponsor
+hr6,9,C001093,2015-06-24,"Collins, Doug",GA,Rep,cosponsor
+hr6,10,C001105,2015-05-22,"Comstock, Barbara",VA,Rep,cosponsor
+hr6,11,C001062,2015-06-23,"Conaway, K. Michael",TX,Rep,cosponsor
+hr6,8,C001094,2015-06-24,"Cook, Paul",CA,Rep,cosponsor
+hr6,16,C001059,2015-06-01,"Costa, Jim",CA,Rep,cosponsor
+hr6,6,C001106,2015-06-11,"Costello, Ryan A.",PA,Rep,cosponsor
+hr6,2,C001069,2015-05-22,"Courtney, Joe",CT,Rep,cosponsor
+hr6,0,C001096,2015-05-22,"Cramer, Kevin",ND,Rep,cosponsor
+hr6,4,C001045,2015-06-18,"Crenshaw, Ander",FL,Rep,cosponsor
+hr6,26,C001107,2015-06-09,"Curbelo, Carlos",FL,Rep,cosponsor
+hr6,13,D000619,2015-06-01,"Davis, Rodney",IL,Rep,cosponsor
+hr6,53,D000598,2015-06-25,"Davis, Susan A.",CA,Rep,cosponsor
+hr6,1,D000197,2015-05-19,"DeGette, Diana",CO,Rep,original cosponsor
+hr6,6,D000620,2015-06-25,"Delaney, John K.",MD,Rep,cosponsor
+hr6,1,D000617,2015-06-24,"DelBene, Suzan K.",WA,Rep,cosponsor
+hr6,10,D000612,2015-06-15,"Denham, Jeff",CA,Rep,cosponsor
+hr6,15,D000604,2015-06-09,"Dent, Charles W.",PA,Rep,cosponsor
+hr6,11,D000623,2015-05-22,"DeSaulnier, Mark",CA,Rep,cosponsor
+hr6,4,D000616,2015-06-23,"DesJarlais, Scott",TN,Rep,cosponsor
+hr6,25,D000600,2015-06-23,"Diaz-Balart, Mario",FL,Rep,cosponsor
+hr6,12,D000624,2015-05-22,"Dingell, Debbie",MI,Rep,cosponsor
+hr6,10,D000613,2015-06-11,"Dold, Robert J.",IL,Rep,cosponsor
+hr6,11,D000625,2015-06-18,"Donovan, Daniel M., Jr.",NY,Rep,cosponsor
+hr6,14,D000482,2015-05-22,"Doyle, Michael F.",PA,Rep,cosponsor
+hr6,8,D000622,2015-06-25,"Duckworth, Tammy",IL,Rep,cosponsor
+hr6,4,E000290,2015-06-17,"Edwards, Donna F.",MD,Rep,cosponsor
+hr6,5,E000288,2015-06-18,"Ellison, Keith",MN,Rep,cosponsor
+hr6,2,E000291,2015-05-22,"Ellmers, Renee L.",NC,Rep,cosponsor
+hr6,16,E000179,2015-05-22,"Engel, Eliot L.",NY,Rep,cosponsor
+hr6,18,E000215,2015-05-22,"Eshoo, Anna G.",CA,Rep,cosponsor
+hr6,20,F000030,2015-06-25,"Farr, Sam",CA,Rep,cosponsor
+hr6,2,F000043,2015-05-22,"Fattah, Chaka",PA,Rep,cosponsor
+hr6,17,F000461,2015-06-01,"Flores, Bill",TX,Rep,cosponsor
+hr6,1,F000449,2015-06-17,"Fortenberry, Jeff",NE,Rep,cosponsor
+hr6,22,F000462,2015-06-01,"Frankel, Lois",FL,Rep,cosponsor
+hr6,11,F000455,2015-06-18,"Fudge, Marcia L.",OH,Rep,cosponsor
+hr6,3,G000559,2015-06-15,"Garamendi, John",CA,Rep,cosponsor
+hr6,7,G000563,2015-06-23,"Gibbs, Bob",OH,Rep,cosponsor
+hr6,19,G000564,2015-06-01,"Gibson, Christopher P.",NY,Rep,cosponsor
+hr6,29,G000410,2015-05-19,"Green, Gene",TX,Rep,original cosponsor
+hr6,9,G000568,2015-05-22,"Griffith, H. Morgan",VA,Rep,cosponsor
+hr6,1,G000570,2015-06-23,"Guinta, Frank C.",NH,Rep,cosponsor
+hr6,2,G000558,2015-05-22,"Guthrie, Brett",KY,Rep,cosponsor
+hr6,4,G000535,2015-06-11,"Gutierrez, Luis V.",IL,Rep,cosponsor
+hr6,44,H001063,2015-06-24,"Hahn, Janice",CA,Rep,cosponsor
+hr6,22,H001051,2015-05-22,"Hanna, Richard L.",NY,Rep,cosponsor
+hr6,4,H001070,2015-06-15,"Hardy, Cresent",NV,Rep,cosponsor
+hr6,3,H001045,2015-06-02,"Harper, Gregg",MS,Rep,cosponsor
+hr6,1,H001052,2015-05-22,"Harris, Andy",MD,Rep,cosponsor
+hr6,20,H000324,2015-06-18,"Hastings, Alcee L.",FL,Rep,cosponsor
+hr6,10,H001064,2015-06-15,"Heck, Denny",WA,Rep,cosponsor
+hr6,3,H001055,2015-06-03,"Heck, Joseph J.",NV,Rep,cosponsor
+hr6,3,H001056,2015-06-23,"Herrera Beutler, Jaime",WA,Rep,cosponsor
+hr6,26,H001038,2015-06-03,"Higgins, Brian",NY,Rep,cosponsor
+hr6,15,H000636,2015-06-17,"Hinojosa, Ruben",TX,Rep,cosponsor
+hr6,5,H000874,2015-06-25,"Hoyer, Steny H.",MD,Rep,cosponsor
+hr6,8,H001067,2015-06-09,"Hudson, Richard",NC,Rep,cosponsor
+hr6,2,H001068,2015-06-03,"Huffman, Jared",CA,Rep,cosponsor
+hr6,2,H001058,2015-06-18,"Huizenga, Bill",MI,Rep,cosponsor
+hr6,14,H001059,2015-06-09,"Hultgren, Randy",IL,Rep,cosponsor
+hr6,50,H001048,2015-06-24,"Hunter, Duncan D.",CA,Rep,cosponsor
+hr6,3,I000057,2015-06-09,"Israel, Steve",NY,Rep,cosponsor
+hr6,18,J000032,2015-06-23,"Jackson Lee, Sheila",TX,Rep,cosponsor
+hr6,3,J000297,2015-06-11,"Jenkins, Evan H.",WV,Rep,cosponsor
+hr6,6,J000292,2015-06-01,"Johnson, Bill",OH,Rep,cosponsor
+hr6,30,J000126,2015-06-25,"Johnson, Eddie Bernice",TX,Rep,cosponsor
+hr6,4,J000288,2015-06-25,"Johnson, Henry C. ""Hank,"" Jr.",GA,Rep,cosponsor
+hr6,14,J000295,2015-06-17,"Joyce, David P.",OH,Rep,cosponsor
+hr6,9,K000009,2015-06-18,"Kaptur, Marcy",OH,Rep,cosponsor
+hr6,24,K000386,2015-06-17,"Katko, John",NY,Rep,cosponsor
+hr6,9,K000375,2015-06-25,"Keating, William R.",MA,Rep,cosponsor
+hr6,2,K000385,2015-06-18,"Kelly, Robin L.",IL,Rep,cosponsor
+hr6,4,K000379,2015-06-01,"Kennedy, Joseph P., III",MA,Rep,cosponsor
+hr6,5,K000380,2015-06-03,"Kildee, Daniel T.",MI,Rep,cosponsor
+hr6,6,K000381,2015-06-25,"Kilmer, Derek",WA,Rep,cosponsor
+hr6,3,K000188,2015-06-25,"Kind, Ron",WI,Rep,cosponsor
+hr6,16,K000378,2015-06-02,"Kinzinger, Adam",IL,Rep,cosponsor
+hr6,1,K000368,2015-06-09,"Kirkpatrick, Ann",AZ,Rep,cosponsor
+hr6,25,K000387,2015-06-23,"Knight, Stephen",CA,Rep,cosponsor
+hr6,2,K000382,2015-06-09,"Kuster, Ann M.",NH,Rep,cosponsor
+hr6,1,L000578,2015-06-18,"LaMalfa, Doug",CA,Rep,cosponsor
+hr6,7,L000567,2015-05-22,"Lance, Leonard",NJ,Rep,cosponsor
+hr6,2,L000559,2015-06-24,"Langevin, James R.",RI,Rep,cosponsor
+hr6,1,L000557,2015-06-25,"Larson, John B.",CT,Rep,cosponsor
+hr6,5,L000566,2015-06-02,"Latta, Robert E.",OH,Rep,cosponsor
+hr6,14,L000581,2015-06-16,"Lawrence, Brenda L.",MI,Rep,cosponsor
+hr6,13,L000551,2015-06-02,"Lee, Barbara",CA,Rep,cosponsor
+hr6,5,L000287,2015-06-25,"Lewis, John",GA,Rep,cosponsor
+hr6,33,L000582,2015-06-25,"Lieu, Ted",CA,Rep,cosponsor
+hr6,3,L000563,2015-06-24,"Lipinski, Daniel",IL,Rep,cosponsor
+hr6,2,L000554,2015-06-24,"LoBiondo, Frank A.",NJ,Rep,cosponsor
+hr6,2,L000565,2015-05-22,"Loebsack, David",IA,Rep,cosponsor
+hr6,19,L000397,2015-06-15,"Lofgren, Zoe",CA,Rep,cosponsor
+hr6,7,L000576,2015-05-22,"Long, Billy",MO,Rep,cosponsor
+hr6,47,L000579,2015-06-25,"Lowenthal, Alan S.",CA,Rep,cosponsor
+hr6,3,L000569,2015-06-16,"Luetkemeyer, Blaine",MO,Rep,cosponsor
+hr6,3,L000570,2015-06-01,"Lujan, Ben Ray",NM,Rep,cosponsor
+hr6,12,M000087,2015-06-18,"Maloney, Carolyn B.",NY,Rep,cosponsor
+hr6,24,M001158,2015-05-22,"Marchant, Kenny",TX,Rep,cosponsor
+hr6,10,M001179,2015-06-25,"Marino, Tom",PA,Rep,cosponsor
+hr6,6,M001163,2015-05-22,"Matsui, Doris O.",CA,Rep,cosponsor
+hr6,10,M001157,2015-05-22,"McCaul, Michael T.",TX,Rep,cosponsor
+hr6,4,M001143,2015-06-18,"McCollum, Betty",MN,Rep,cosponsor
+hr6,2,M000312,2015-06-18,"McGovern, James P.",MA,Rep,cosponsor
+hr6,10,M001156,2015-06-17,"McHenry, Patrick T.",NC,Rep,cosponsor
+hr6,1,M001180,2015-05-22,"McKinley, David B.",WV,Rep,cosponsor
+hr6,5,M001159,2015-05-22,"McMorris Rodgers, Cathy",WA,Rep,cosponsor
+hr6,9,M001166,2015-05-22,"McNerney, Jerry",CA,Rep,cosponsor
+hr6,11,M001187,2015-06-11,"Meadows, Mark",NC,Rep,cosponsor
+hr6,6,M001188,2015-06-15,"Meng, Grace",NY,Rep,cosponsor
+hr6,6,M001189,2015-06-11,"Messer, Luke",IN,Rep,cosponsor
+hr6,10,M001150,2015-06-03,"Miller, Candice S.",MI,Rep,cosponsor
+hr6,4,M001194,2015-06-18,"Moolenaar, John R.",MI,Rep,cosponsor
+hr6,4,M001160,2015-05-22,"Moore, Gwen",WI,Rep,cosponsor
+hr6,6,M001196,2015-06-17,"Moulton, Seth",MA,Rep,cosponsor
+hr6,2,M001190,2015-05-22,"Mullin, Markwayne",OK,Rep,cosponsor
+hr6,18,M001151,2015-05-22,"Murphy, Tim",PA,Rep,cosponsor
+hr6,10,N000002,2015-06-18,"Nadler, Jerrold",NY,Rep,cosponsor
+hr6,8,N000127,2015-05-22,"Nolan, Richard M.",MN,Rep,cosponsor
+hr6,0,N000147,2015-06-11,"Norton, Eleanor Holmes",DC,Rep,cosponsor
+hr6,16,O000170,2015-06-09,"O'Rourke, Beto",TX,Rep,cosponsor
+hr6,22,O000168,2015-06-02,"Olson, Pete",TX,Rep,cosponsor
+hr6,6,P000034,2015-05-19,"Pallone, Frank, Jr.",NJ,Rep,original cosponsor
+hr6,3,P000594,2015-06-24,"Paulsen, Erik",MN,Rep,cosponsor
+hr6,10,P000604,2015-06-09,"Payne, Donald M., Jr.",NJ,Rep,cosponsor
+hr6,7,P000593,2015-05-22,"Perlmutter, Ed",CO,Rep,cosponsor
+hr6,4,P000605,2015-06-25,"Perry, Scott",PA,Rep,cosponsor
+hr6,52,P000608,2015-06-11,"Peters, Scott H.",CA,Rep,cosponsor
+hr6,0,P000596,2015-06-03,"Pierluisi, Pedro R.",PR,Rep,cosponsor
+hr6,9,P000606,2015-06-15,"Pittenger, Robert",NC,Rep,cosponsor
+hr6,16,P000373,2015-05-19,"Pitts, Joseph R.",PA,Rep,original cosponsor
+hr6,2,P000607,2015-06-11,"Pocan, Mark",WI,Rep,cosponsor
+hr6,2,P000598,2015-06-09,"Polis, Jared",CO,Rep,cosponsor
+hr6,4,P000602,2015-06-02,"Pompeo, Mike",KS,Rep,cosponsor
+hr6,5,Q000023,2015-06-03,"Quigley, Mike",IL,Rep,cosponsor
+hr6,13,R000053,2015-06-18,"Rangel, Charles B.",NY,Rep,cosponsor
+hr6,23,R000585,2015-06-18,"Reed, Tom",NY,Rep,cosponsor
+hr6,4,R000602,2015-06-24,"Rice, Kathleen M.",NY,Rep,cosponsor
+hr6,2,R000589,2015-06-24,"Rigell, E. Scott",VA,Rep,cosponsor
+hr6,1,R000582,2015-06-09,"Roe, David P.",TN,Rep,cosponsor
+hr6,3,R000575,2015-06-16,"Rogers, Mike D.",AL,Rep,cosponsor
+hr6,27,R000435,2015-06-23,"Ros-Lehtinen, Ileana",FL,Rep,cosponsor
+hr6,6,R000580,2015-05-22,"Roskam, Peter J.",IL,Rep,cosponsor
+hr6,15,R000593,2015-06-09,"Ross, Dennis A.",FL,Rep,cosponsor
+hr6,40,R000486,2015-06-25,"Roybal-Allard, Lucille",CA,Rep,cosponsor
+hr6,39,R000487,2015-06-23,"Royce, Edward R.",CA,Rep,cosponsor
+hr6,2,R000576,2015-06-15,"Ruppersberger, C. A. Dutch",MD,Rep,cosponsor
+hr6,1,R000515,2015-05-22,"Rush, Bobby L.",IL,Rep,cosponsor
+hr6,13,R000577,2015-06-25,"Ryan, Tim",OH,Rep,cosponsor
+hr6,5,S000018,2015-06-11,"Salmon, Matt",AZ,Rep,cosponsor
+hr6,3,S001168,2015-06-02,"Sarbanes, John P.",MD,Rep,cosponsor
+hr6,1,S001176,2015-06-02,"Scalise, Steve",LA,Rep,cosponsor
+hr6,9,S001145,2015-05-22,"Schakowsky, Janice D.",IL,Rep,cosponsor
+hr6,5,S001180,2015-05-22,"Schrader, Kurt",OR,Rep,cosponsor
+hr6,13,S001157,2015-05-22,"Scott, David",GA,Rep,cosponsor
+hr6,15,S000364,2015-05-22,"Shimkus, John",IL,Rep,cosponsor
+hr6,2,S001148,2015-06-23,"Simpson, Michael K.",ID,Rep,cosponsor
+hr6,9,S001191,2015-06-18,"Sinema, Kyrsten",AZ,Rep,cosponsor
+hr6,8,S001165,2015-06-11,"Sires, Albio",NJ,Rep,cosponsor
+hr6,14,S001175,2015-06-24,"Speier, Jackie",CA,Rep,cosponsor
+hr6,21,S001196,2015-06-23,"Stefanik, Elise M.",NY,Rep,cosponsor
+hr6,15,S001187,2015-06-24,"Stivers, Steve",OH,Rep,cosponsor
+hr6,1,T000473,2015-06-03,"Takai, Mark",HI,Rep,cosponsor
+hr6,41,T000472,2015-06-15,"Takano, Mark",CA,Rep,cosponsor
+hr6,12,T000462,2015-06-23,"Tiberi, Patrick J.",OH,Rep,cosponsor
+hr6,20,T000469,2015-05-22,"Tonko, Paul",NY,Rep,cosponsor
+hr6,35,T000474,2015-06-15,"Torres, Norma J.",CA,Rep,cosponsor
+hr6,11,T000475,2015-06-18,"Trott, David A.",MI,Rep,cosponsor
+hr6,10,T000463,2015-06-11,"Turner, Michael R.",OH,Rep,cosponsor
+hr6,21,V000129,2015-06-17,"Valadao, David G.",CA,Rep,cosponsor
+hr6,8,V000128,2015-06-23,"Van Hollen, Chris",MD,Rep,cosponsor
+hr6,51,V000130,2015-06-15,"Vargas, Juan",CA,Rep,cosponsor
+hr6,33,V000131,2015-05-22,"Veasey, Marc A.",TX,Rep,cosponsor
+hr6,7,V000081,2015-06-16,"Velazquez, Nydia M.",NY,Rep,cosponsor
+hr6,2,W000812,2015-06-01,"Wagner, Ann",MO,Rep,cosponsor
+hr6,7,W000798,2015-06-11,"Walberg, Tim",MI,Rep,cosponsor
+hr6,2,W000791,2015-05-22,"Walden, Greg",OR,Rep,cosponsor
+hr6,2,W000813,2015-06-09,"Walorski, Jackie",IN,Rep,cosponsor
+hr6,45,W000820,2015-06-02,"Walters, Mimi",CA,Rep,cosponsor
+hr6,1,W000799,2015-06-01,"Walz, Timothy J.",MN,Rep,cosponsor
+hr6,23,W000797,2015-06-18,"Wasserman Schultz, Debbie",FL,Rep,cosponsor
+hr6,43,W000187,2015-06-25,"Waters, Maxine",CA,Rep,cosponsor
+hr6,10,W000806,2015-06-18,"Webster, Daniel",FL,Rep,cosponsor
+hr6,0,W000800,2015-05-22,"Welch, Peter",VT,Rep,cosponsor
+hr6,2,W000815,2015-06-18,"Wenstrup, Brad R.",OH,Rep,cosponsor
+hr6,1,W000413,2015-05-22,"Whitfield, Ed",KY,Rep,cosponsor
+hr6,24,W000808,2015-06-25,"Wilson, Frederica S.",FL,Rep,cosponsor
+hr6,3,W000809,2015-06-23,"Womack, Steve",AR,Rep,cosponsor
+hr6,3,Y000062,2015-05-22,"Yarmuth, John A.",KY,Rep,cosponsor
+hr6,3,Y000063,2015-06-09,"Yoder, Kevin",KS,Rep,cosponsor
+hr6,3,Y000066,2015-06-17,"Young, David",IA,Rep,cosponsor
+hr6,1,Z000017,2015-06-16,"Zeldin, Lee M.",NY,Rep,cosponsor
+hr6,0,Z000018,2015-06-23,"Zinke, Ryan K.",MT,Rep,cosponsor
+hr7,4,S000522,2015-01-21,"Smith, Christopher H.",NJ,Rep,sponsor
+hr7,5,A000374,2015-01-22,"Abraham, Ralph Lee",LA,Rep,cosponsor
+hr7,6,B001273,2015-01-21,"Black, Diane",TN,Rep,original cosponsor
+hr7,7,B001243,2015-01-21,"Blackburn, Marsha",TN,Rep,original cosponsor
+hr7,8,B000589,2015-01-21,"Boehner, John A.",OH,Rep,original cosponsor
+hr7,7,C001048,2015-01-22,"Culberson, John Abney",TX,Rep,cosponsor
+hr7,13,D000619,2015-01-22,"Davis, Rodney",IL,Rep,cosponsor
+hr7,2,D000533,2015-01-22,"Duncan, John J., Jr.",TN,Rep,cosponsor
+hr7,2,E000291,2015-01-21,"Ellmers, Renee L.",NC,Rep,original cosponsor
+hr7,5,F000450,2015-01-21,"Foxx, Virginia",NC,Rep,original cosponsor
+hr7,6,G000546,2015-01-22,"Graves, Sam",MO,Rep,cosponsor
+hr7,4,H001053,2015-01-21,"Hartzler, Vicky",MO,Rep,original cosponsor
+hr7,2,J000290,2015-01-21,"Jenkins, Lynn",KS,Rep,original cosponsor
+hr7,3,L000563,2015-01-21,"Lipinski, Daniel",IL,Rep,original cosponsor
+hr7,0,L000571,2015-01-21,"Lummis, Cynthia M.",WY,Rep,original cosponsor
+hr7,4,M001184,2015-01-22,"Massie, Thomas",KY,Rep,cosponsor
+hr7,23,M001165,2015-01-21,"McCarthy, Kevin",CA,Rep,original cosponsor
+hr7,10,M001156,2015-01-21,"McHenry, Patrick T.",NC,Rep,original cosponsor
+hr7,5,M001159,2015-01-21,"McMorris Rodgers, Cathy",WA,Rep,original cosponsor
+hr7,2,M001195,2015-01-22,"Mooney, Alexander X.",WV,Rep,cosponsor
+hr7,16,P000373,2015-01-21,"Pitts, Joseph R.",PA,Rep,original cosponsor
+hr7,2,P000592,2015-01-22,"Poe, Ted",TX,Rep,cosponsor
+hr7,2,R000591,2015-01-21,"Roby, Martha",AL,Rep,original cosponsor
+hr7,27,R000435,2015-01-21,"Ros-Lehtinen, Ileana",FL,Rep,original cosponsor
+hr7,1,S001176,2015-01-21,"Scalise, Steve",LA,Rep,original cosponsor
+hr7,8,S001189,2015-01-22,"Scott, Austin",GA,Rep,cosponsor
+hr7,32,S000250,2015-01-21,"Sessions, Pete",TX,Rep,original cosponsor
+hr7,2,W000812,2015-01-21,"Wagner, Ann",MO,Rep,original cosponsor
+hr7,2,W000813,2015-01-21,"Walorski, Jackie",IN,Rep,original cosponsor
+hr7,45,W000820,2015-01-21,"Walters, Mimi",CA,Rep,original cosponsor
+hr8,6,U000031,2015-09-16,"Upton, Fred",MI,Rep,sponsor
+hr9,6,G000289,2015-02-05,"Goodlatte, Bob",VA,Rep,sponsor
+hr9,2,A000369,2015-05-19,"Amodei, Mark E.",NV,Rep,cosponsor
+hr9,1,C000266,2015-02-05,"Chabot, Steve",OH,Rep,original cosponsor
+hr9,3,C001076,2015-02-05,"Chaffetz, Jason",UT,Rep,original cosponsor
+hr9,5,C001061,2015-06-09,"Cleaver, Emanuel",MO,Rep,cosponsor
+hr9,7,C001048,2015-06-15,"Culberson, John Abney",TX,Rep,cosponsor
+hr9,4,D000191,2015-02-05,"DeFazio, Peter A.",OR,Rep,original cosponsor
+hr9,18,E000215,2015-02-05,"Eshoo, Anna G.",CA,Rep,original cosponsor
+hr9,27,F000460,2015-02-05,"Farenthold, Blake",TX,Rep,original cosponsor
+hr9,8,F000458,2015-05-19,"Fincher, Stephen Lee",TN,Rep,cosponsor
+hr9,4,F000445,2015-02-05,"Forbes, J. Randy",VA,Rep,original cosponsor
+hr9,4,H001070,2015-06-02,"Hardy, Cresent",NV,Rep,cosponsor
+hr9,13,H001065,2015-02-05,"Holding, George",NC,Rep,original cosponsor
+hr9,17,H001034,2015-02-05,"Honda, Michael M.",CA,Rep,original cosponsor
+hr9,2,H001068,2015-02-05,"Huffman, Jared",CA,Rep,original cosponsor
+hr9,49,I000056,2015-02-05,"Issa, Darrell E.",CA,Rep,original cosponsor
+hr9,8,J000294,2015-02-05,"Jeffries, Hakeem S.",NY,Rep,original cosponsor
+hr9,6,J000292,2015-02-05,"Johnson, Bill",OH,Rep,original cosponsor
+hr9,2,L000560,2015-02-05,"Larsen, Rick",WA,Rep,original cosponsor
+hr9,19,L000397,2015-02-05,"Lofgren, Zoe",CA,Rep,original cosponsor
+hr9,10,M001179,2015-02-05,"Marino, Tom",PA,Rep,original cosponsor
+hr9,10,N000002,2015-02-05,"Nadler, Jerrold",NY,Rep,original cosponsor
+hr9,2,P000588,2015-04-13,"Pearce, Stevan",NM,Rep,cosponsor
+hr9,0,P000596,2015-02-05,"Pierluisi, Pedro R.",PR,Rep,original cosponsor
+hr9,32,S000250,2015-04-15,"Sessions, Pete",TX,Rep,cosponsor
+hr9,21,S000583,2015-02-05,"Smith, Lamar",TX,Rep,original cosponsor
+hr9,15,S001193,2015-02-11,"Swalwell, Eric",CA,Rep,cosponsor
+hr9,5,T000460,2015-02-05,"Thompson, Mike",CA,Rep,original cosponsor
+hr10,8,B000589,2015-10-05,"Boehner, John A.",OH,Rep,sponsor
+hr10,1,B001250,2015-10-06,"Bishop, Rob",UT,Rep,cosponsor
+hr10,1,B001294,2015-10-07,"Blum, Rod",IA,Rep,cosponsor
+hr10,3,C001076,2015-10-05,"Chaffetz, Jason",UT,Rep,original cosponsor
+hr10,4,C001053,2015-10-06,"Cole, Tom",OK,Rep,cosponsor
+hr10,10,C001105,2015-10-06,"Comstock, Barbara",VA,Rep,cosponsor
+hr10,6,D000621,2015-10-06,"DeSantis, Ron",FL,Rep,cosponsor
+hr10,5,F000450,2015-10-06,"Foxx, Virginia",NC,Rep,cosponsor
+hr10,11,F000372,2015-10-05,"Frelinghuysen, Rodney P.",NJ,Rep,original cosponsor
+hr10,2,K000363,2015-10-05,"Kline, John",MN,Rep,original cosponsor
+hr10,3,L000563,2015-10-05,"Lipinski, Daniel",IL,Rep,original cosponsor
+hr10,11,M001187,2015-10-08,"Meadows, Mark",NC,Rep,cosponsor
+hr10,6,M001189,2015-10-05,"Messer, Luke",IN,Rep,original cosponsor
+hr10,5,M001182,2015-10-07,"Mulvaney, Mick",SC,Rep,cosponsor
+hr10,4,R000592,2015-10-05,"Rokita, Todd",IN,Rep,original cosponsor
+hr12,5,L000287,2015-03-19,"Lewis, John",GA,Rep,sponsor
+hr12,12,A000370,2015-03-19,"Adams, Alma S.",NC,Rep,original cosponsor
+hr12,31,A000371,2015-03-19,"Aguilar, Pete",CA,Rep,original cosponsor
+hr12,2,A000373,2015-03-19,"Ashford, Brad",NE,Rep,original cosponsor
+hr12,37,B001270,2015-03-19,"Bass, Karen",CA,Rep,original cosponsor
+hr12,3,B001281,2015-03-19,"Beatty, Joyce",OH,Rep,original cosponsor
+hr12,34,B000287,2015-03-19,"Becerra, Xavier",CA,Rep,original cosponsor
+hr12,7,B001287,2015-05-21,"Bera, Ami",CA,Rep,cosponsor
+hr12,8,B001292,2015-03-19,"Beyer, Donald S., Jr.",VA,Rep,original cosponsor
+hr12,2,B000490,2015-03-19,"Bishop, Sanford D., Jr.",GA,Rep,original cosponsor
+hr12,3,B000574,2015-03-19,"Blumenauer, Earl",OR,Rep,original cosponsor
+hr12,1,B001278,2015-03-19,"Bonamici, Suzanne",OR,Rep,original cosponsor
+hr12,0,B001245,2015-03-19,"Bordallo, Madeleine Z.",GU,Rep,original cosponsor
+hr12,13,B001296,2015-03-19,"Boyle, Brendan F.",PA,Rep,original cosponsor
+hr12,1,B001227,2015-03-19,"Brady, Robert A.",PA,Rep,original cosponsor
+hr12,5,B000911,2015-03-19,"Brown, Corrine",FL,Rep,original cosponsor
+hr12,26,B001285,2015-03-19,"Brownley, Julia",CA,Rep,original cosponsor
+hr12,17,B001286,2015-03-19,"Bustos, Cheri",IL,Rep,original cosponsor
+hr12,1,B001251,2015-03-19,"Butterfield, G. K.",NC,Rep,original cosponsor
+hr12,24,C001036,2015-03-19,"Capps, Lois",CA,Rep,original cosponsor
+hr12,7,C001037,2016-04-26,"Capuano, Michael E.",MA,Rep,cosponsor
+hr12,29,C001097,2015-03-19,"Cardenas, Tony",CA,Rep,original cosponsor
+hr12,0,C001083,2015-03-19,"Carney, John C., Jr.",DE,Rep,original cosponsor
+hr12,7,C001072,2015-03-19,"Carson, Andre",IN,Rep,original cosponsor
+hr12,17,C001090,2015-03-19,"Cartwright, Matt",PA,Rep,original cosponsor
+hr12,14,C001066,2015-03-19,"Castor, Kathy",FL,Rep,original cosponsor
+hr12,20,C001091,2015-03-19,"Castro, Joaquin",TX,Rep,original cosponsor
+hr12,27,C001080,2015-03-19,"Chu, Judy",CA,Rep,original cosponsor
+hr12,1,C001084,2015-03-19,"Cicilline, David N.",RI,Rep,original cosponsor
+hr12,5,C001101,2015-03-19,"Clark, Katherine M.",MA,Rep,original cosponsor
+hr12,9,C001067,2015-03-19,"Clarke, Yvette D.",NY,Rep,original cosponsor
+hr12,1,C001049,2015-03-19,"Clay, Wm. Lacy",MO,Rep,original cosponsor
+hr12,5,C001061,2015-03-19,"Cleaver, Emanuel",MO,Rep,original cosponsor
+hr12,6,C000537,2015-03-19,"Clyburn, James E.",SC,Rep,original cosponsor
+hr12,9,C001068,2015-03-19,"Cohen, Steve",TN,Rep,original cosponsor
+hr12,11,C001078,2015-03-19,"Connolly, Gerald E.",VA,Rep,original cosponsor
+hr12,13,C000714,2015-03-19,"Conyers, John, Jr.",MI,Rep,original cosponsor
+hr12,16,C001059,2015-03-19,"Costa, Jim",CA,Rep,original cosponsor
+hr12,2,C001069,2015-03-19,"Courtney, Joe",CT,Rep,original cosponsor
+hr12,14,C001038,2015-03-19,"Crowley, Joseph",NY,Rep,original cosponsor
+hr12,28,C001063,2015-03-19,"Cuellar, Henry",TX,Rep,original cosponsor
+hr12,7,C000984,2015-03-19,"Cummings, Elijah E.",MD,Rep,original cosponsor
+hr12,7,D000096,2015-03-19,"Davis, Danny K.",IL,Rep,original cosponsor
+hr12,53,D000598,2015-03-25,"Davis, Susan A.",CA,Rep,cosponsor
+hr12,4,D000191,2015-03-19,"DeFazio, Peter A.",OR,Rep,original cosponsor
+hr12,1,D000197,2015-03-19,"DeGette, Diana",CO,Rep,original cosponsor
+hr12,6,D000620,2016-04-26,"Delaney, John K.",MD,Rep,cosponsor
+hr12,3,D000216,2015-03-19,"DeLauro, Rosa L.",CT,Rep,original cosponsor
+hr12,1,D000617,2015-03-19,"DelBene, Suzan K.",WA,Rep,original cosponsor
+hr12,11,D000623,2015-03-19,"DeSaulnier, Mark",CA,Rep,original cosponsor
+hr12,21,D000610,2015-03-19,"Deutch, Theodore E.",FL,Rep,original cosponsor
+hr12,12,D000624,2015-03-19,"Dingell, Debbie",MI,Rep,original cosponsor
+hr12,35,D000399,2015-03-19,"Doggett, Lloyd",TX,Rep,original cosponsor
+hr12,14,D000482,2015-03-19,"Doyle, Michael F.",PA,Rep,original cosponsor
+hr12,8,D000622,2015-03-19,"Duckworth, Tammy",IL,Rep,original cosponsor
+hr12,4,E000290,2015-03-19,"Edwards, Donna F.",MD,Rep,original cosponsor
+hr12,5,E000288,2015-03-19,"Ellison, Keith",MN,Rep,original cosponsor
+hr12,16,E000179,2015-03-25,"Engel, Eliot L.",NY,Rep,cosponsor
+hr12,18,E000215,2016-06-14,"Eshoo, Anna G.",CA,Rep,cosponsor
+hr12,5,E000293,2015-03-19,"Esty, Elizabeth H.",CT,Rep,original cosponsor
+hr12,20,F000030,2015-04-16,"Farr, Sam",CA,Rep,cosponsor
+hr12,2,F000043,2015-03-19,"Fattah, Chaka",PA,Rep,original cosponsor
+hr12,11,F000454,2015-03-19,"Foster, Bill",IL,Rep,original cosponsor
+hr12,22,F000462,2015-03-19,"Frankel, Lois",FL,Rep,original cosponsor
+hr12,11,F000455,2015-03-19,"Fudge, Marcia L.",OH,Rep,original cosponsor
+hr12,2,G000571,2015-03-25,"Gabbard, Tulsi",HI,Rep,cosponsor
+hr12,7,G000574,2015-03-19,"Gallego, Ruben",AZ,Rep,original cosponsor
+hr12,3,G000559,2015-03-19,"Garamendi, John",CA,Rep,original cosponsor
+hr12,2,G000575,2015-04-16,"Graham, Gwen",FL,Rep,cosponsor
+hr12,9,G000556,2015-03-19,"Grayson, Alan",FL,Rep,original cosponsor
+hr12,9,G000553,2015-03-19,"Green, Al",TX,Rep,original cosponsor
+hr12,29,G000410,2015-03-19,"Green, Gene",TX,Rep,original cosponsor
+hr12,3,G000551,2015-03-19,"Grijalva, Raul M.",AZ,Rep,original cosponsor
+hr12,4,G000535,2015-03-19,"Gutierrez, Luis V.",IL,Rep,original cosponsor
+hr12,44,H001063,2015-03-19,"Hahn, Janice",CA,Rep,original cosponsor
+hr12,20,H000324,2015-03-19,"Hastings, Alcee L.",FL,Rep,original cosponsor
+hr12,10,H001064,2015-03-19,"Heck, Denny",WA,Rep,original cosponsor
+hr12,26,H001038,2015-03-19,"Higgins, Brian",NY,Rep,original cosponsor
+hr12,4,H001047,2016-05-27,"Himes, James A.",CT,Rep,cosponsor
+hr12,15,H000636,2016-07-14,"Hinojosa, Ruben",TX,Rep,cosponsor
+hr12,17,H001034,2015-03-19,"Honda, Michael M.",CA,Rep,original cosponsor
+hr12,5,H000874,2015-03-19,"Hoyer, Steny H.",MD,Rep,original cosponsor
+hr12,2,H001068,2015-03-19,"Huffman, Jared",CA,Rep,original cosponsor
+hr12,3,I000057,2016-06-14,"Israel, Steve",NY,Rep,cosponsor
+hr12,18,J000032,2015-03-19,"Jackson Lee, Sheila",TX,Rep,original cosponsor
+hr12,8,J000294,2015-03-19,"Jeffries, Hakeem S.",NY,Rep,original cosponsor
+hr12,30,J000126,2015-03-19,"Johnson, Eddie Bernice",TX,Rep,original cosponsor
+hr12,4,J000288,2015-03-19,"Johnson, Henry C. ""Hank,"" Jr.",GA,Rep,original cosponsor
+hr12,9,K000009,2015-03-19,"Kaptur, Marcy",OH,Rep,original cosponsor
+hr12,9,K000375,2015-03-19,"Keating, William R.",MA,Rep,original cosponsor
+hr12,2,K000385,2015-03-19,"Kelly, Robin L.",IL,Rep,original cosponsor
+hr12,4,K000379,2015-03-19,"Kennedy, Joseph P., III",MA,Rep,original cosponsor
+hr12,5,K000380,2015-03-19,"Kildee, Daniel T.",MI,Rep,original cosponsor
+hr12,6,K000381,2015-03-19,"Kilmer, Derek",WA,Rep,original cosponsor
+hr12,3,K000188,2015-03-19,"Kind, Ron",WI,Rep,original cosponsor
+hr12,1,K000368,2015-03-19,"Kirkpatrick, Ann",AZ,Rep,original cosponsor
+hr12,2,L000559,2015-03-19,"Langevin, James R.",RI,Rep,original cosponsor
+hr12,2,L000560,2015-03-19,"Larsen, Rick",WA,Rep,original cosponsor
+hr12,1,L000557,2015-03-19,"Larson, John B.",CT,Rep,original cosponsor
+hr12,14,L000581,2015-03-19,"Lawrence, Brenda L.",MI,Rep,original cosponsor
+hr12,13,L000551,2015-03-19,"Lee, Barbara",CA,Rep,original cosponsor
+hr12,9,L000263,2015-06-23,"Levin, Sander M.",MI,Rep,cosponsor
+hr12,33,L000582,2015-03-19,"Lieu, Ted",CA,Rep,original cosponsor
+hr12,2,L000565,2015-03-19,"Loebsack, David",IA,Rep,original cosponsor
+hr12,19,L000397,2015-03-19,"Lofgren, Zoe",CA,Rep,original cosponsor
+hr12,47,L000579,2015-03-19,"Lowenthal, Alan S.",CA,Rep,original cosponsor
+hr12,17,L000480,2015-03-19,"Lowey, Nita M.",NY,Rep,original cosponsor
+hr12,1,L000580,2015-03-19,"Lujan Grisham, Michelle",NM,Rep,original cosponsor
+hr12,3,L000570,2015-03-19,"Lujan, Ben Ray",NM,Rep,original cosponsor
+hr12,8,L000562,2015-03-19,"Lynch, Stephen F.",MA,Rep,original cosponsor
+hr12,12,M000087,2015-03-19,"Maloney, Carolyn B.",NY,Rep,original cosponsor
+hr12,18,M001185,2015-03-19,"Maloney, Sean Patrick",NY,Rep,original cosponsor
+hr12,6,M001163,2015-03-19,"Matsui, Doris O.",CA,Rep,original cosponsor
+hr12,4,M001143,2015-03-19,"McCollum, Betty",MN,Rep,original cosponsor
+hr12,7,M000404,2015-03-19,"McDermott, Jim",WA,Rep,original cosponsor
+hr12,2,M000312,2015-03-19,"McGovern, James P.",MA,Rep,original cosponsor
+hr12,9,M001166,2015-03-19,"McNerney, Jerry",CA,Rep,original cosponsor
+hr12,5,M001137,2015-03-19,"Meeks, Gregory W.",NY,Rep,original cosponsor
+hr12,6,M001188,2015-03-19,"Meng, Grace",NY,Rep,original cosponsor
+hr12,4,M001160,2015-03-19,"Moore, Gwen",WI,Rep,original cosponsor
+hr12,6,M001196,2015-03-19,"Moulton, Seth",MA,Rep,original cosponsor
+hr12,18,M001191,2015-03-19,"Murphy, Patrick",FL,Rep,original cosponsor
+hr12,10,N000002,2015-03-19,"Nadler, Jerrold",NY,Rep,original cosponsor
+hr12,32,N000179,2015-03-19,"Napolitano, Grace F.",CA,Rep,original cosponsor
+hr12,1,N000015,2015-03-19,"Neal, Richard E.",MA,Rep,original cosponsor
+hr12,8,N000127,2015-03-19,"Nolan, Richard M.",MN,Rep,original cosponsor
+hr12,1,N000188,2015-03-19,"Norcross, Donald",NJ,Rep,original cosponsor
+hr12,0,N000147,2015-03-19,"Norton, Eleanor Holmes",DC,Rep,original cosponsor
+hr12,16,O000170,2015-03-19,"O'Rourke, Beto",TX,Rep,original cosponsor
+hr12,6,P000034,2015-03-19,"Pallone, Frank, Jr.",NJ,Rep,original cosponsor
+hr12,9,P000096,2015-03-19,"Pascrell, Bill, Jr.",NJ,Rep,original cosponsor
+hr12,10,P000604,2015-03-19,"Payne, Donald M., Jr.",NJ,Rep,original cosponsor
+hr12,12,P000197,2015-03-19,"Pelosi, Nancy",CA,Rep,original cosponsor
+hr12,7,P000593,2015-03-19,"Perlmutter, Ed",CO,Rep,original cosponsor
+hr12,52,P000608,2015-03-19,"Peters, Scott H.",CA,Rep,original cosponsor
+hr12,0,P000596,2015-03-19,"Pierluisi, Pedro R.",PR,Rep,original cosponsor
+hr12,1,P000597,2015-03-19,"Pingree, Chellie",ME,Rep,original cosponsor
+hr12,0,P000610,2015-03-19,"Plaskett, Stacey E.",VI,Rep,original cosponsor
+hr12,2,P000607,2015-03-19,"Pocan, Mark",WI,Rep,original cosponsor
+hr12,2,P000598,2015-03-19,"Polis, Jared",CO,Rep,original cosponsor
+hr12,4,P000523,2015-03-19,"Price, David E.",NC,Rep,original cosponsor
+hr12,5,Q000023,2015-03-19,"Quigley, Mike",IL,Rep,original cosponsor
+hr12,13,R000053,2015-03-19,"Rangel, Charles B.",NY,Rep,original cosponsor
+hr12,4,R000602,2015-03-19,"Rice, Kathleen M.",NY,Rep,original cosponsor
+hr12,2,R000588,2015-03-19,"Richmond, Cedric L.",LA,Rep,original cosponsor
+hr12,40,R000486,2015-03-19,"Roybal-Allard, Lucille",CA,Rep,original cosponsor
+hr12,36,R000599,2015-03-19,"Ruiz, Raul",CA,Rep,original cosponsor
+hr12,2,R000576,2015-03-19,"Ruppersberger, C. A. Dutch",MD,Rep,original cosponsor
+hr12,1,R000515,2015-03-19,"Rush, Bobby L.",IL,Rep,original cosponsor
+hr12,13,R000577,2016-05-27,"Ryan, Tim",OH,Rep,cosponsor
+hr12,0,S001177,2015-03-19,"Sablan, Gregorio Kilili Camacho",MP,Rep,original cosponsor
+hr12,38,S001156,2015-03-19,"Sanchez, Linda T.",CA,Rep,original cosponsor
+hr12,46,S000030,2015-03-19,"Sanchez, Loretta",CA,Rep,original cosponsor
+hr12,3,S001168,2015-03-19,"Sarbanes, John P.",MD,Rep,original cosponsor
+hr12,9,S001145,2015-03-19,"Schakowsky, Janice D.",IL,Rep,original cosponsor
+hr12,28,S001150,2015-03-19,"Schiff, Adam B.",CA,Rep,original cosponsor
+hr12,5,S001180,2015-03-19,"Schrader, Kurt",OR,Rep,original cosponsor
+hr12,13,S001157,2015-03-19,"Scott, David",GA,Rep,original cosponsor
+hr12,3,S000185,2015-03-19,"Scott, Robert C. ""Bobby""",VA,Rep,original cosponsor
+hr12,15,S000248,2015-03-19,"Serrano, Jose E.",NY,Rep,original cosponsor
+hr12,7,S001185,2015-03-19,"Sewell, Terri A.",AL,Rep,original cosponsor
+hr12,30,S000344,2015-03-19,"Sherman, Brad",CA,Rep,original cosponsor
+hr12,8,S001165,2015-03-19,"Sires, Albio",NJ,Rep,original cosponsor
+hr12,25,S000480,2015-03-19,"Slaughter, Louise McIntosh",NY,Rep,original cosponsor
+hr12,9,S000510,2015-03-19,"Smith, Adam",WA,Rep,original cosponsor
+hr12,14,S001175,2015-03-19,"Speier, Jackie",CA,Rep,original cosponsor
+hr12,15,S001193,2015-03-19,"Swalwell, Eric",CA,Rep,original cosponsor
+hr12,1,T000473,2015-03-19,"Takai, Mark",HI,Rep,original cosponsor
+hr12,41,T000472,2016-04-12,"Takano, Mark",CA,Rep,cosponsor
+hr12,2,T000193,2015-03-19,"Thompson, Bennie G.",MS,Rep,original cosponsor
+hr12,5,T000460,2015-03-19,"Thompson, Mike",CA,Rep,original cosponsor
+hr12,1,T000468,2015-03-19,"Titus, Dina",NV,Rep,original cosponsor
+hr12,20,T000469,2015-03-19,"Tonko, Paul",NY,Rep,original cosponsor
+hr12,35,T000474,2015-03-19,"Torres, Norma J.",CA,Rep,original cosponsor
+hr12,3,T000465,2015-03-19,"Tsongas, Niki",MA,Rep,original cosponsor
+hr12,8,V000128,2015-03-19,"Van Hollen, Chris",MD,Rep,original cosponsor
+hr12,51,V000130,2015-03-19,"Vargas, Juan",CA,Rep,original cosponsor
+hr12,33,V000131,2015-03-19,"Veasey, Marc A.",TX,Rep,original cosponsor
+hr12,34,V000132,2015-03-25,"Vela, Filemon",TX,Rep,cosponsor
+hr12,7,V000081,2015-03-19,"Velazquez, Nydia M.",NY,Rep,original cosponsor
+hr12,1,V000108,2015-03-19,"Visclosky, Peter J.",IN,Rep,original cosponsor
+hr12,1,W000799,2015-03-25,"Walz, Timothy J.",MN,Rep,cosponsor
+hr12,23,W000797,2015-03-19,"Wasserman Schultz, Debbie",FL,Rep,original cosponsor
+hr12,43,W000187,2015-03-19,"Waters, Maxine",CA,Rep,original cosponsor
+hr12,12,W000822,2015-03-19,"Watson Coleman, Bonnie",NJ,Rep,original cosponsor
+hr12,0,W000800,2015-03-19,"Welch, Peter",VT,Rep,original cosponsor
+hr12,24,W000808,2015-03-19,"Wilson, Frederica S.",FL,Rep,original cosponsor
+hr12,3,Y000062,2015-03-19,"Yarmuth, John A.",KY,Rep,original cosponsor
+hr20,3,S001168,2015-01-21,"Sarbanes, John P.",MD,Rep,sponsor
+hr20,12,A000370,2015-01-21,"Adams, Alma S.",NC,Rep,original cosponsor
+hr20,31,A000371,2015-07-07,"Aguilar, Pete",CA,Rep,cosponsor
+hr20,2,A000373,2016-04-13,"Ashford, Brad",NE,Rep,cosponsor
+hr20,37,B001270,2015-06-24,"Bass, Karen",CA,Rep,cosponsor
+hr20,3,B001281,2015-01-21,"Beatty, Joyce",OH,Rep,original cosponsor
+hr20,34,B000287,2015-01-21,"Becerra, Xavier",CA,Rep,original cosponsor
+hr20,7,B001287,2015-01-21,"Bera, Ami",CA,Rep,original cosponsor
+hr20,8,B001292,2015-01-21,"Beyer, Donald S., Jr.",VA,Rep,original cosponsor
+hr20,3,B000574,2015-01-21,"Blumenauer, Earl",OR,Rep,original cosponsor
+hr20,1,B001278,2015-01-21,"Bonamici, Suzanne",OR,Rep,original cosponsor
+hr20,13,B001296,2015-03-19,"Boyle, Brendan F.",PA,Rep,cosponsor
+hr20,1,B001227,2015-01-21,"Brady, Robert A.",PA,Rep,original cosponsor
+hr20,5,B000911,2015-01-21,"Brown, Corrine",FL,Rep,original cosponsor
+hr20,26,B001285,2015-01-21,"Brownley, Julia",CA,Rep,original cosponsor
+hr20,17,B001286,2015-01-21,"Bustos, Cheri",IL,Rep,original cosponsor
+hr20,1,B001251,2015-01-21,"Butterfield, G. K.",NC,Rep,original cosponsor
+hr20,24,C001036,2015-01-21,"Capps, Lois",CA,Rep,original cosponsor
+hr20,7,C001037,2015-01-21,"Capuano, Michael E.",MA,Rep,original cosponsor
+hr20,0,C001083,2015-01-21,"Carney, John C., Jr.",DE,Rep,original cosponsor
+hr20,7,C001072,2015-01-21,"Carson, Andre",IN,Rep,original cosponsor
+hr20,17,C001090,2015-01-21,"Cartwright, Matt",PA,Rep,original cosponsor
+hr20,14,C001066,2015-04-23,"Castor, Kathy",FL,Rep,cosponsor
+hr20,20,C001091,2015-01-21,"Castro, Joaquin",TX,Rep,original cosponsor
+hr20,27,C001080,2015-01-21,"Chu, Judy",CA,Rep,original cosponsor
+hr20,1,C001084,2015-01-21,"Cicilline, David N.",RI,Rep,original cosponsor
+hr20,5,C001101,2015-01-21,"Clark, Katherine M.",MA,Rep,original cosponsor
+hr20,9,C001067,2015-01-21,"Clarke, Yvette D.",NY,Rep,original cosponsor
+hr20,1,C001049,2015-09-28,"Clay, Wm. Lacy",MO,Rep,cosponsor
+hr20,6,C000537,2015-01-21,"Clyburn, James E.",SC,Rep,original cosponsor
+hr20,9,C001068,2015-01-21,"Cohen, Steve",TN,Rep,original cosponsor
+hr20,11,C001078,2015-01-21,"Connolly, Gerald E.",VA,Rep,original cosponsor
+hr20,13,C000714,2015-01-21,"Conyers, John, Jr.",MI,Rep,original cosponsor
+hr20,5,C000754,2015-01-21,"Cooper, Jim",TN,Rep,original cosponsor
+hr20,2,C001069,2015-01-21,"Courtney, Joe",CT,Rep,original cosponsor
+hr20,14,C001038,2015-01-21,"Crowley, Joseph",NY,Rep,original cosponsor
+hr20,7,C000984,2015-01-21,"Cummings, Elijah E.",MD,Rep,original cosponsor
+hr20,7,D000096,2015-01-21,"Davis, Danny K.",IL,Rep,original cosponsor
+hr20,53,D000598,2015-01-21,"Davis, Susan A.",CA,Rep,original cosponsor
+hr20,4,D000191,2015-01-21,"DeFazio, Peter A.",OR,Rep,original cosponsor
+hr20,1,D000197,2015-01-21,"DeGette, Diana",CO,Rep,original cosponsor
+hr20,6,D000620,2015-01-21,"Delaney, John K.",MD,Rep,original cosponsor
+hr20,3,D000216,2015-01-21,"DeLauro, Rosa L.",CT,Rep,original cosponsor
+hr20,1,D000617,2015-01-21,"DelBene, Suzan K.",WA,Rep,original cosponsor
+hr20,11,D000623,2015-01-21,"DeSaulnier, Mark",CA,Rep,original cosponsor
+hr20,21,D000610,2015-01-21,"Deutch, Theodore E.",FL,Rep,original cosponsor
+hr20,12,D000624,2015-01-21,"Dingell, Debbie",MI,Rep,original cosponsor
+hr20,35,D000399,2015-02-13,"Doggett, Lloyd",TX,Rep,cosponsor
+hr20,14,D000482,2016-04-27,"Doyle, Michael F.",PA,Rep,cosponsor
+hr20,8,D000622,2015-02-03,"Duckworth, Tammy",IL,Rep,cosponsor
+hr20,4,E000290,2015-01-21,"Edwards, Donna F.",MD,Rep,original cosponsor
+hr20,5,E000288,2015-01-21,"Ellison, Keith",MN,Rep,original cosponsor
+hr20,16,E000179,2015-01-21,"Engel, Eliot L.",NY,Rep,original cosponsor
+hr20,18,E000215,2015-09-08,"Eshoo, Anna G.",CA,Rep,cosponsor
+hr20,5,E000293,2015-01-21,"Esty, Elizabeth H.",CT,Rep,original cosponsor
+hr20,20,F000030,2015-01-21,"Farr, Sam",CA,Rep,original cosponsor
+hr20,11,F000454,2015-01-21,"Foster, Bill",IL,Rep,original cosponsor
+hr20,22,F000462,2015-01-21,"Frankel, Lois",FL,Rep,original cosponsor
+hr20,11,F000455,2015-01-21,"Fudge, Marcia L.",OH,Rep,original cosponsor
+hr20,2,G000571,2015-03-26,"Gabbard, Tulsi",HI,Rep,cosponsor
+hr20,7,G000574,2015-01-21,"Gallego, Ruben",AZ,Rep,original cosponsor
+hr20,2,G000575,2016-11-15,"Graham, Gwen",FL,Rep,cosponsor
+hr20,9,G000556,2015-01-21,"Grayson, Alan",FL,Rep,original cosponsor
+hr20,9,G000553,2015-01-21,"Green, Al",TX,Rep,original cosponsor
+hr20,29,G000410,2015-01-21,"Green, Gene",TX,Rep,original cosponsor
+hr20,3,G000551,2015-01-21,"Grijalva, Raul M.",AZ,Rep,original cosponsor
+hr20,4,G000535,2015-01-21,"Gutierrez, Luis V.",IL,Rep,original cosponsor
+hr20,44,H001063,2015-01-21,"Hahn, Janice",CA,Rep,original cosponsor
+hr20,20,H000324,2015-01-21,"Hastings, Alcee L.",FL,Rep,original cosponsor
+hr20,10,H001064,2015-01-21,"Heck, Denny",WA,Rep,original cosponsor
+hr20,4,H001047,2015-01-21,"Himes, James A.",CT,Rep,original cosponsor
+hr20,15,H000636,2016-07-13,"Hinojosa, Ruben",TX,Rep,cosponsor
+hr20,17,H001034,2015-01-21,"Honda, Michael M.",CA,Rep,original cosponsor
+hr20,5,H000874,2015-01-21,"Hoyer, Steny H.",MD,Rep,original cosponsor
+hr20,2,H001068,2015-01-21,"Huffman, Jared",CA,Rep,original cosponsor
+hr20,3,I000057,2015-01-21,"Israel, Steve",NY,Rep,original cosponsor
+hr20,18,J000032,2015-06-12,"Jackson Lee, Sheila",TX,Rep,cosponsor
+hr20,8,J000294,2015-09-08,"Jeffries, Hakeem S.",NY,Rep,cosponsor
+hr20,30,J000126,2015-01-21,"Johnson, Eddie Bernice",TX,Rep,original cosponsor
+hr20,4,J000288,2015-01-21,"Johnson, Henry C. ""Hank,"" Jr.",GA,Rep,original cosponsor
+hr20,3,J000255,2015-01-21,"Jones, Walter B., Jr.",NC,Rep,original cosponsor
+hr20,9,K000009,2015-01-21,"Kaptur, Marcy",OH,Rep,original cosponsor
+hr20,9,K000375,2016-04-13,"Keating, William R.",MA,Rep,cosponsor
+hr20,2,K000385,2015-01-21,"Kelly, Robin L.",IL,Rep,original cosponsor
+hr20,4,K000379,2015-01-21,"Kennedy, Joseph P., III",MA,Rep,original cosponsor
+hr20,5,K000380,2015-10-27,"Kildee, Daniel T.",MI,Rep,cosponsor
+hr20,6,K000381,2015-01-21,"Kilmer, Derek",WA,Rep,original cosponsor
+hr20,3,K000188,2015-01-21,"Kind, Ron",WI,Rep,original cosponsor
+hr20,1,K000368,2015-01-21,"Kirkpatrick, Ann",AZ,Rep,original cosponsor
+hr20,2,K000382,2015-01-21,"Kuster, Ann M.",NH,Rep,original cosponsor
+hr20,2,L000559,2015-01-21,"Langevin, James R.",RI,Rep,original cosponsor
+hr20,2,L000560,2015-01-21,"Larsen, Rick",WA,Rep,original cosponsor
+hr20,1,L000557,2015-01-21,"Larson, John B.",CT,Rep,original cosponsor
+hr20,14,L000581,2015-09-08,"Lawrence, Brenda L.",MI,Rep,cosponsor
+hr20,13,L000551,2015-01-21,"Lee, Barbara",CA,Rep,original cosponsor
+hr20,5,L000287,2015-01-21,"Lewis, John",GA,Rep,original cosponsor
+hr20,33,L000582,2015-01-21,"Lieu, Ted",CA,Rep,original cosponsor
+hr20,2,L000565,2015-01-21,"Loebsack, David",IA,Rep,original cosponsor
+hr20,19,L000397,2015-01-21,"Lofgren, Zoe",CA,Rep,original cosponsor
+hr20,47,L000579,2015-01-21,"Lowenthal, Alan S.",CA,Rep,original cosponsor
+hr20,17,L000480,2015-01-21,"Lowey, Nita M.",NY,Rep,original cosponsor
+hr20,1,L000580,2015-01-21,"Lujan Grisham, Michelle",NM,Rep,original cosponsor
+hr20,3,L000570,2015-01-21,"Lujan, Ben Ray",NM,Rep,original cosponsor
+hr20,8,L000562,2015-01-21,"Lynch, Stephen F.",MA,Rep,original cosponsor
+hr20,12,M000087,2015-01-21,"Maloney, Carolyn B.",NY,Rep,original cosponsor
+hr20,18,M001185,2015-01-21,"Maloney, Sean Patrick",NY,Rep,original cosponsor
+hr20,6,M001163,2015-01-21,"Matsui, Doris O.",CA,Rep,original cosponsor
+hr20,4,M001143,2015-01-21,"McCollum, Betty",MN,Rep,original cosponsor
+hr20,7,M000404,2015-01-21,"McDermott, Jim",WA,Rep,original cosponsor
+hr20,2,M000312,2015-01-21,"McGovern, James P.",MA,Rep,original cosponsor
+hr20,9,M001166,2015-01-21,"McNerney, Jerry",CA,Rep,original cosponsor
+hr20,5,M001137,2015-01-21,"Meeks, Gregory W.",NY,Rep,original cosponsor
+hr20,6,M001188,2015-01-21,"Meng, Grace",NY,Rep,original cosponsor
+hr20,4,M001160,2015-01-21,"Moore, Gwen",WI,Rep,original cosponsor
+hr20,6,M001196,2015-06-24,"Moulton, Seth",MA,Rep,cosponsor
+hr20,18,M001191,2015-01-21,"Murphy, Patrick",FL,Rep,original cosponsor
+hr20,10,N000002,2015-01-21,"Nadler, Jerrold",NY,Rep,original cosponsor
+hr20,32,N000179,2015-01-21,"Napolitano, Grace F.",CA,Rep,original cosponsor
+hr20,8,N000127,2015-01-21,"Nolan, Richard M.",MN,Rep,original cosponsor
+hr20,1,N000188,2015-03-16,"Norcross, Donald",NJ,Rep,cosponsor
+hr20,0,N000147,2015-01-21,"Norton, Eleanor Holmes",DC,Rep,original cosponsor
+hr20,16,O000170,2015-01-21,"O'Rourke, Beto",TX,Rep,original cosponsor
+hr20,6,P000034,2015-01-21,"Pallone, Frank, Jr.",NJ,Rep,original cosponsor
+hr20,9,P000096,2015-01-21,"Pascrell, Bill, Jr.",NJ,Rep,original cosponsor
+hr20,12,P000197,2015-01-21,"Pelosi, Nancy",CA,Rep,original cosponsor
+hr20,7,P000593,2015-01-21,"Perlmutter, Ed",CO,Rep,original cosponsor
+hr20,52,P000608,2015-01-21,"Peters, Scott H.",CA,Rep,original cosponsor
+hr20,1,P000597,2015-01-21,"Pingree, Chellie",ME,Rep,original cosponsor
+hr20,2,P000607,2015-01-21,"Pocan, Mark",WI,Rep,original cosponsor
+hr20,2,P000598,2015-01-21,"Polis, Jared",CO,Rep,original cosponsor
+hr20,5,Q000023,2015-01-21,"Quigley, Mike",IL,Rep,original cosponsor
+hr20,13,R000053,2015-01-21,"Rangel, Charles B.",NY,Rep,original cosponsor
+hr20,4,R000602,2015-01-21,"Rice, Kathleen M.",NY,Rep,original cosponsor
+hr20,40,R000486,2015-01-21,"Roybal-Allard, Lucille",CA,Rep,original cosponsor
+hr20,2,R000576,2015-01-21,"Ruppersberger, C. A. Dutch",MD,Rep,original cosponsor
+hr20,1,R000515,2015-01-21,"Rush, Bobby L.",IL,Rep,original cosponsor
+hr20,13,R000577,2015-03-03,"Ryan, Tim",OH,Rep,cosponsor
+hr20,38,S001156,2015-11-30,"Sanchez, Linda T.",CA,Rep,cosponsor
+hr20,9,S001145,2015-01-21,"Schakowsky, Janice D.",IL,Rep,original cosponsor
+hr20,5,S001180,2015-01-21,"Schrader, Kurt",OR,Rep,original cosponsor
+hr20,3,S000185,2015-01-21,"Scott, Robert C. ""Bobby""",VA,Rep,original cosponsor
+hr20,15,S000248,2015-01-21,"Serrano, Jose E.",NY,Rep,original cosponsor
+hr20,7,S001185,2015-01-21,"Sewell, Terri A.",AL,Rep,original cosponsor
+hr20,30,S000344,2015-01-21,"Sherman, Brad",CA,Rep,original cosponsor
+hr20,8,S001165,2015-01-21,"Sires, Albio",NJ,Rep,original cosponsor
+hr20,25,S000480,2015-01-21,"Slaughter, Louise McIntosh",NY,Rep,original cosponsor
+hr20,9,S000510,2015-01-21,"Smith, Adam",WA,Rep,original cosponsor
+hr20,14,S001175,2015-01-21,"Speier, Jackie",CA,Rep,original cosponsor
+hr20,15,S001193,2015-01-21,"Swalwell, Eric",CA,Rep,original cosponsor
+hr20,1,T000473,2015-01-21,"Takai, Mark",HI,Rep,original cosponsor
+hr20,41,T000472,2015-01-21,"Takano, Mark",CA,Rep,original cosponsor
+hr20,5,T000460,2015-01-21,"Thompson, Mike",CA,Rep,original cosponsor
+hr20,20,T000469,2015-01-21,"Tonko, Paul",NY,Rep,original cosponsor
+hr20,3,T000465,2015-01-21,"Tsongas, Niki",MA,Rep,original cosponsor
+hr20,8,V000128,2015-01-21,"Van Hollen, Chris",MD,Rep,original cosponsor
+hr20,51,V000130,2015-01-21,"Vargas, Juan",CA,Rep,original cosponsor
+hr20,33,V000131,2015-01-27,"Veasey, Marc A.",TX,Rep,cosponsor
+hr20,1,W000799,2015-01-21,"Walz, Timothy J.",MN,Rep,original cosponsor
+hr20,23,W000797,2015-01-21,"Wasserman Schultz, Debbie",FL,Rep,original cosponsor
+hr20,12,W000822,2015-01-21,"Watson Coleman, Bonnie",NJ,Rep,original cosponsor
+hr20,0,W000800,2015-01-21,"Welch, Peter",VT,Rep,original cosponsor
+hr20,24,W000808,2015-01-21,"Wilson, Frederica S.",FL,Rep,original cosponsor
+hr20,3,Y000062,2015-01-21,"Yarmuth, John A.",KY,Rep,original cosponsor
+hr21,5,S000244,2015-01-06,"Sensenbrenner, F. James, Jr.",WI,Rep,sponsor
+hr21,1,B001283,2015-01-27,"Bridenstine, Jim",OK,Rep,cosponsor
+hr21,4,D000191,2015-03-13,"DeFazio, Peter A.",OR,Rep,cosponsor
+hr21,15,D000604,2015-06-24,"Dent, Charles W.",PA,Rep,cosponsor
+hr21,4,G000565,2016-09-21,"Gosar, Paul A.",AZ,Rep,cosponsor
+hr21,6,G000576,2015-06-11,"Grothman, Glenn",WI,Rep,cosponsor
+hr21,3,J000255,2015-01-27,"Jones, Walter B., Jr.",NC,Rep,cosponsor
+hr21,4,J000289,2015-01-28,"Jordan, Jim",OH,Rep,cosponsor
+hr21,4,M001160,2015-03-13,"Moore, Gwen",WI,Rep,cosponsor
+hr21,32,N000179,2015-04-21,"Napolitano, Grace F.",CA,Rep,cosponsor
+hr21,11,N000185,2015-01-27,"Nugent, Richard B.",FL,Rep,cosponsor
+hr21,4,P000605,2015-01-27,"Perry, Scott",PA,Rep,cosponsor
+hr21,8,P000599,2015-02-03,"Posey, Bill",FL,Rep,cosponsor
+hr21,8,R000587,2015-05-19,"Ribble, Reid J.",WI,Rep,cosponsor
+hr21,5,S000018,2015-03-24,"Salmon, Matt",AZ,Rep,cosponsor
+hr21,3,S001172,2015-04-28,"Smith, Adrian",NE,Rep,cosponsor
+hr21,7,W000798,2015-01-27,"Walberg, Tim",MI,Rep,cosponsor
+hr22,13,D000619,2015-01-06,"Davis, Rodney",IL,Rep,sponsor
+hr22,2,A000369,2015-01-06,"Amodei, Mark E.",NV,Rep,original cosponsor
+hr22,2,A000369,2015-01-06,"Amodei, Mark E.",NV,Rep,original cosponsor
+hr22,2,A000373,2015-01-06,"Ashford, Brad",NE,Rep,original cosponsor
+hr22,2,A000373,2015-01-06,"Ashford, Brad",NE,Rep,original cosponsor
+hr22,36,B001291,2015-01-06,"Babin, Brian",TX,Rep,original cosponsor
+hr22,36,B001291,2015-01-06,"Babin, Brian",TX,Rep,original cosponsor
+hr22,11,B001269,2015-01-06,"Barletta, Lou",PA,Rep,original cosponsor
+hr22,11,B001269,2015-01-06,"Barletta, Lou",PA,Rep,original cosponsor
+hr22,6,B001282,2015-01-06,"Barr, Andy",KY,Rep,original cosponsor
+hr22,6,B001282,2015-01-06,"Barr, Andy",KY,Rep,original cosponsor
+hr22,1,B001271,2015-01-06,"Benishek, Dan",MI,Rep,original cosponsor
+hr22,1,B001271,2015-01-06,"Benishek, Dan",MI,Rep,original cosponsor
+hr22,12,B001257,2015-01-06,"Bilirakis, Gus M.",FL,Rep,original cosponsor
+hr22,12,B001257,2015-01-06,"Bilirakis, Gus M.",FL,Rep,original cosponsor
+hr22,6,B001273,2015-01-06,"Black, Diane",TN,Rep,original cosponsor
+hr22,6,B001273,2015-01-06,"Black, Diane",TN,Rep,original cosponsor
+hr22,7,B001243,2015-01-06,"Blackburn, Marsha",TN,Rep,original cosponsor
+hr22,7,B001243,2015-01-06,"Blackburn, Marsha",TN,Rep,original cosponsor
+hr22,12,B001295,2015-01-06,"Bost, Mike",IL,Rep,original cosponsor
+hr22,12,B001295,2015-01-06,"Bost, Mike",IL,Rep,original cosponsor
+hr22,3,B001255,2015-01-06,"Boustany, Charles W., Jr.",LA,Rep,original cosponsor
+hr22,3,B001255,2015-01-06,"Boustany, Charles W., Jr.",LA,Rep,original cosponsor
+hr22,8,B000755,2015-01-06,"Brady, Kevin",TX,Rep,original cosponsor
+hr22,8,B000755,2015-01-06,"Brady, Kevin",TX,Rep,original cosponsor
+hr22,7,B001290,2015-01-06,"Brat, Dave",VA,Rep,original cosponsor
+hr22,7,B001290,2015-01-06,"Brat, Dave",VA,Rep,original cosponsor
+hr22,5,B001274,2015-01-06,"Brooks, Mo",AL,Rep,original cosponsor
+hr22,5,B001274,2015-01-06,"Brooks, Mo",AL,Rep,original cosponsor
+hr22,42,C000059,2015-01-06,"Calvert, Ken",CA,Rep,original cosponsor
+hr22,42,C000059,2015-01-06,"Calvert, Ken",CA,Rep,original cosponsor
+hr22,1,C000266,2015-01-06,"Chabot, Steve",OH,Rep,original cosponsor
+hr22,1,C000266,2015-01-06,"Chabot, Steve",OH,Rep,original cosponsor
+hr22,19,C001102,2015-01-06,"Clawson, Curt",FL,Rep,original cosponsor
+hr22,19,C001102,2015-01-06,"Clawson, Curt",FL,Rep,original cosponsor
+hr22,6,C001077,2015-01-06,"Coffman, Mike",CO,Rep,original cosponsor
+hr22,6,C001077,2015-01-06,"Coffman, Mike",CO,Rep,original cosponsor
+hr22,4,C001053,2015-01-06,"Cole, Tom",OK,Rep,original cosponsor
+hr22,4,C001053,2015-01-06,"Cole, Tom",OK,Rep,original cosponsor
+hr22,10,C001105,2015-01-06,"Comstock, Barbara",VA,Rep,original cosponsor
+hr22,10,C001105,2015-01-06,"Comstock, Barbara",VA,Rep,original cosponsor
+hr22,8,C001094,2015-01-06,"Cook, Paul",CA,Rep,original cosponsor
+hr22,8,C001094,2015-01-06,"Cook, Paul",CA,Rep,original cosponsor
+hr22,6,C001106,2015-01-06,"Costello, Ryan A.",PA,Rep,original cosponsor
+hr22,6,C001106,2015-01-06,"Costello, Ryan A.",PA,Rep,original cosponsor
+hr22,0,C001096,2015-01-06,"Cramer, Kevin",ND,Rep,original cosponsor
+hr22,0,C001096,2015-01-06,"Cramer, Kevin",ND,Rep,original cosponsor
+hr22,1,C001087,2015-01-06,"Crawford, Eric A. ""Rick""",AR,Rep,original cosponsor
+hr22,1,C001087,2015-01-06,"Crawford, Eric A. ""Rick""",AR,Rep,original cosponsor
+hr22,26,C001107,2015-01-06,"Curbelo, Carlos",FL,Rep,original cosponsor
+hr22,26,C001107,2015-01-06,"Curbelo, Carlos",FL,Rep,original cosponsor
+hr22,10,D000612,2015-01-06,"Denham, Jeff",CA,Rep,original cosponsor
+hr22,10,D000612,2015-01-06,"Denham, Jeff",CA,Rep,original cosponsor
+hr22,7,D000614,2015-01-06,"Duffy, Sean P.",WI,Rep,original cosponsor
+hr22,7,D000614,2015-01-06,"Duffy, Sean P.",WI,Rep,original cosponsor
+hr22,2,D000533,2015-01-06,"Duncan, John J., Jr.",TN,Rep,original cosponsor
+hr22,2,D000533,2015-01-06,"Duncan, John J., Jr.",TN,Rep,original cosponsor
+hr22,2,E000291,2015-01-06,"Ellmers, Renee L.",NC,Rep,original cosponsor
+hr22,2,E000291,2015-01-06,"Ellmers, Renee L.",NC,Rep,original cosponsor
+hr22,6,E000294,2015-01-06,"Emmer, Tom",MN,Rep,original cosponsor
+hr22,6,E000294,2015-01-06,"Emmer, Tom",MN,Rep,original cosponsor
+hr22,27,F000460,2015-01-06,"Farenthold, Blake",TX,Rep,original cosponsor
+hr22,27,F000460,2015-01-06,"Farenthold, Blake",TX,Rep,original cosponsor
+hr22,8,F000458,2015-01-06,"Fincher, Stephen Lee",TN,Rep,original cosponsor
+hr22,8,F000458,2015-01-06,"Fincher, Stephen Lee",TN,Rep,original cosponsor
+hr22,8,F000451,2015-01-06,"Fitzpatrick, Michael G.",PA,Rep,original cosponsor
+hr22,8,F000451,2015-01-06,"Fitzpatrick, Michael G.",PA,Rep,original cosponsor
+hr22,3,F000459,2015-01-06,"Fleischmann, Charles J. ""Chuck""",TN,Rep,original cosponsor
+hr22,3,F000459,2015-01-06,"Fleischmann, Charles J. ""Chuck""",TN,Rep,original cosponsor
+hr22,8,F000448,2015-01-06,"Franks, Trent",AZ,Rep,original cosponsor
+hr22,8,F000448,2015-01-06,"Franks, Trent",AZ,Rep,original cosponsor
+hr22,2,G000571,2015-01-06,"Gabbard, Tulsi",HI,Rep,original cosponsor
+hr22,2,G000571,2015-01-06,"Gabbard, Tulsi",HI,Rep,original cosponsor
+hr22,7,G000563,2015-01-06,"Gibbs, Bob",OH,Rep,original cosponsor
+hr22,7,G000563,2015-01-06,"Gibbs, Bob",OH,Rep,original cosponsor
+hr22,19,G000564,2015-01-06,"Gibson, Christopher P.",NY,Rep,original cosponsor
+hr22,19,G000564,2015-01-06,"Gibson, Christopher P.",NY,Rep,original cosponsor
+hr22,6,G000289,2015-01-06,"Goodlatte, Bob",VA,Rep,original cosponsor
+hr22,6,G000289,2015-01-06,"Goodlatte, Bob",VA,Rep,original cosponsor
+hr22,4,G000565,2015-01-06,"Gosar, Paul A.",AZ,Rep,original cosponsor
+hr22,4,G000565,2015-01-06,"Gosar, Paul A.",AZ,Rep,original cosponsor
+hr22,9,G000568,2015-01-06,"Griffith, H. Morgan",VA,Rep,original cosponsor
+hr22,9,G000568,2015-01-06,"Griffith, H. Morgan",VA,Rep,original cosponsor
+hr22,1,G000570,2015-01-06,"Guinta, Frank C.",NH,Rep,original cosponsor
+hr22,1,G000570,2015-01-06,"Guinta, Frank C.",NH,Rep,original cosponsor
+hr22,22,H001051,2015-01-06,"Hanna, Richard L.",NY,Rep,original cosponsor
+hr22,22,H001051,2015-01-06,"Hanna, Richard L.",NY,Rep,original cosponsor
+hr22,4,H001070,2015-01-06,"Hardy, Cresent",NV,Rep,original cosponsor
+hr22,4,H001070,2015-01-06,"Hardy, Cresent",NV,Rep,original cosponsor
+hr22,4,H001053,2015-01-06,"Hartzler, Vicky",MO,Rep,original cosponsor
+hr22,4,H001053,2015-01-06,"Hartzler, Vicky",MO,Rep,original cosponsor
+hr22,2,H001072,2015-01-06,"Hill, J. French",AR,Rep,original cosponsor
+hr22,2,H001072,2015-01-06,"Hill, J. French",AR,Rep,original cosponsor
+hr22,8,H001067,2015-01-06,"Hudson, Richard",NC,Rep,original cosponsor
+hr22,8,H001067,2015-01-06,"Hudson, Richard",NC,Rep,original cosponsor
+hr22,2,H001058,2015-01-06,"Huizenga, Bill",MI,Rep,original cosponsor
+hr22,2,H001058,2015-01-06,"Huizenga, Bill",MI,Rep,original cosponsor
+hr22,14,H001059,2015-01-06,"Hultgren, Randy",IL,Rep,original cosponsor
+hr22,14,H001059,2015-01-06,"Hultgren, Randy",IL,Rep,original cosponsor
+hr22,50,H001048,2015-01-06,"Hunter, Duncan D.",CA,Rep,original cosponsor
+hr22,50,H001048,2015-01-06,"Hunter, Duncan D.",CA,Rep,original cosponsor
+hr22,3,J000297,2015-01-06,"Jenkins, Evan H.",WV,Rep,original cosponsor
+hr22,3,J000297,2015-01-06,"Jenkins, Evan H.",WV,Rep,original cosponsor
+hr22,2,J000290,2015-01-06,"Jenkins, Lynn",KS,Rep,original cosponsor
+hr22,2,J000290,2015-01-06,"Jenkins, Lynn",KS,Rep,original cosponsor
+hr22,6,J000292,2015-01-06,"Johnson, Bill",OH,Rep,original cosponsor
+hr22,6,J000292,2015-01-06,"Johnson, Bill",OH,Rep,original cosponsor
+hr22,13,J000296,2015-01-06,"Jolly, David",FL,Rep,original cosponsor
+hr22,13,J000296,2015-01-06,"Jolly, David",FL,Rep,original cosponsor
+hr22,3,J000255,2015-01-06,"Jones, Walter B., Jr.",NC,Rep,original cosponsor
+hr22,3,J000255,2015-01-06,"Jones, Walter B., Jr.",NC,Rep,original cosponsor
+hr22,14,J000295,2015-01-06,"Joyce, David P.",OH,Rep,original cosponsor
+hr22,14,J000295,2015-01-06,"Joyce, David P.",OH,Rep,original cosponsor
+hr22,3,K000376,2015-01-06,"Kelly, Mike",PA,Rep,original cosponsor
+hr22,3,K000376,2015-01-06,"Kelly, Mike",PA,Rep,original cosponsor
+hr22,4,K000362,2015-01-06,"King, Steve",IA,Rep,original cosponsor
+hr22,4,K000362,2015-01-06,"King, Steve",IA,Rep,original cosponsor
+hr22,16,K000378,2015-01-06,"Kinzinger, Adam",IL,Rep,original cosponsor
+hr22,16,K000378,2015-01-06,"Kinzinger, Adam",IL,Rep,original cosponsor
+hr22,2,K000363,2015-01-06,"Kline, John",MN,Rep,original cosponsor
+hr22,2,K000363,2015-01-06,"Kline, John",MN,Rep,original cosponsor
+hr22,1,L000578,2015-01-06,"LaMalfa, Doug",CA,Rep,original cosponsor
+hr22,1,L000578,2015-01-06,"LaMalfa, Doug",CA,Rep,original cosponsor
+hr22,5,L000564,2015-01-06,"Lamborn, Doug",CO,Rep,original cosponsor
+hr22,5,L000564,2015-01-06,"Lamborn, Doug",CO,Rep,original cosponsor
+hr22,5,L000566,2015-01-06,"Latta, Robert E.",OH,Rep,original cosponsor
+hr22,5,L000566,2015-01-06,"Latta, Robert E.",OH,Rep,original cosponsor
+hr22,3,L000563,2015-01-06,"Lipinski, Daniel",IL,Rep,original cosponsor
+hr22,3,L000563,2015-01-06,"Lipinski, Daniel",IL,Rep,original cosponsor
+hr22,7,L000576,2015-01-06,"Long, Billy",MO,Rep,original cosponsor
+hr22,7,L000576,2015-01-06,"Long, Billy",MO,Rep,original cosponsor
+hr22,3,M001193,2015-01-06,"MacArthur, Thomas",NJ,Rep,original cosponsor
+hr22,3,M001193,2015-01-06,"MacArthur, Thomas",NJ,Rep,original cosponsor
+hr22,10,M001179,2015-01-06,"Marino, Tom",PA,Rep,original cosponsor
+hr22,10,M001179,2015-01-06,"Marino, Tom",PA,Rep,original cosponsor
+hr22,10,M001157,2015-01-06,"McCaul, Michael T.",TX,Rep,original cosponsor
+hr22,10,M001157,2015-01-06,"McCaul, Michael T.",TX,Rep,original cosponsor
+hr22,4,M001177,2015-01-06,"McClintock, Tom",CA,Rep,original cosponsor
+hr22,4,M001177,2015-01-06,"McClintock, Tom",CA,Rep,original cosponsor
+hr22,1,M001180,2015-01-06,"McKinley, David B.",WV,Rep,original cosponsor
+hr22,1,M001180,2015-01-06,"McKinley, David B.",WV,Rep,original cosponsor
+hr22,2,M001197,2015-01-06,"McSally, Martha",AZ,Rep,original cosponsor
+hr22,2,M001197,2015-01-06,"McSally, Martha",AZ,Rep,original cosponsor
+hr22,7,M001181,2015-01-06,"Meehan, Patrick",PA,Rep,original cosponsor
+hr22,7,M001181,2015-01-06,"Meehan, Patrick",PA,Rep,original cosponsor
+hr22,6,M001189,2015-01-06,"Messer, Luke",IN,Rep,original cosponsor
+hr22,6,M001189,2015-01-06,"Messer, Luke",IN,Rep,original cosponsor
+hr22,7,M000689,2015-01-06,"Mica, John L.",FL,Rep,original cosponsor
+hr22,7,M000689,2015-01-06,"Mica, John L.",FL,Rep,original cosponsor
+hr22,10,M001150,2015-01-06,"Miller, Candice S.",MI,Rep,original cosponsor
+hr22,10,M001150,2015-01-06,"Miller, Candice S.",MI,Rep,original cosponsor
+hr22,1,M001144,2015-01-06,"Miller, Jeff",FL,Rep,original cosponsor
+hr22,1,M001144,2015-01-06,"Miller, Jeff",FL,Rep,original cosponsor
+hr22,2,M001190,2015-01-06,"Mullin, Markwayne",OK,Rep,original cosponsor
+hr22,2,M001190,2015-01-06,"Mullin, Markwayne",OK,Rep,original cosponsor
+hr22,19,N000182,2015-01-06,"Neugebauer, Randy",TX,Rep,original cosponsor
+hr22,19,N000182,2015-01-06,"Neugebauer, Randy",TX,Rep,original cosponsor
+hr22,4,N000189,2015-01-06,"Newhouse, Dan",WA,Rep,original cosponsor
+hr22,4,N000189,2015-01-06,"Newhouse, Dan",WA,Rep,original cosponsor
+hr22,11,N000185,2015-01-06,"Nugent, Richard B.",FL,Rep,original cosponsor
+hr22,11,N000185,2015-01-06,"Nugent, Richard B.",FL,Rep,original cosponsor
+hr22,4,P000601,2015-01-06,"Palazzo, Steven M.",MS,Rep,original cosponsor
+hr22,4,P000601,2015-01-06,"Palazzo, Steven M.",MS,Rep,original cosponsor
+hr22,2,P000588,2015-01-06,"Pearce, Stevan",NM,Rep,original cosponsor
+hr22,2,P000588,2015-01-06,"Pearce, Stevan",NM,Rep,original cosponsor
+hr22,9,P000606,2015-01-06,"Pittenger, Robert",NC,Rep,original cosponsor
+hr22,9,P000606,2015-01-06,"Pittenger, Robert",NC,Rep,original cosponsor
+hr22,4,R000601,2015-01-06,"Ratcliffe, John",TX,Rep,original cosponsor
+hr22,4,R000601,2015-01-06,"Ratcliffe, John",TX,Rep,original cosponsor
+hr22,23,R000585,2015-01-06,"Reed, Tom",NY,Rep,original cosponsor
+hr22,23,R000585,2015-01-06,"Reed, Tom",NY,Rep,original cosponsor
+hr22,16,R000586,2015-01-06,"Renacci, James B.",OH,Rep,original cosponsor
+hr22,16,R000586,2015-01-06,"Renacci, James B.",OH,Rep,original cosponsor
+hr22,7,R000597,2015-01-06,"Rice, Tom",SC,Rep,original cosponsor
+hr22,7,R000597,2015-01-06,"Rice, Tom",SC,Rep,original cosponsor
+hr22,2,R000589,2015-01-06,"Rigell, E. Scott",VA,Rep,original cosponsor
+hr22,2,R000589,2015-01-06,"Rigell, E. Scott",VA,Rep,original cosponsor
+hr22,1,R000582,2015-01-06,"Roe, David P.",TN,Rep,original cosponsor
+hr22,1,R000582,2015-01-06,"Roe, David P.",TN,Rep,original cosponsor
+hr22,4,R000592,2015-01-06,"Rokita, Todd",IN,Rep,original cosponsor
+hr22,4,R000592,2015-01-06,"Rokita, Todd",IN,Rep,original cosponsor
+hr22,6,R000580,2015-01-06,"Roskam, Peter J.",IL,Rep,original cosponsor
+hr22,6,R000580,2015-01-06,"Roskam, Peter J.",IL,Rep,original cosponsor
+hr22,15,R000593,2015-01-06,"Ross, Dennis A.",FL,Rep,original cosponsor
+hr22,15,R000593,2015-01-06,"Ross, Dennis A.",FL,Rep,original cosponsor
+hr22,7,R000603,2015-01-06,"Rouzer, David",NC,Rep,original cosponsor
+hr22,7,R000603,2015-01-06,"Rouzer, David",NC,Rep,original cosponsor
+hr22,36,R000599,2015-01-06,"Ruiz, Raul",CA,Rep,original cosponsor
+hr22,36,R000599,2015-01-06,"Ruiz, Raul",CA,Rep,original cosponsor
+hr22,18,S001179,2015-01-06,"Schock, Aaron",IL,Rep,original cosponsor
+hr22,18,S001179,2015-01-06,"Schock, Aaron",IL,Rep,original cosponsor
+hr22,5,S000244,2015-01-06,"Sensenbrenner, F. James, Jr.",WI,Rep,original cosponsor
+hr22,5,S000244,2015-01-06,"Sensenbrenner, F. James, Jr.",WI,Rep,original cosponsor
+hr22,32,S000250,2015-01-06,"Sessions, Pete",TX,Rep,original cosponsor
+hr22,32,S000250,2015-01-06,"Sessions, Pete",TX,Rep,original cosponsor
+hr22,15,S000364,2015-01-06,"Shimkus, John",IL,Rep,original cosponsor
+hr22,15,S000364,2015-01-06,"Shimkus, John",IL,Rep,original cosponsor
+hr22,8,S001195,2015-01-06,"Smith, Jason",MO,Rep,original cosponsor
+hr22,8,S001195,2015-01-06,"Smith, Jason",MO,Rep,original cosponsor
+hr22,2,S001192,2015-01-06,"Stewart, Chris",UT,Rep,original cosponsor
+hr22,2,S001192,2015-01-06,"Stewart, Chris",UT,Rep,original cosponsor
+hr22,15,S001187,2015-01-06,"Stivers, Steve",OH,Rep,original cosponsor
+hr22,15,S001187,2015-01-06,"Stivers, Steve",OH,Rep,original cosponsor
+hr22,5,T000467,2015-01-06,"Thompson, Glenn",PA,Rep,original cosponsor
+hr22,5,T000467,2015-01-06,"Thompson, Glenn",PA,Rep,original cosponsor
+hr22,12,T000462,2015-01-06,"Tiberi, Patrick J.",OH,Rep,original cosponsor
+hr22,12,T000462,2015-01-06,"Tiberi, Patrick J.",OH,Rep,original cosponsor
+hr22,21,V000129,2015-01-06,"Valadao, David G.",CA,Rep,original cosponsor
+hr22,21,V000129,2015-01-06,"Valadao, David G.",CA,Rep,original cosponsor
+hr22,2,W000812,2015-01-06,"Wagner, Ann",MO,Rep,original cosponsor
+hr22,2,W000812,2015-01-06,"Wagner, Ann",MO,Rep,original cosponsor
+hr22,7,W000798,2015-01-06,"Walberg, Tim",MI,Rep,original cosponsor
+hr22,7,W000798,2015-01-06,"Walberg, Tim",MI,Rep,original cosponsor
+hr22,2,W000791,2015-01-06,"Walden, Greg",OR,Rep,original cosponsor
+hr22,2,W000791,2015-01-06,"Walden, Greg",OR,Rep,original cosponsor
+hr22,2,W000813,2015-01-06,"Walorski, Jackie",IN,Rep,original cosponsor
+hr22,2,W000813,2015-01-06,"Walorski, Jackie",IN,Rep,original cosponsor
+hr22,4,W000821,2015-01-06,"Westerman, Bruce",AR,Rep,original cosponsor
+hr22,4,W000821,2015-01-06,"Westerman, Bruce",AR,Rep,original cosponsor
+hr22,3,W000796,2015-01-06,"Westmoreland, Lynn A.",GA,Rep,original cosponsor
+hr22,3,W000796,2015-01-06,"Westmoreland, Lynn A.",GA,Rep,original cosponsor
+hr22,1,W000413,2015-01-06,"Whitfield, Ed",KY,Rep,original cosponsor
+hr22,1,W000413,2015-01-06,"Whitfield, Ed",KY,Rep,original cosponsor
+hr22,25,W000816,2015-01-06,"Williams, Roger",TX,Rep,original cosponsor
+hr22,25,W000816,2015-01-06,"Williams, Roger",TX,Rep,original cosponsor
+hr22,1,W000804,2015-01-06,"Wittman, Robert J.",VA,Rep,original cosponsor
+hr22,1,W000804,2015-01-06,"Wittman, Robert J.",VA,Rep,original cosponsor
+hr22,3,W000809,2015-01-06,"Womack, Steve",AR,Rep,original cosponsor
+hr22,3,W000809,2015-01-06,"Womack, Steve",AR,Rep,original cosponsor
+hr22,7,W000810,2015-01-06,"Woodall, Rob",GA,Rep,original cosponsor
+hr22,7,W000810,2015-01-06,"Woodall, Rob",GA,Rep,original cosponsor
+hr22,3,Y000065,2015-01-06,"Yoho, Ted S.",FL,Rep,original cosponsor
+hr22,3,Y000065,2015-01-06,"Yoho, Ted S.",FL,Rep,original cosponsor
+hr22,1,Z000017,2015-01-06,"Zeldin, Lee M.",NY,Rep,original cosponsor
+hr22,1,Z000017,2015-01-06,"Zeldin, Lee M.",NY,Rep,original cosponsor
+hr22,0,Z000018,2015-01-06,"Zinke, Ryan K.",MT,Rep,original cosponsor
+hr22,0,Z000018,2015-01-06,"Zinke, Ryan K.",MT,Rep,original cosponsor
+hr23,19,N000182,2015-01-06,"Neugebauer, Randy",TX,Rep,sponsor
+hr23,8,B001275,2015-01-06,"Bucshon, Larry",IN,Rep,original cosponsor
+hr23,8,B001275,2015-01-06,"Bucshon, Larry",IN,Rep,original cosponsor
+hr23,5,E000293,2015-01-06,"Esty, Elizabeth H.",CT,Rep,original cosponsor
+hr23,5,E000293,2015-01-06,"Esty, Elizabeth H.",CT,Rep,original cosponsor
+hr23,14,H001059,2015-01-06,"Hultgren, Randy",IL,Rep,original cosponsor
+hr23,14,H001059,2015-01-06,"Hultgren, Randy",IL,Rep,original cosponsor
+hr23,30,J000126,2015-01-06,"Johnson, Eddie Bernice",TX,Rep,original cosponsor
+hr23,30,J000126,2015-01-06,"Johnson, Eddie Bernice",TX,Rep,original cosponsor
+hr23,3,L000563,2015-01-06,"Lipinski, Daniel",IL,Rep,original cosponsor
+hr23,3,L000563,2015-01-06,"Lipinski, Daniel",IL,Rep,original cosponsor
+hr23,21,S000583,2015-01-06,"Smith, Lamar",TX,Rep,original cosponsor
+hr23,21,S000583,2015-01-06,"Smith, Lamar",TX,Rep,original cosponsor
+hr23,24,W000808,2015-01-06,"Wilson, Frederica S.",FL,Rep,original cosponsor
+hr23,24,W000808,2015-01-06,"Wilson, Frederica S.",FL,Rep,original cosponsor
+hr24,4,M001184,2015-01-06,"Massie, Thomas",KY,Rep,sponsor
+hr24,12,A000372,2015-01-14,"Allen, Rick W.",GA,Rep,cosponsor
+hr24,3,A000367,2015-01-06,"Amash, Justin",MI,Rep,original cosponsor
+hr24,3,A000367,2015-01-06,"Amash, Justin",MI,Rep,original cosponsor
+hr24,2,A000369,2015-01-06,"Amodei, Mark E.",NV,Rep,original cosponsor
+hr24,2,A000369,2015-01-06,"Amodei, Mark E.",NV,Rep,original cosponsor
+hr24,36,B001291,2015-01-22,"Babin, Brian",TX,Rep,cosponsor
+hr24,11,B001269,2015-05-01,"Barletta, Lou",PA,Rep,cosponsor
+hr24,6,B001282,2015-05-01,"Barr, Andy",KY,Rep,cosponsor
+hr24,6,B000213,2015-05-01,"Barton, Joe",TX,Rep,cosponsor
+hr24,1,B001271,2015-01-06,"Benishek, Dan",MI,Rep,original cosponsor
+hr24,1,B001271,2015-01-06,"Benishek, Dan",MI,Rep,original cosponsor
+hr24,12,B001257,2016-04-18,"Bilirakis, Gus M.",FL,Rep,cosponsor
+hr24,8,B001293,2015-02-09,"Bishop, Mike",MI,Rep,cosponsor
+hr24,1,B001250,2016-04-12,"Bishop, Rob",UT,Rep,cosponsor
+hr24,6,B001273,2015-01-06,"Black, Diane",TN,Rep,original cosponsor
+hr24,6,B001273,2015-01-06,"Black, Diane",TN,Rep,original cosponsor
+hr24,7,B001243,2015-01-06,"Blackburn, Marsha",TN,Rep,original cosponsor
+hr24,7,B001243,2015-01-06,"Blackburn, Marsha",TN,Rep,original cosponsor
+hr24,1,B001294,2015-01-06,"Blum, Rod",IA,Rep,original cosponsor
+hr24,1,B001294,2015-01-06,"Blum, Rod",IA,Rep,original cosponsor
+hr24,12,B001295,2015-03-17,"Bost, Mike",IL,Rep,cosponsor
+hr24,3,B001255,2015-01-06,"Boustany, Charles W., Jr.",LA,Rep,original cosponsor
+hr24,3,B001255,2015-01-06,"Boustany, Charles W., Jr.",LA,Rep,original cosponsor
+hr24,7,B001290,2015-01-08,"Brat, Dave",VA,Rep,cosponsor
+hr24,1,B001283,2015-02-24,"Bridenstine, Jim",OK,Rep,cosponsor
+hr24,5,B001274,2015-01-06,"Brooks, Mo",AL,Rep,original cosponsor
+hr24,5,B001274,2015-01-06,"Brooks, Mo",AL,Rep,original cosponsor
+hr24,16,B001260,2015-02-03,"Buchanan, Vern",FL,Rep,cosponsor
+hr24,4,B001297,2015-02-03,"Buck, Ken",CO,Rep,cosponsor
+hr24,26,B001248,2015-01-06,"Burgess, Michael C.",TX,Rep,original cosponsor
+hr24,26,B001248,2015-01-06,"Burgess, Michael C.",TX,Rep,original cosponsor
+hr24,42,C000059,2015-02-09,"Calvert, Ken",CA,Rep,cosponsor
+hr24,1,C001103,2015-01-22,"Carter, Earl L. ""Buddy""",GA,Rep,cosponsor
+hr24,31,C001051,2015-02-10,"Carter, John R.",TX,Rep,cosponsor
+hr24,1,C000266,2015-01-06,"Chabot, Steve",OH,Rep,original cosponsor
+hr24,1,C000266,2015-01-06,"Chabot, Steve",OH,Rep,original cosponsor
+hr24,3,C001076,2016-05-11,"Chaffetz, Jason",UT,Rep,cosponsor
+hr24,19,C001102,2015-01-06,"Clawson, Curt",FL,Rep,original cosponsor
+hr24,19,C001102,2015-01-06,"Clawson, Curt",FL,Rep,original cosponsor
+hr24,6,C001077,2015-02-24,"Coffman, Mike",CO,Rep,cosponsor
+hr24,4,C001053,2015-01-06,"Cole, Tom",OK,Rep,original cosponsor
+hr24,4,C001053,2015-01-06,"Cole, Tom",OK,Rep,original cosponsor
+hr24,27,C001092,2015-01-06,"Collins, Chris",NY,Rep,original cosponsor
+hr24,27,C001092,2015-01-06,"Collins, Chris",NY,Rep,original cosponsor
+hr24,9,C001093,2015-01-06,"Collins, Doug",GA,Rep,original cosponsor
+hr24,9,C001093,2015-01-06,"Collins, Doug",GA,Rep,original cosponsor
+hr24,11,C001062,2015-05-01,"Conaway, K. Michael",TX,Rep,cosponsor
+hr24,8,C001094,2015-01-13,"Cook, Paul",CA,Rep,cosponsor
+hr24,0,C001096,2015-01-06,"Cramer, Kevin",ND,Rep,original cosponsor
+hr24,0,C001096,2015-01-06,"Cramer, Kevin",ND,Rep,original cosponsor
+hr24,1,C001087,2015-01-22,"Crawford, Eric A. ""Rick""",AR,Rep,cosponsor
+hr24,7,C001048,2015-01-06,"Culberson, John Abney",TX,Rep,original cosponsor
+hr24,7,C001048,2015-01-06,"Culberson, John Abney",TX,Rep,original cosponsor
+hr24,26,C001107,2015-02-24,"Curbelo, Carlos",FL,Rep,cosponsor
+hr24,13,D000619,2015-02-09,"Davis, Rodney",IL,Rep,cosponsor
+hr24,4,D000191,2015-02-10,"DeFazio, Peter A.",OR,Rep,cosponsor
+hr24,10,D000612,2015-01-06,"Denham, Jeff",CA,Rep,original cosponsor
+hr24,10,D000612,2015-01-06,"Denham, Jeff",CA,Rep,original cosponsor
+hr24,6,D000621,2015-01-06,"DeSantis, Ron",FL,Rep,original cosponsor
+hr24,6,D000621,2015-01-06,"DeSantis, Ron",FL,Rep,original cosponsor
+hr24,4,D000616,2015-01-22,"DesJarlais, Scott",TN,Rep,cosponsor
+hr24,25,D000600,2015-04-22,"Diaz-Balart, Mario",FL,Rep,cosponsor
+hr24,7,D000614,2015-05-01,"Duffy, Sean P.",WI,Rep,cosponsor
+hr24,3,D000615,2015-01-06,"Duncan, Jeff",SC,Rep,original cosponsor
+hr24,3,D000615,2015-01-06,"Duncan, Jeff",SC,Rep,original cosponsor
+hr24,2,D000533,2015-01-06,"Duncan, John J., Jr.",TN,Rep,original cosponsor
+hr24,2,D000533,2015-01-06,"Duncan, John J., Jr.",TN,Rep,original cosponsor
+hr24,2,E000291,2015-01-06,"Ellmers, Renee L.",NC,Rep,original cosponsor
+hr24,2,E000291,2015-01-06,"Ellmers, Renee L.",NC,Rep,original cosponsor
+hr24,6,E000294,2015-01-08,"Emmer, Tom",MN,Rep,cosponsor
+hr24,27,F000460,2015-01-06,"Farenthold, Blake",TX,Rep,original cosponsor
+hr24,27,F000460,2015-01-06,"Farenthold, Blake",TX,Rep,original cosponsor
+hr24,8,F000458,2015-05-01,"Fincher, Stephen Lee",TN,Rep,cosponsor
+hr24,8,F000451,2015-05-01,"Fitzpatrick, Michael G.",PA,Rep,cosponsor
+hr24,3,F000459,2015-01-06,"Fleischmann, Charles J. ""Chuck""",TN,Rep,original cosponsor
+hr24,3,F000459,2015-01-06,"Fleischmann, Charles J. ""Chuck""",TN,Rep,original cosponsor
+hr24,4,F000456,2015-01-22,"Fleming, John",LA,Rep,cosponsor
+hr24,17,F000461,2015-05-01,"Flores, Bill",TX,Rep,cosponsor
+hr24,4,F000445,2015-01-22,"Forbes, J. Randy",VA,Rep,cosponsor
+hr24,1,F000449,2015-01-06,"Fortenberry, Jeff",NE,Rep,original cosponsor
+hr24,1,F000449,2015-01-06,"Fortenberry, Jeff",NE,Rep,original cosponsor
+hr24,5,F000450,2015-01-28,"Foxx, Virginia",NC,Rep,cosponsor
+hr24,8,F000448,2015-05-01,"Franks, Trent",AZ,Rep,cosponsor
+hr24,11,F000372,2015-01-14,"Frelinghuysen, Rodney P.",NJ,Rep,cosponsor
+hr24,5,G000548,2015-01-06,"Garrett, Scott",NJ,Rep,original cosponsor
+hr24,5,G000548,2015-01-06,"Garrett, Scott",NJ,Rep,original cosponsor
+hr24,7,G000563,2015-01-06,"Gibbs, Bob",OH,Rep,original cosponsor
+hr24,7,G000563,2015-01-06,"Gibbs, Bob",OH,Rep,original cosponsor
+hr24,19,G000564,2015-01-06,"Gibson, Christopher P.",NY,Rep,original cosponsor
+hr24,19,G000564,2015-01-06,"Gibson, Christopher P.",NY,Rep,original cosponsor
+hr24,1,G000552,2015-01-06,"Gohmert, Louie",TX,Rep,original cosponsor
+hr24,1,G000552,2015-01-06,"Gohmert, Louie",TX,Rep,original cosponsor
+hr24,6,G000289,2015-01-06,"Goodlatte, Bob",VA,Rep,original cosponsor
+hr24,6,G000289,2015-01-06,"Goodlatte, Bob",VA,Rep,original cosponsor
+hr24,4,G000565,2015-01-06,"Gosar, Paul A.",AZ,Rep,original cosponsor
+hr24,4,G000565,2015-01-06,"Gosar, Paul A.",AZ,Rep,original cosponsor
+hr24,4,G000566,2015-03-26,"Gowdy, Trey",SC,Rep,cosponsor
+hr24,6,G000546,2016-05-26,"Graves, Sam",MO,Rep,cosponsor
+hr24,14,G000560,2015-01-08,"Graves, Tom",GA,Rep,cosponsor
+hr24,9,G000556,2015-01-06,"Grayson, Alan",FL,Rep,original cosponsor
+hr24,9,G000556,2015-01-06,"Grayson, Alan",FL,Rep,original cosponsor
+hr24,29,G000410,2015-01-06,"Green, Gene",TX,Rep,original cosponsor
+hr24,29,G000410,2015-01-06,"Green, Gene",TX,Rep,original cosponsor
+hr24,9,G000568,2015-01-06,"Griffith, H. Morgan",VA,Rep,original cosponsor
+hr24,9,G000568,2015-01-06,"Griffith, H. Morgan",VA,Rep,original cosponsor
+hr24,6,G000576,2015-03-17,"Grothman, Glenn",WI,Rep,cosponsor
+hr24,1,G000570,2016-03-03,"Guinta, Frank C.",NH,Rep,cosponsor
+hr24,2,G000558,2015-01-06,"Guthrie, Brett",KY,Rep,original cosponsor
+hr24,2,G000558,2015-01-06,"Guthrie, Brett",KY,Rep,original cosponsor
+hr24,4,H001070,2015-01-13,"Hardy, Cresent",NV,Rep,cosponsor
+hr24,3,H001045,2015-01-06,"Harper, Gregg",MS,Rep,original cosponsor
+hr24,3,H001045,2015-01-06,"Harper, Gregg",MS,Rep,original cosponsor
+hr24,1,H001052,2015-01-08,"Harris, Andy",MD,Rep,cosponsor
+hr24,4,H001053,2016-02-09,"Hartzler, Vicky",MO,Rep,cosponsor
+hr24,3,H001055,2015-01-13,"Heck, Joseph J.",NV,Rep,cosponsor
+hr24,3,H001056,2016-02-09,"Herrera Beutler, Jaime",WA,Rep,cosponsor
+hr24,10,H001071,2015-01-28,"Hice, Jody B.",GA,Rep,cosponsor
+hr24,13,H001065,2015-01-28,"Holding, George",NC,Rep,cosponsor
+hr24,8,H001067,2015-03-17,"Hudson, Richard",NC,Rep,cosponsor
+hr24,1,H001057,2015-01-06,"Huelskamp, Tim",KS,Rep,original cosponsor
+hr24,1,H001057,2015-01-06,"Huelskamp, Tim",KS,Rep,original cosponsor
+hr24,50,H001048,2015-01-28,"Hunter, Duncan D.",CA,Rep,cosponsor
+hr24,23,H001073,2015-06-16,"Hurd, Will",TX,Rep,cosponsor
+hr24,5,H001060,2015-01-13,"Hurt, Robert",VA,Rep,cosponsor
+hr24,3,J000297,2016-05-26,"Jenkins, Evan H.",WV,Rep,cosponsor
+hr24,2,J000290,2015-03-17,"Jenkins, Lynn",KS,Rep,cosponsor
+hr24,6,J000292,2015-02-09,"Johnson, Bill",OH,Rep,cosponsor
+hr24,3,J000174,2015-05-18,"Johnson, Sam",TX,Rep,cosponsor
+hr24,13,J000296,2015-01-06,"Jolly, David",FL,Rep,original cosponsor
+hr24,13,J000296,2015-01-06,"Jolly, David",FL,Rep,original cosponsor
+hr24,3,J000255,2015-01-06,"Jones, Walter B., Jr.",NC,Rep,original cosponsor
+hr24,3,J000255,2015-01-06,"Jones, Walter B., Jr.",NC,Rep,original cosponsor
+hr24,4,J000289,2015-03-17,"Jordan, Jim",OH,Rep,cosponsor
+hr24,14,J000295,2015-02-03,"Joyce, David P.",OH,Rep,cosponsor
+hr24,24,K000386,2015-05-21,"Katko, John",NY,Rep,cosponsor
+hr24,3,K000376,2016-04-12,"Kelly, Mike",PA,Rep,cosponsor
+hr24,1,K000388,2016-05-12,"Kelly, Trent",MS,Rep,cosponsor
+hr24,4,K000362,2015-05-01,"King, Steve",IA,Rep,cosponsor
+hr24,1,L000573,2015-02-24,"Labrador, Raul R.",ID,Rep,cosponsor
+hr24,18,L000585,2016-04-26,"LaHood, Darin",IL,Rep,cosponsor
+hr24,1,L000578,2015-01-06,"LaMalfa, Doug",CA,Rep,original cosponsor
+hr24,1,L000578,2015-01-06,"LaMalfa, Doug",CA,Rep,original cosponsor
+hr24,5,L000564,2015-04-16,"Lamborn, Doug",CO,Rep,cosponsor
+hr24,7,L000567,2015-01-06,"Lance, Leonard",NJ,Rep,original cosponsor
+hr24,7,L000567,2015-01-06,"Lance, Leonard",NJ,Rep,original cosponsor
+hr24,5,L000566,2015-01-08,"Latta, Robert E.",OH,Rep,cosponsor
+hr24,3,L000563,2015-01-13,"Lipinski, Daniel",IL,Rep,cosponsor
+hr24,2,L000554,2015-01-06,"LoBiondo, Frank A.",NJ,Rep,original cosponsor
+hr24,2,L000554,2015-01-06,"LoBiondo, Frank A.",NJ,Rep,original cosponsor
+hr24,2,L000565,2015-02-24,"Loebsack, David",IA,Rep,cosponsor
+hr24,7,L000576,2015-01-13,"Long, Billy",MO,Rep,cosponsor
+hr24,11,L000583,2015-03-17,"Loudermilk, Barry",GA,Rep,cosponsor
+hr24,4,L000584,2015-05-01,"Love, Mia B.",UT,Rep,cosponsor
+hr24,3,L000491,2015-01-14,"Lucas, Frank D.",OK,Rep,cosponsor
+hr24,0,L000571,2015-01-08,"Lummis, Cynthia M.",WY,Rep,cosponsor
+hr24,24,M001158,2015-02-03,"Marchant, Kenny",TX,Rep,cosponsor
+hr24,10,M001157,2015-01-22,"McCaul, Michael T.",TX,Rep,cosponsor
+hr24,4,M001177,2015-01-06,"McClintock, Tom",CA,Rep,original cosponsor
+hr24,4,M001177,2015-01-06,"McClintock, Tom",CA,Rep,original cosponsor
+hr24,1,M001180,2015-01-22,"McKinley, David B.",WV,Rep,cosponsor
+hr24,11,M001187,2015-01-06,"Meadows, Mark",NC,Rep,original cosponsor
+hr24,11,M001187,2015-01-06,"Meadows, Mark",NC,Rep,original cosponsor
+hr24,7,M001181,2016-05-11,"Meehan, Patrick",PA,Rep,cosponsor
+hr24,6,M001189,2015-01-28,"Messer, Luke",IN,Rep,cosponsor
+hr24,7,M000689,2016-02-09,"Mica, John L.",FL,Rep,cosponsor
+hr24,10,M001150,2015-01-22,"Miller, Candice S.",MI,Rep,cosponsor
+hr24,1,M001144,2015-01-22,"Miller, Jeff",FL,Rep,cosponsor
+hr24,2,M001195,2015-01-08,"Mooney, Alexander X.",WV,Rep,cosponsor
+hr24,2,M001190,2015-01-13,"Mullin, Markwayne",OK,Rep,cosponsor
+hr24,5,M001182,2015-01-06,"Mulvaney, Mick",SC,Rep,original cosponsor
+hr24,5,M001182,2015-01-06,"Mulvaney, Mick",SC,Rep,original cosponsor
+hr24,18,M001151,2015-04-22,"Murphy, Tim",PA,Rep,cosponsor
+hr24,19,N000182,2015-01-06,"Neugebauer, Randy",TX,Rep,original cosponsor
+hr24,19,N000182,2015-01-06,"Neugebauer, Randy",TX,Rep,original cosponsor
+hr24,4,N000189,2015-03-17,"Newhouse, Dan",WA,Rep,cosponsor
+hr24,0,N000184,2016-04-12,"Noem, Kristi L.",SD,Rep,cosponsor
+hr24,11,N000185,2015-01-06,"Nugent, Richard B.",FL,Rep,original cosponsor
+hr24,11,N000185,2015-01-06,"Nugent, Richard B.",FL,Rep,original cosponsor
+hr24,22,O000168,2015-02-09,"Olson, Pete",TX,Rep,cosponsor
+hr24,4,P000601,2015-01-06,"Palazzo, Steven M.",MS,Rep,original cosponsor
+hr24,4,P000601,2015-01-06,"Palazzo, Steven M.",MS,Rep,original cosponsor
+hr24,6,P000609,2015-05-01,"Palmer, Gary J.",AL,Rep,cosponsor
+hr24,3,P000594,2015-01-22,"Paulsen, Erik",MN,Rep,cosponsor
+hr24,2,P000588,2015-01-06,"Pearce, Stevan",NM,Rep,original cosponsor
+hr24,2,P000588,2015-01-06,"Pearce, Stevan",NM,Rep,original cosponsor
+hr24,4,P000605,2015-05-01,"Perry, Scott",PA,Rep,cosponsor
+hr24,1,P000597,2015-01-28,"Pingree, Chellie",ME,Rep,cosponsor
+hr24,9,P000606,2015-01-13,"Pittenger, Robert",NC,Rep,cosponsor
+hr24,2,P000592,2015-01-28,"Poe, Ted",TX,Rep,cosponsor
+hr24,2,P000598,2015-01-28,"Polis, Jared",CO,Rep,cosponsor
+hr24,4,P000602,2015-01-28,"Pompeo, Mike",KS,Rep,cosponsor
+hr24,8,P000599,2015-01-06,"Posey, Bill",FL,Rep,original cosponsor
+hr24,8,P000599,2015-01-06,"Posey, Bill",FL,Rep,original cosponsor
+hr24,6,P000591,2015-05-01,"Price, Tom",GA,Rep,cosponsor
+hr24,4,R000601,2015-01-14,"Ratcliffe, John",TX,Rep,cosponsor
+hr24,16,R000586,2015-05-12,"Renacci, James B.",OH,Rep,cosponsor
+hr24,8,R000587,2015-01-08,"Ribble, Reid J.",WI,Rep,cosponsor
+hr24,7,R000597,2015-05-01,"Rice, Tom",SC,Rep,cosponsor
+hr24,1,R000582,2015-01-06,"Roe, David P.",TN,Rep,original cosponsor
+hr24,1,R000582,2015-01-06,"Roe, David P.",TN,Rep,original cosponsor
+hr24,3,R000575,2015-01-06,"Rogers, Mike D.",AL,Rep,original cosponsor
+hr24,3,R000575,2015-01-06,"Rogers, Mike D.",AL,Rep,original cosponsor
+hr24,48,R000409,2015-01-06,"Rohrabacher, Dana",CA,Rep,original cosponsor
+hr24,48,R000409,2015-01-06,"Rohrabacher, Dana",CA,Rep,original cosponsor
+hr24,4,R000592,2015-05-01,"Rokita, Todd",IN,Rep,cosponsor
+hr24,27,R000435,2015-02-24,"Ros-Lehtinen, Ileana",FL,Rep,cosponsor
+hr24,12,R000598,2015-01-06,"Rothfus, Keith J.",PA,Rep,original cosponsor
+hr24,12,R000598,2015-01-06,"Rothfus, Keith J.",PA,Rep,original cosponsor
+hr24,7,R000603,2015-05-12,"Rouzer, David",NC,Rep,cosponsor
+hr24,2,R000576,2016-06-20,"Ruppersberger, C. A. Dutch",MD,Rep,cosponsor
+hr24,5,R000604,2015-05-18,"Russell, Steve",OK,Rep,cosponsor
+hr24,5,S000018,2015-01-06,"Salmon, Matt",AZ,Rep,original cosponsor
+hr24,5,S000018,2015-01-06,"Salmon, Matt",AZ,Rep,original cosponsor
+hr24,1,S000051,2015-01-08,"Sanford, Mark",SC,Rep,cosponsor
+hr24,1,S001176,2015-05-01,"Scalise, Steve",LA,Rep,cosponsor
+hr24,6,S001183,2015-05-01,"Schweikert, David",AZ,Rep,cosponsor
+hr24,8,S001189,2015-05-01,"Scott, Austin",GA,Rep,cosponsor
+hr24,5,S000244,2015-01-06,"Sensenbrenner, F. James, Jr.",WI,Rep,original cosponsor
+hr24,5,S000244,2015-01-06,"Sensenbrenner, F. James, Jr.",WI,Rep,original cosponsor
+hr24,32,S000250,2015-10-23,"Sessions, Pete",TX,Rep,cosponsor
+hr24,15,S000364,2015-05-01,"Shimkus, John",IL,Rep,cosponsor
+hr24,9,S001154,2015-02-03,"Shuster, Bill",PA,Rep,cosponsor
+hr24,3,S001172,2015-01-13,"Smith, Adrian",NE,Rep,cosponsor
+hr24,4,S000522,2015-02-24,"Smith, Christopher H.",NJ,Rep,cosponsor
+hr24,8,S001195,2015-05-01,"Smith, Jason",MO,Rep,cosponsor
+hr24,21,S000583,2015-01-08,"Smith, Lamar",TX,Rep,cosponsor
+hr24,2,S001192,2015-01-28,"Stewart, Chris",UT,Rep,cosponsor
+hr24,15,S001187,2015-01-28,"Stivers, Steve",OH,Rep,cosponsor
+hr24,3,S001188,2015-01-08,"Stutzman, Marlin A.",IN,Rep,cosponsor
+hr24,5,T000467,2015-01-06,"Thompson, Glenn",PA,Rep,original cosponsor
+hr24,5,T000467,2015-01-06,"Thompson, Glenn",PA,Rep,original cosponsor
+hr24,12,T000462,2015-01-06,"Tiberi, Patrick J.",OH,Rep,original cosponsor
+hr24,12,T000462,2015-01-06,"Tiberi, Patrick J.",OH,Rep,original cosponsor
+hr24,3,T000470,2015-01-06,"Tipton, Scott  R.",CO,Rep,original cosponsor
+hr24,3,T000470,2015-01-06,"Tipton, Scott  R.",CO,Rep,original cosponsor
+hr24,11,T000475,2015-02-09,"Trott, David A.",MI,Rep,cosponsor
+hr24,10,T000463,2015-02-24,"Turner, Michael R.",OH,Rep,cosponsor
+hr24,1,V000108,2015-01-28,"Visclosky, Peter J.",IN,Rep,cosponsor
+hr24,7,W000798,2015-01-06,"Walberg, Tim",MI,Rep,original cosponsor
+hr24,7,W000798,2015-01-06,"Walberg, Tim",MI,Rep,original cosponsor
+hr24,6,W000819,2015-05-01,"Walker, Mark",NC,Rep,cosponsor
+hr24,2,W000813,2015-01-22,"Walorski, Jackie",IN,Rep,cosponsor
+hr24,14,W000814,2015-01-06,"Weber, Randy K., Sr.",TX,Rep,original cosponsor
+hr24,14,W000814,2015-01-06,"Weber, Randy K., Sr.",TX,Rep,original cosponsor
+hr24,10,W000806,2015-01-14,"Webster, Daniel",FL,Rep,cosponsor
+hr24,0,W000800,2016-05-17,"Welch, Peter",VT,Rep,cosponsor
+hr24,2,W000815,2015-02-03,"Wenstrup, Brad R.",OH,Rep,cosponsor
+hr24,4,W000821,2015-01-28,"Westerman, Bruce",AR,Rep,cosponsor
+hr24,3,W000796,2015-01-06,"Westmoreland, Lynn A.",GA,Rep,original cosponsor
+hr24,3,W000796,2015-01-06,"Westmoreland, Lynn A.",GA,Rep,original cosponsor
+hr24,1,W000413,2015-01-28,"Whitfield, Ed",KY,Rep,cosponsor
+hr24,25,W000816,2015-05-01,"Williams, Roger",TX,Rep,cosponsor
+hr24,2,W000795,2015-05-01,"Wilson, Joe",SC,Rep,cosponsor
+hr24,1,W000804,2015-06-23,"Wittman, Robert J.",VA,Rep,cosponsor
+hr24,3,W000809,2015-01-06,"Womack, Steve",AR,Rep,original cosponsor
+hr24,3,W000809,2015-01-06,"Womack, Steve",AR,Rep,original cosponsor
+hr24,7,W000810,2015-01-14,"Woodall, Rob",GA,Rep,cosponsor
+hr24,3,Y000063,2015-01-22,"Yoder, Kevin",KS,Rep,cosponsor
+hr24,3,Y000065,2015-01-06,"Yoho, Ted S.",FL,Rep,original cosponsor
+hr24,3,Y000065,2015-01-06,"Yoho, Ted S.",FL,Rep,original cosponsor
+hr24,3,Y000066,2015-02-10,"Young, David",IA,Rep,cosponsor
+hr24,0,Y000033,2015-01-28,"Young, Don",AK,Rep,cosponsor
+hr24,9,Y000064,2015-01-22,"Young, Todd C.",IN,Rep,cosponsor
+hr24,0,Z000018,2015-04-16,"Zinke, Ryan K.",MT,Rep,cosponsor
+hr25,7,W000810,2015-01-06,"Woodall, Rob",GA,Rep,sponsor
+hr25,1,B001271,2016-09-08,"Benishek, Dan",MI,Rep,cosponsor
+hr25,12,B001257,2015-01-06,"Bilirakis, Gus M.",FL,Rep,original cosponsor
+hr25,12,B001257,2015-01-06,"Bilirakis, Gus M.",FL,Rep,original cosponsor
+hr25,1,B001250,2015-01-06,"Bishop, Rob",UT,Rep,original cosponsor
+hr25,1,B001250,2015-01-06,"Bishop, Rob",UT,Rep,original cosponsor
+hr25,7,B001243,2015-09-09,"Blackburn, Marsha",TN,Rep,cosponsor
+hr25,8,B000755,2015-01-06,"Brady, Kevin",TX,Rep,original cosponsor
+hr25,8,B000755,2015-01-06,"Brady, Kevin",TX,Rep,original cosponsor
+hr25,7,B001290,2015-01-06,"Brat, Dave",VA,Rep,original cosponsor
+hr25,7,B001290,2015-01-06,"Brat, Dave",VA,Rep,original cosponsor
+hr25,1,B001283,2015-01-06,"Bridenstine, Jim",OK,Rep,original cosponsor
+hr25,1,B001283,2015-01-06,"Bridenstine, Jim",OK,Rep,original cosponsor
+hr25,5,B001274,2015-01-12,"Brooks, Mo",AL,Rep,cosponsor
+hr25,1,C001103,2015-01-06,"Carter, Earl L. ""Buddy""",GA,Rep,original cosponsor
+hr25,1,C001103,2015-01-06,"Carter, Earl L. ""Buddy""",GA,Rep,original cosponsor
+hr25,31,C001051,2015-01-12,"Carter, John R.",TX,Rep,cosponsor
+hr25,1,C000266,2015-01-06,"Chabot, Steve",OH,Rep,original cosponsor
+hr25,1,C000266,2015-01-06,"Chabot, Steve",OH,Rep,original cosponsor
+hr25,9,C001093,2015-01-06,"Collins, Doug",GA,Rep,original cosponsor
+hr25,9,C001093,2015-01-06,"Collins, Doug",GA,Rep,original cosponsor
+hr25,11,C001062,2015-01-06,"Conaway, K. Michael",TX,Rep,original cosponsor
+hr25,11,C001062,2015-01-06,"Conaway, K. Michael",TX,Rep,original cosponsor
+hr25,4,C001045,2015-01-06,"Crenshaw, Ander",FL,Rep,original cosponsor
+hr25,4,C001045,2015-01-06,"Crenshaw, Ander",FL,Rep,original cosponsor
+hr25,7,C001048,2015-01-06,"Culberson, John Abney",TX,Rep,original cosponsor
+hr25,7,C001048,2015-01-06,"Culberson, John Abney",TX,Rep,original cosponsor
+hr25,6,D000621,2015-01-06,"DeSantis, Ron",FL,Rep,original cosponsor
+hr25,6,D000621,2015-01-06,"DeSantis, Ron",FL,Rep,original cosponsor
+hr25,4,D000616,2015-01-06,"DesJarlais, Scott",TN,Rep,original cosponsor
+hr25,4,D000616,2015-01-06,"DesJarlais, Scott",TN,Rep,original cosponsor
+hr25,3,D000615,2015-01-06,"Duncan, Jeff",SC,Rep,original cosponsor
+hr25,3,D000615,2015-01-06,"Duncan, Jeff",SC,Rep,original cosponsor
+hr25,2,D000533,2015-01-06,"Duncan, John J., Jr.",TN,Rep,original cosponsor
+hr25,2,D000533,2015-01-06,"Duncan, John J., Jr.",TN,Rep,original cosponsor
+hr25,6,E000294,2015-09-15,"Emmer, Tom",MN,Rep,cosponsor
+hr25,27,F000460,2015-01-06,"Farenthold, Blake",TX,Rep,original cosponsor
+hr25,27,F000460,2015-01-06,"Farenthold, Blake",TX,Rep,original cosponsor
+hr25,17,F000461,2015-01-06,"Flores, Bill",TX,Rep,original cosponsor
+hr25,17,F000461,2015-01-06,"Flores, Bill",TX,Rep,original cosponsor
+hr25,5,F000450,2015-01-06,"Foxx, Virginia",NC,Rep,original cosponsor
+hr25,5,F000450,2015-01-06,"Foxx, Virginia",NC,Rep,original cosponsor
+hr25,8,F000448,2015-01-06,"Franks, Trent",AZ,Rep,original cosponsor
+hr25,8,F000448,2015-01-06,"Franks, Trent",AZ,Rep,original cosponsor
+hr25,5,G000548,2015-06-10,"Garrett, Scott",NJ,Rep,cosponsor
+hr25,12,G000377,2015-01-06,"Granger, Kay",TX,Rep,original cosponsor
+hr25,12,G000377,2015-01-06,"Granger, Kay",TX,Rep,original cosponsor
+hr25,6,G000546,2015-01-06,"Graves, Sam",MO,Rep,original cosponsor
+hr25,6,G000546,2015-01-06,"Graves, Sam",MO,Rep,original cosponsor
+hr25,14,G000560,2015-01-06,"Graves, Tom",GA,Rep,original cosponsor
+hr25,14,G000560,2015-01-06,"Graves, Tom",GA,Rep,original cosponsor
+hr25,4,H001070,2015-11-30,"Hardy, Cresent",NV,Rep,cosponsor
+hr25,1,H001052,2015-01-06,"Harris, Andy",MD,Rep,original cosponsor
+hr25,1,H001052,2015-01-06,"Harris, Andy",MD,Rep,original cosponsor
+hr25,5,H001036,2015-02-11,"Hensarling, Jeb",TX,Rep,cosponsor
+hr25,10,H001071,2015-01-06,"Hice, Jody B.",GA,Rep,original cosponsor
+hr25,10,H001071,2015-01-06,"Hice, Jody B.",GA,Rep,original cosponsor
+hr25,1,H001057,2015-01-06,"Huelskamp, Tim",KS,Rep,original cosponsor
+hr25,1,H001057,2015-01-06,"Huelskamp, Tim",KS,Rep,original cosponsor
+hr25,49,I000056,2015-01-07,"Issa, Darrell E.",CA,Rep,cosponsor
+hr25,2,J000290,2015-01-06,"Jenkins, Lynn",KS,Rep,original cosponsor
+hr25,2,J000290,2015-01-06,"Jenkins, Lynn",KS,Rep,original cosponsor
+hr25,4,K000362,2015-01-06,"King, Steve",IA,Rep,original cosponsor
+hr25,4,K000362,2015-01-06,"King, Steve",IA,Rep,original cosponsor
+hr25,2,K000363,2015-01-06,"Kline, John",MN,Rep,original cosponsor
+hr25,2,K000363,2015-01-06,"Kline, John",MN,Rep,original cosponsor
+hr25,7,L000576,2015-01-06,"Long, Billy",MO,Rep,original cosponsor
+hr25,7,L000576,2015-01-06,"Long, Billy",MO,Rep,original cosponsor
+hr25,11,L000583,2015-01-06,"Loudermilk, Barry",GA,Rep,original cosponsor
+hr25,11,L000583,2015-01-06,"Loudermilk, Barry",GA,Rep,original cosponsor
+hr25,3,L000491,2015-01-06,"Lucas, Frank D.",OK,Rep,original cosponsor
+hr25,3,L000491,2015-01-06,"Lucas, Frank D.",OK,Rep,original cosponsor
+hr25,24,M001158,2015-01-06,"Marchant, Kenny",TX,Rep,original cosponsor
+hr25,24,M001158,2015-01-06,"Marchant, Kenny",TX,Rep,original cosponsor
+hr25,4,M001184,2015-01-06,"Massie, Thomas",KY,Rep,original cosponsor
+hr25,4,M001184,2015-01-06,"Massie, Thomas",KY,Rep,original cosponsor
+hr25,10,M001157,2015-01-06,"McCaul, Michael T.",TX,Rep,original cosponsor
+hr25,10,M001157,2015-01-06,"McCaul, Michael T.",TX,Rep,original cosponsor
+hr25,4,M001177,2015-01-06,"McClintock, Tom",CA,Rep,original cosponsor
+hr25,4,M001177,2015-01-06,"McClintock, Tom",CA,Rep,original cosponsor
+hr25,11,M001187,2015-01-06,"Meadows, Mark",NC,Rep,original cosponsor
+hr25,11,M001187,2015-01-06,"Meadows, Mark",NC,Rep,original cosponsor
+hr25,7,M000689,2015-01-06,"Mica, John L.",FL,Rep,original cosponsor
+hr25,7,M000689,2015-01-06,"Mica, John L.",FL,Rep,original cosponsor
+hr25,10,M001150,2016-09-08,"Miller, Candice S.",MI,Rep,cosponsor
+hr25,1,M001144,2015-01-06,"Miller, Jeff",FL,Rep,original cosponsor
+hr25,1,M001144,2015-01-06,"Miller, Jeff",FL,Rep,original cosponsor
+hr25,2,M001190,2015-01-06,"Mullin, Markwayne",OK,Rep,original cosponsor
+hr25,2,M001190,2015-01-06,"Mullin, Markwayne",OK,Rep,original cosponsor
+hr25,19,N000182,2015-01-06,"Neugebauer, Randy",TX,Rep,original cosponsor
+hr25,19,N000182,2015-01-06,"Neugebauer, Randy",TX,Rep,original cosponsor
+hr25,11,N000185,2015-01-06,"Nugent, Richard B.",FL,Rep,original cosponsor
+hr25,11,N000185,2015-01-06,"Nugent, Richard B.",FL,Rep,original cosponsor
+hr25,22,O000168,2015-01-06,"Olson, Pete",TX,Rep,original cosponsor
+hr25,22,O000168,2015-01-06,"Olson, Pete",TX,Rep,original cosponsor
+hr25,6,P000609,2015-02-27,"Palmer, Gary J.",AL,Rep,cosponsor
+hr25,2,P000588,2015-04-21,"Pearce, Stevan",NM,Rep,cosponsor
+hr25,2,P000592,2015-01-06,"Poe, Ted",TX,Rep,original cosponsor
+hr25,2,P000592,2015-01-06,"Poe, Ted",TX,Rep,original cosponsor
+hr25,4,P000602,2015-01-06,"Pompeo, Mike",KS,Rep,original cosponsor
+hr25,4,P000602,2015-01-06,"Pompeo, Mike",KS,Rep,original cosponsor
+hr25,8,P000599,2015-01-06,"Posey, Bill",FL,Rep,original cosponsor
+hr25,8,P000599,2015-01-06,"Posey, Bill",FL,Rep,original cosponsor
+hr25,6,P000591,2015-01-06,"Price, Tom",GA,Rep,original cosponsor
+hr25,6,P000591,2015-01-06,"Price, Tom",GA,Rep,original cosponsor
+hr25,4,R000601,2015-03-18,"Ratcliffe, John",TX,Rep,cosponsor
+hr25,8,R000587,2015-01-06,"Ribble, Reid J.",WI,Rep,original cosponsor
+hr25,2,R000589,2015-01-20,"Rigell, E. Scott",VA,Rep,cosponsor
+hr25,1,R000582,2015-01-06,"Roe, David P.",TN,Rep,original cosponsor
+hr25,1,R000582,2015-01-06,"Roe, David P.",TN,Rep,original cosponsor
+hr25,17,R000583,2015-01-06,"Rooney, Thomas J.",FL,Rep,original cosponsor
+hr25,17,R000583,2015-01-06,"Rooney, Thomas J.",FL,Rep,original cosponsor
+hr25,15,R000593,2015-02-04,"Ross, Dennis A.",FL,Rep,cosponsor
+hr25,5,R000604,2015-01-28,"Russell, Steve",OK,Rep,cosponsor
+hr25,5,S000018,2015-01-06,"Salmon, Matt",AZ,Rep,original cosponsor
+hr25,5,S000018,2015-01-06,"Salmon, Matt",AZ,Rep,original cosponsor
+hr25,1,S000051,2015-01-12,"Sanford, Mark",SC,Rep,cosponsor
+hr25,8,S001195,2015-04-29,"Smith, Jason",MO,Rep,cosponsor
+hr25,3,S001188,2015-01-06,"Stutzman, Marlin A.",IN,Rep,original cosponsor
+hr25,3,S001188,2015-01-06,"Stutzman, Marlin A.",IN,Rep,original cosponsor
+hr25,13,T000238,2015-01-06,"Thornberry, Mac",TX,Rep,original cosponsor
+hr25,13,T000238,2015-01-06,"Thornberry, Mac",TX,Rep,original cosponsor
+hr25,7,W000798,2015-01-06,"Walberg, Tim",MI,Rep,original cosponsor
+hr25,7,W000798,2015-01-06,"Walberg, Tim",MI,Rep,original cosponsor
+hr25,3,W000796,2015-01-06,"Westmoreland, Lynn A.",GA,Rep,original cosponsor
+hr25,3,W000796,2015-01-06,"Westmoreland, Lynn A.",GA,Rep,original cosponsor
+hr25,1,W000804,2015-01-06,"Wittman, Robert J.",VA,Rep,original cosponsor
+hr25,1,W000804,2015-01-06,"Wittman, Robert J.",VA,Rep,original cosponsor
+hr25,3,Y000063,2015-01-06,"Yoder, Kevin",KS,Rep,original cosponsor
+hr25,3,Y000063,2015-01-06,"Yoder, Kevin",KS,Rep,original cosponsor
+hr25,3,Y000065,2015-01-06,"Yoho, Ted S.",FL,Rep,original cosponsor
+hr25,3,Y000065,2015-01-06,"Yoho, Ted S.",FL,Rep,original cosponsor
+hr25,0,Y000033,2015-01-12,"Young, Don",AK,Rep,cosponsor
+hr26,19,N000182,2015-01-06,"Neugebauer, Randy",TX,Rep,sponsor
+hr26,4,G000565,2015-01-06,"Gosar, Paul A.",AZ,Rep,original cosponsor
+hr26,4,G000565,2015-01-06,"Gosar, Paul A.",AZ,Rep,original cosponsor
+hr27,6,G000289,2015-01-06,"Goodlatte, Bob",VA,Rep,sponsor
+hr27,12,A000372,2015-02-10,"Allen, Rick W.",GA,Rep,cosponsor
+hr27,3,A000367,2015-01-06,"Amash, Justin",MI,Rep,original cosponsor
+hr27,3,A000367,2015-01-06,"Amash, Justin",MI,Rep,original cosponsor
+hr27,2,A000369,2015-01-06,"Amodei, Mark E.",NV,Rep,original cosponsor
+hr27,2,A000369,2015-01-06,"Amodei, Mark E.",NV,Rep,original cosponsor
+hr27,36,B001291,2015-01-07,"Babin, Brian",TX,Rep,cosponsor
+hr27,6,B000213,2016-04-26,"Barton, Joe",TX,Rep,cosponsor
+hr27,1,B001271,2015-01-07,"Benishek, Dan",MI,Rep,cosponsor
+hr27,12,B001257,2015-01-06,"Bilirakis, Gus M.",FL,Rep,original cosponsor
+hr27,12,B001257,2015-01-06,"Bilirakis, Gus M.",FL,Rep,original cosponsor
+hr27,8,B001293,2015-11-05,"Bishop, Mike",MI,Rep,cosponsor
+hr27,1,B001250,2015-01-12,"Bishop, Rob",UT,Rep,cosponsor
+hr27,6,B001273,2016-02-23,"Black, Diane",TN,Rep,cosponsor
+hr27,7,B001243,2015-01-06,"Blackburn, Marsha",TN,Rep,original cosponsor
+hr27,7,B001243,2015-01-06,"Blackburn, Marsha",TN,Rep,original cosponsor
+hr27,12,B001295,2015-01-08,"Bost, Mike",IL,Rep,cosponsor
+hr27,3,B001255,2016-03-22,"Boustany, Charles W., Jr.",LA,Rep,cosponsor
+hr27,8,B000755,2015-04-13,"Brady, Kevin",TX,Rep,cosponsor
+hr27,7,B001290,2015-01-14,"Brat, Dave",VA,Rep,cosponsor
+hr27,1,B001283,2015-02-25,"Bridenstine, Jim",OK,Rep,cosponsor
+hr27,5,B001274,2016-02-09,"Brooks, Mo",AL,Rep,cosponsor
+hr27,4,B001297,2016-02-12,"Buck, Ken",CO,Rep,cosponsor
+hr27,26,B001248,2015-03-19,"Burgess, Michael C.",TX,Rep,cosponsor
+hr27,1,B001289,2015-11-05,"Byrne, Bradley",AL,Rep,cosponsor
+hr27,42,C000059,2016-02-12,"Calvert, Ken",CA,Rep,cosponsor
+hr27,1,C001103,2015-12-08,"Carter, Earl L. ""Buddy""",GA,Rep,cosponsor
+hr27,31,C001051,2015-01-13,"Carter, John R.",TX,Rep,cosponsor
+hr27,1,C000266,2015-01-06,"Chabot, Steve",OH,Rep,original cosponsor
+hr27,1,C000266,2015-01-06,"Chabot, Steve",OH,Rep,original cosponsor
+hr27,3,C001076,2015-01-06,"Chaffetz, Jason",UT,Rep,original cosponsor
+hr27,3,C001076,2015-01-06,"Chaffetz, Jason",UT,Rep,original cosponsor
+hr27,6,C001077,2016-02-12,"Coffman, Mike",CO,Rep,cosponsor
+hr27,27,C001092,2016-02-12,"Collins, Chris",NY,Rep,cosponsor
+hr27,11,C001062,2016-02-11,"Conaway, K. Michael",TX,Rep,cosponsor
+hr27,7,C001048,2015-01-06,"Culberson, John Abney",TX,Rep,original cosponsor
+hr27,7,C001048,2015-01-06,"Culberson, John Abney",TX,Rep,original cosponsor
+hr27,13,D000619,2016-07-14,"Davis, Rodney",IL,Rep,cosponsor
+hr27,6,D000621,2015-03-25,"DeSantis, Ron",FL,Rep,cosponsor
+hr27,25,D000600,2016-04-26,"Diaz-Balart, Mario",FL,Rep,cosponsor
+hr27,3,D000615,2016-05-25,"Duncan, Jeff",SC,Rep,cosponsor
+hr27,2,D000533,2015-01-06,"Duncan, John J., Jr.",TN,Rep,original cosponsor
+hr27,2,D000533,2015-01-06,"Duncan, John J., Jr.",TN,Rep,original cosponsor
+hr27,27,F000460,2015-01-22,"Farenthold, Blake",TX,Rep,cosponsor
+hr27,8,F000458,2015-09-11,"Fincher, Stephen Lee",TN,Rep,cosponsor
+hr27,4,F000456,2015-01-07,"Fleming, John",LA,Rep,cosponsor
+hr27,17,F000461,2015-01-06,"Flores, Bill",TX,Rep,original cosponsor
+hr27,17,F000461,2015-01-06,"Flores, Bill",TX,Rep,original cosponsor
+hr27,4,F000445,2015-01-06,"Forbes, J. Randy",VA,Rep,original cosponsor
+hr27,4,F000445,2015-01-06,"Forbes, J. Randy",VA,Rep,original cosponsor
+hr27,8,F000448,2015-01-06,"Franks, Trent",AZ,Rep,original cosponsor
+hr27,8,F000448,2015-01-06,"Franks, Trent",AZ,Rep,original cosponsor
+hr27,5,G000548,2015-01-06,"Garrett, Scott",NJ,Rep,original cosponsor
+hr27,5,G000548,2015-01-06,"Garrett, Scott",NJ,Rep,original cosponsor
+hr27,1,G000552,2016-02-02,"Gohmert, Louie",TX,Rep,cosponsor
+hr27,4,G000565,2015-01-06,"Gosar, Paul A.",AZ,Rep,original cosponsor
+hr27,4,G000565,2015-01-06,"Gosar, Paul A.",AZ,Rep,original cosponsor
+hr27,4,G000566,2016-02-11,"Gowdy, Trey",SC,Rep,cosponsor
+hr27,12,G000377,2016-01-05,"Granger, Kay",TX,Rep,cosponsor
+hr27,14,G000560,2016-02-12,"Graves, Tom",GA,Rep,cosponsor
+hr27,9,G000568,2015-01-06,"Griffith, H. Morgan",VA,Rep,original cosponsor
+hr27,9,G000568,2015-01-06,"Griffith, H. Morgan",VA,Rep,original cosponsor
+hr27,6,G000576,2016-07-14,"Grothman, Glenn",WI,Rep,cosponsor
+hr27,1,G000570,2015-01-09,"Guinta, Frank C.",NH,Rep,cosponsor
+hr27,1,H001052,2015-11-02,"Harris, Andy",MD,Rep,cosponsor
+hr27,4,H001053,2016-09-06,"Hartzler, Vicky",MO,Rep,cosponsor
+hr27,5,H001036,2015-02-11,"Hensarling, Jeb",TX,Rep,cosponsor
+hr27,10,H001071,2015-01-07,"Hice, Jody B.",GA,Rep,cosponsor
+hr27,2,H001072,2015-01-07,"Hill, J. French",AR,Rep,cosponsor
+hr27,13,H001065,2016-02-12,"Holding, George",NC,Rep,cosponsor
+hr27,8,H001067,2015-01-22,"Hudson, Richard",NC,Rep,cosponsor
+hr27,1,H001057,2015-11-16,"Huelskamp, Tim",KS,Rep,cosponsor
+hr27,50,H001048,2015-01-08,"Hunter, Duncan D.",CA,Rep,cosponsor
+hr27,5,H001060,2015-01-12,"Hurt, Robert",VA,Rep,cosponsor
+hr27,49,I000056,2015-01-07,"Issa, Darrell E.",CA,Rep,cosponsor
+hr27,6,J000292,2015-01-08,"Johnson, Bill",OH,Rep,cosponsor
+hr27,3,J000255,2015-01-06,"Jones, Walter B., Jr.",NC,Rep,original cosponsor
+hr27,3,J000255,2015-01-06,"Jones, Walter B., Jr.",NC,Rep,original cosponsor
+hr27,4,J000289,2015-02-26,"Jordan, Jim",OH,Rep,cosponsor
+hr27,14,J000295,2015-01-06,"Joyce, David P.",OH,Rep,original cosponsor
+hr27,14,J000295,2015-01-06,"Joyce, David P.",OH,Rep,original cosponsor
+hr27,4,K000362,2016-02-09,"King, Steve",IA,Rep,cosponsor
+hr27,2,K000363,2015-01-09,"Kline, John",MN,Rep,cosponsor
+hr27,1,L000573,2015-12-02,"Labrador, Raul R.",ID,Rep,cosponsor
+hr27,1,L000578,2015-01-13,"LaMalfa, Doug",CA,Rep,cosponsor
+hr27,5,L000564,2015-01-07,"Lamborn, Doug",CO,Rep,cosponsor
+hr27,7,L000567,2015-01-09,"Lance, Leonard",NJ,Rep,cosponsor
+hr27,5,L000566,2015-01-07,"Latta, Robert E.",OH,Rep,cosponsor
+hr27,7,L000576,2015-01-06,"Long, Billy",MO,Rep,original cosponsor
+hr27,7,L000576,2015-01-06,"Long, Billy",MO,Rep,original cosponsor
+hr27,11,L000583,2016-04-14,"Loudermilk, Barry",GA,Rep,cosponsor
+hr27,3,L000491,2015-01-07,"Lucas, Frank D.",OK,Rep,cosponsor
+hr27,3,L000569,2015-01-13,"Luetkemeyer, Blaine",MO,Rep,cosponsor
+hr27,0,L000571,2016-02-12,"Lummis, Cynthia M.",WY,Rep,cosponsor
+hr27,10,M001179,2015-01-06,"Marino, Tom",PA,Rep,original cosponsor
+hr27,10,M001179,2015-01-06,"Marino, Tom",PA,Rep,original cosponsor
+hr27,4,M001184,2016-02-09,"Massie, Thomas",KY,Rep,cosponsor
+hr27,10,M001157,2015-01-12,"McCaul, Michael T.",TX,Rep,cosponsor
+hr27,4,M001177,2016-02-11,"McClintock, Tom",CA,Rep,cosponsor
+hr27,10,M001156,2015-01-07,"McHenry, Patrick T.",NC,Rep,cosponsor
+hr27,1,M001180,2015-11-04,"McKinley, David B.",WV,Rep,cosponsor
+hr27,5,M001159,2015-01-09,"McMorris Rodgers, Cathy",WA,Rep,cosponsor
+hr27,11,M001187,2016-02-11,"Meadows, Mark",NC,Rep,cosponsor
+hr27,6,M001189,2015-01-08,"Messer, Luke",IN,Rep,cosponsor
+hr27,7,M000689,2016-02-12,"Mica, John L.",FL,Rep,cosponsor
+hr27,1,M001144,2015-07-29,"Miller, Jeff",FL,Rep,cosponsor
+hr27,2,M001195,2015-09-18,"Mooney, Alexander X.",WV,Rep,cosponsor
+hr27,5,M001182,2015-01-06,"Mulvaney, Mick",SC,Rep,original cosponsor
+hr27,5,M001182,2015-01-06,"Mulvaney, Mick",SC,Rep,original cosponsor
+hr27,19,N000182,2015-02-04,"Neugebauer, Randy",TX,Rep,cosponsor
+hr27,4,N000189,2015-01-06,"Newhouse, Dan",WA,Rep,original cosponsor
+hr27,4,N000189,2015-01-06,"Newhouse, Dan",WA,Rep,original cosponsor
+hr27,22,O000168,2015-01-12,"Olson, Pete",TX,Rep,cosponsor
+hr27,4,P000601,2015-05-05,"Palazzo, Steven M.",MS,Rep,cosponsor
+hr27,2,P000588,2015-01-07,"Pearce, Stevan",NM,Rep,cosponsor
+hr27,4,P000605,2016-07-14,"Perry, Scott",PA,Rep,cosponsor
+hr27,7,P000258,2015-03-10,"Peterson, Collin C.",MN,Rep,cosponsor
+hr27,9,P000606,2015-01-06,"Pittenger, Robert",NC,Rep,original cosponsor
+hr27,9,P000606,2015-01-06,"Pittenger, Robert",NC,Rep,original cosponsor
+hr27,16,P000373,2015-01-07,"Pitts, Joseph R.",PA,Rep,cosponsor
+hr27,2,P000592,2015-01-06,"Poe, Ted",TX,Rep,original cosponsor
+hr27,2,P000592,2015-01-06,"Poe, Ted",TX,Rep,original cosponsor
+hr27,4,P000602,2016-02-12,"Pompeo, Mike",KS,Rep,cosponsor
+hr27,8,P000599,2015-01-12,"Posey, Bill",FL,Rep,cosponsor
+hr27,6,P000591,2016-02-04,"Price, Tom",GA,Rep,cosponsor
+hr27,4,R000601,2015-01-14,"Ratcliffe, John",TX,Rep,cosponsor
+hr27,16,R000586,2016-09-28,"Renacci, James B.",OH,Rep,cosponsor
+hr27,8,R000587,2015-01-12,"Ribble, Reid J.",WI,Rep,cosponsor
+hr27,7,R000597,2016-02-12,"Rice, Tom",SC,Rep,cosponsor
+hr27,2,R000589,2015-01-22,"Rigell, E. Scott",VA,Rep,cosponsor
+hr27,1,R000582,2015-01-06,"Roe, David P.",TN,Rep,original cosponsor
+hr27,1,R000582,2015-01-06,"Roe, David P.",TN,Rep,original cosponsor
+hr27,5,R000395,2016-02-12,"Rogers, Harold",KY,Rep,cosponsor
+hr27,3,R000575,2015-11-16,"Rogers, Mike D.",AL,Rep,cosponsor
+hr27,4,R000592,2016-02-12,"Rokita, Todd",IN,Rep,cosponsor
+hr27,6,R000580,2016-03-14,"Roskam, Peter J.",IL,Rep,cosponsor
+hr27,12,R000598,2016-05-16,"Rothfus, Keith J.",PA,Rep,cosponsor
+hr27,7,R000603,2015-01-07,"Rouzer, David",NC,Rep,cosponsor
+hr27,5,S000018,2016-07-14,"Salmon, Matt",AZ,Rep,cosponsor
+hr27,1,S000051,2016-03-03,"Sanford, Mark",SC,Rep,cosponsor
+hr27,6,S001183,2015-01-06,"Schweikert, David",AZ,Rep,original cosponsor
+hr27,6,S001183,2015-01-06,"Schweikert, David",AZ,Rep,original cosponsor
+hr27,8,S001189,2015-11-16,"Scott, Austin",GA,Rep,cosponsor
+hr27,5,S000244,2015-01-06,"Sensenbrenner, F. James, Jr.",WI,Rep,original cosponsor
+hr27,5,S000244,2015-01-06,"Sensenbrenner, F. James, Jr.",WI,Rep,original cosponsor
+hr27,32,S000250,2015-11-02,"Sessions, Pete",TX,Rep,cosponsor
+hr27,15,S000364,2016-01-11,"Shimkus, John",IL,Rep,cosponsor
+hr27,9,S001154,2016-04-12,"Shuster, Bill",PA,Rep,cosponsor
+hr27,2,S001148,2016-02-11,"Simpson, Michael K.",ID,Rep,cosponsor
+hr27,8,S001195,2016-05-24,"Smith, Jason",MO,Rep,cosponsor
+hr27,21,S000583,2015-01-08,"Smith, Lamar",TX,Rep,cosponsor
+hr27,2,S001192,2015-01-13,"Stewart, Chris",UT,Rep,cosponsor
+hr27,5,T000467,2015-07-27,"Thompson, Glenn",PA,Rep,cosponsor
+hr27,13,T000238,2016-02-10,"Thornberry, Mac",TX,Rep,cosponsor
+hr27,3,T000470,2016-07-14,"Tipton, Scott  R.",CO,Rep,cosponsor
+hr27,11,T000475,2016-07-14,"Trott, David A.",MI,Rep,cosponsor
+hr27,6,U000031,2016-02-12,"Upton, Fred",MI,Rep,cosponsor
+hr27,7,W000798,2015-01-06,"Walberg, Tim",MI,Rep,original cosponsor
+hr27,7,W000798,2015-01-06,"Walberg, Tim",MI,Rep,original cosponsor
+hr27,2,W000791,2015-05-08,"Walden, Greg",OR,Rep,cosponsor
+hr27,14,W000814,2015-01-06,"Weber, Randy K., Sr.",TX,Rep,original cosponsor
+hr27,14,W000814,2015-01-06,"Weber, Randy K., Sr.",TX,Rep,original cosponsor
+hr27,10,W000806,2015-01-13,"Webster, Daniel",FL,Rep,cosponsor
+hr27,3,W000796,2015-01-06,"Westmoreland, Lynn A.",GA,Rep,original cosponsor
+hr27,3,W000796,2015-01-06,"Westmoreland, Lynn A.",GA,Rep,original cosponsor
+hr27,25,W000816,2016-02-01,"Williams, Roger",TX,Rep,cosponsor
+hr27,2,W000795,2015-01-06,"Wilson, Joe",SC,Rep,original cosponsor
+hr27,2,W000795,2015-01-06,"Wilson, Joe",SC,Rep,original cosponsor
+hr27,1,W000804,2015-01-07,"Wittman, Robert J.",VA,Rep,cosponsor
+hr27,3,W000809,2016-02-12,"Womack, Steve",AR,Rep,cosponsor
+hr27,7,W000810,2015-01-06,"Woodall, Rob",GA,Rep,original cosponsor
+hr27,7,W000810,2015-01-06,"Woodall, Rob",GA,Rep,original cosponsor
+hr27,3,Y000063,2016-02-12,"Yoder, Kevin",KS,Rep,cosponsor
+hr27,3,Y000065,2015-01-06,"Yoho, Ted S.",FL,Rep,original cosponsor
+hr27,3,Y000065,2015-01-06,"Yoho, Ted S.",FL,Rep,original cosponsor
+hr27,0,Z000018,2016-02-23,"Zinke, Ryan K.",MT,Rep,cosponsor
+hr28,2,P000592,2015-01-06,"Poe, Ted",TX,Rep,sponsor
+hr29,2,P000592,2015-01-06,"Poe, Ted",TX,Rep,sponsor
+hr29,11,B001269,2015-01-06,"Barletta, Lou",PA,Rep,original cosponsor
+hr29,11,B001269,2015-01-06,"Barletta, Lou",PA,Rep,original cosponsor
+hr29,12,B001257,2015-01-06,"Bilirakis, Gus M.",FL,Rep,original cosponsor
+hr29,12,B001257,2015-01-06,"Bilirakis, Gus M.",FL,Rep,original cosponsor
+hr29,6,B001273,2015-01-06,"Black, Diane",TN,Rep,original cosponsor
+hr29,6,B001273,2015-01-06,"Black, Diane",TN,Rep,original cosponsor
+hr29,7,B001243,2015-01-06,"Blackburn, Marsha",TN,Rep,original cosponsor
+hr29,7,B001243,2015-01-06,"Blackburn, Marsha",TN,Rep,original cosponsor
+hr29,5,B001274,2015-01-06,"Brooks, Mo",AL,Rep,original cosponsor
+hr29,5,B001274,2015-01-06,"Brooks, Mo",AL,Rep,original cosponsor
+hr29,26,B001248,2015-01-06,"Burgess, Michael C.",TX,Rep,original cosponsor
+hr29,26,B001248,2015-01-06,"Burgess, Michael C.",TX,Rep,original cosponsor
+hr29,1,B001289,2015-01-06,"Byrne, Bradley",AL,Rep,original cosponsor
+hr29,1,B001289,2015-01-06,"Byrne, Bradley",AL,Rep,original cosponsor
+hr29,8,C001094,2015-01-06,"Cook, Paul",CA,Rep,original cosponsor
+hr29,8,C001094,2015-01-06,"Cook, Paul",CA,Rep,original cosponsor
+hr29,3,D000615,2015-01-06,"Duncan, Jeff",SC,Rep,original cosponsor
+hr29,3,D000615,2015-01-06,"Duncan, Jeff",SC,Rep,original cosponsor
+hr29,2,D000533,2015-01-06,"Duncan, John J., Jr.",TN,Rep,original cosponsor
+hr29,2,D000533,2015-01-06,"Duncan, John J., Jr.",TN,Rep,original cosponsor
+hr29,2,E000291,2015-11-02,"Ellmers, Renee L.",NC,Rep,cosponsor
+hr29,8,F000458,2015-01-06,"Fincher, Stephen Lee",TN,Rep,original cosponsor
+hr29,8,F000458,2015-01-06,"Fincher, Stephen Lee",TN,Rep,original cosponsor
+hr29,8,F000448,2015-01-06,"Franks, Trent",AZ,Rep,original cosponsor
+hr29,8,F000448,2015-01-06,"Franks, Trent",AZ,Rep,original cosponsor
+hr29,5,G000548,2015-01-06,"Garrett, Scott",NJ,Rep,original cosponsor
+hr29,5,G000548,2015-01-06,"Garrett, Scott",NJ,Rep,original cosponsor
+hr29,4,G000565,2015-01-13,"Gosar, Paul A.",AZ,Rep,cosponsor
+hr29,6,G000576,2015-01-13,"Grothman, Glenn",WI,Rep,cosponsor
+hr29,4,H001053,2015-01-30,"Hartzler, Vicky",MO,Rep,cosponsor
+hr29,10,H001071,2015-06-04,"Hice, Jody B.",GA,Rep,cosponsor
+hr29,14,H001059,2015-01-13,"Hultgren, Randy",IL,Rep,cosponsor
+hr29,2,J000290,2015-01-30,"Jenkins, Lynn",KS,Rep,cosponsor
+hr29,2,K000363,2015-01-06,"Kline, John",MN,Rep,original cosponsor
+hr29,2,K000363,2015-01-06,"Kline, John",MN,Rep,original cosponsor
+hr29,10,M001179,2015-01-06,"Marino, Tom",PA,Rep,original cosponsor
+hr29,10,M001179,2015-01-06,"Marino, Tom",PA,Rep,original cosponsor
+hr29,22,O000168,2015-01-08,"Olson, Pete",TX,Rep,cosponsor
+hr29,4,P000601,2015-01-06,"Palazzo, Steven M.",MS,Rep,original cosponsor
+hr29,4,P000601,2015-01-06,"Palazzo, Steven M.",MS,Rep,original cosponsor
+hr29,9,P000606,2015-01-06,"Pittenger, Robert",NC,Rep,original cosponsor
+hr29,9,P000606,2015-01-06,"Pittenger, Robert",NC,Rep,original cosponsor
+hr29,1,R000582,2015-01-06,"Roe, David P.",TN,Rep,original cosponsor
+hr29,1,R000582,2015-01-06,"Roe, David P.",TN,Rep,original cosponsor
+hr29,12,R000598,2015-01-06,"Rothfus, Keith J.",PA,Rep,original cosponsor
+hr29,12,R000598,2015-01-06,"Rothfus, Keith J.",PA,Rep,original cosponsor
+hr29,1,S000051,2015-04-14,"Sanford, Mark",SC,Rep,cosponsor
+hr29,6,S001183,2015-01-06,"Schweikert, David",AZ,Rep,original cosponsor
+hr29,6,S001183,2015-01-06,"Schweikert, David",AZ,Rep,original cosponsor
+hr29,14,W000814,2015-01-08,"Weber, Randy K., Sr.",TX,Rep,cosponsor
+hr29,2,W000795,2015-01-06,"Wilson, Joe",SC,Rep,original cosponsor
+hr29,2,W000795,2015-01-06,"Wilson, Joe",SC,Rep,original cosponsor
+hr30,9,Y000064,2015-01-06,"Young, Todd C.",IN,Rep,sponsor
+hr30,2,A000369,2015-01-06,"Amodei, Mark E.",NV,Rep,original cosponsor
+hr30,2,A000369,2015-01-06,"Amodei, Mark E.",NV,Rep,original cosponsor
+hr30,2,A000373,2015-01-06,"Ashford, Brad",NE,Rep,original cosponsor
+hr30,2,A000373,2015-01-06,"Ashford, Brad",NE,Rep,original cosponsor
+hr30,36,B001291,2015-01-07,"Babin, Brian",TX,Rep,cosponsor
+hr30,11,B001269,2015-01-06,"Barletta, Lou",PA,Rep,original cosponsor
+hr30,11,B001269,2015-01-06,"Barletta, Lou",PA,Rep,original cosponsor
+hr30,6,B001282,2015-01-06,"Barr, Andy",KY,Rep,original cosponsor
+hr30,6,B001282,2015-01-06,"Barr, Andy",KY,Rep,original cosponsor
+hr30,1,B001271,2015-01-06,"Benishek, Dan",MI,Rep,original cosponsor
+hr30,1,B001271,2015-01-06,"Benishek, Dan",MI,Rep,original cosponsor
+hr30,1,B001250,2015-01-06,"Bishop, Rob",UT,Rep,original cosponsor
+hr30,1,B001250,2015-01-06,"Bishop, Rob",UT,Rep,original cosponsor
+hr30,6,B001273,2015-01-06,"Black, Diane",TN,Rep,original cosponsor
+hr30,6,B001273,2015-01-06,"Black, Diane",TN,Rep,original cosponsor
+hr30,7,B001243,2015-01-06,"Blackburn, Marsha",TN,Rep,original cosponsor
+hr30,7,B001243,2015-01-06,"Blackburn, Marsha",TN,Rep,original cosponsor
+hr30,12,B001295,2015-01-07,"Bost, Mike",IL,Rep,cosponsor
+hr30,3,B001255,2015-01-06,"Boustany, Charles W., Jr.",LA,Rep,original cosponsor
+hr30,3,B001255,2015-01-06,"Boustany, Charles W., Jr.",LA,Rep,original cosponsor
+hr30,8,B000755,2015-01-06,"Brady, Kevin",TX,Rep,original cosponsor
+hr30,8,B000755,2015-01-06,"Brady, Kevin",TX,Rep,original cosponsor
+hr30,7,B001290,2015-01-06,"Brat, Dave",VA,Rep,original cosponsor
+hr30,7,B001290,2015-01-06,"Brat, Dave",VA,Rep,original cosponsor
+hr30,5,B001274,2015-01-06,"Brooks, Mo",AL,Rep,original cosponsor
+hr30,5,B001274,2015-01-06,"Brooks, Mo",AL,Rep,original cosponsor
+hr30,5,B001284,2015-01-06,"Brooks, Susan W.",IN,Rep,original cosponsor
+hr30,5,B001284,2015-01-06,"Brooks, Susan W.",IN,Rep,original cosponsor
+hr30,16,B001260,2015-01-06,"Buchanan, Vern",FL,Rep,original cosponsor
+hr30,16,B001260,2015-01-06,"Buchanan, Vern",FL,Rep,original cosponsor
+hr30,8,B001275,2015-01-06,"Bucshon, Larry",IN,Rep,original cosponsor
+hr30,8,B001275,2015-01-06,"Bucshon, Larry",IN,Rep,original cosponsor
+hr30,26,B001248,2015-01-06,"Burgess, Michael C.",TX,Rep,original cosponsor
+hr30,26,B001248,2015-01-06,"Burgess, Michael C.",TX,Rep,original cosponsor
+hr30,1,B001289,2015-01-06,"Byrne, Bradley",AL,Rep,original cosponsor
+hr30,1,B001289,2015-01-06,"Byrne, Bradley",AL,Rep,original cosponsor
+hr30,42,C000059,2015-01-06,"Calvert, Ken",CA,Rep,original cosponsor
+hr30,42,C000059,2015-01-06,"Calvert, Ken",CA,Rep,original cosponsor
+hr30,3,C001076,2015-01-06,"Chaffetz, Jason",UT,Rep,original cosponsor
+hr30,3,C001076,2015-01-06,"Chaffetz, Jason",UT,Rep,original cosponsor
+hr30,4,C001053,2015-01-06,"Cole, Tom",OK,Rep,original cosponsor
+hr30,4,C001053,2015-01-06,"Cole, Tom",OK,Rep,original cosponsor
+hr30,27,C001092,2015-01-06,"Collins, Chris",NY,Rep,original cosponsor
+hr30,27,C001092,2015-01-06,"Collins, Chris",NY,Rep,original cosponsor
+hr30,8,C001094,2015-01-06,"Cook, Paul",CA,Rep,original cosponsor
+hr30,8,C001094,2015-01-06,"Cook, Paul",CA,Rep,original cosponsor
+hr30,6,C001106,2015-01-06,"Costello, Ryan A.",PA,Rep,original cosponsor
+hr30,6,C001106,2015-01-06,"Costello, Ryan A.",PA,Rep,original cosponsor
+hr30,0,C001096,2015-01-06,"Cramer, Kevin",ND,Rep,original cosponsor
+hr30,0,C001096,2015-01-06,"Cramer, Kevin",ND,Rep,original cosponsor
+hr30,1,C001087,2015-01-06,"Crawford, Eric A. ""Rick""",AR,Rep,original cosponsor
+hr30,1,C001087,2015-01-06,"Crawford, Eric A. ""Rick""",AR,Rep,original cosponsor
+hr30,7,C001048,2015-01-07,"Culberson, John Abney",TX,Rep,cosponsor
+hr30,26,C001107,2015-01-08,"Curbelo, Carlos",FL,Rep,cosponsor
+hr30,13,D000619,2015-01-06,"Davis, Rodney",IL,Rep,original cosponsor
+hr30,13,D000619,2015-01-06,"Davis, Rodney",IL,Rep,original cosponsor
+hr30,10,D000612,2015-01-06,"Denham, Jeff",CA,Rep,original cosponsor
+hr30,10,D000612,2015-01-06,"Denham, Jeff",CA,Rep,original cosponsor
+hr30,15,D000604,2015-01-07,"Dent, Charles W.",PA,Rep,cosponsor
+hr30,6,D000621,2015-01-06,"DeSantis, Ron",FL,Rep,original cosponsor
+hr30,6,D000621,2015-01-06,"DeSantis, Ron",FL,Rep,original cosponsor
+hr30,25,D000600,2015-01-06,"Diaz-Balart, Mario",FL,Rep,original cosponsor
+hr30,25,D000600,2015-01-06,"Diaz-Balart, Mario",FL,Rep,original cosponsor
+hr30,10,D000613,2015-01-06,"Dold, Robert J.",IL,Rep,original cosponsor
+hr30,10,D000613,2015-01-06,"Dold, Robert J.",IL,Rep,original cosponsor
+hr30,7,D000614,2015-01-06,"Duffy, Sean P.",WI,Rep,original cosponsor
+hr30,7,D000614,2015-01-06,"Duffy, Sean P.",WI,Rep,original cosponsor
+hr30,2,D000533,2015-01-06,"Duncan, John J., Jr.",TN,Rep,original cosponsor
+hr30,2,D000533,2015-01-06,"Duncan, John J., Jr.",TN,Rep,original cosponsor
+hr30,2,E000291,2015-01-06,"Ellmers, Renee L.",NC,Rep,original cosponsor
+hr30,2,E000291,2015-01-06,"Ellmers, Renee L.",NC,Rep,original cosponsor
+hr30,27,F000460,2015-01-06,"Farenthold, Blake",TX,Rep,original cosponsor
+hr30,27,F000460,2015-01-06,"Farenthold, Blake",TX,Rep,original cosponsor
+hr30,8,F000451,2015-01-08,"Fitzpatrick, Michael G.",PA,Rep,cosponsor
+hr30,3,F000459,2015-01-06,"Fleischmann, Charles J. ""Chuck""",TN,Rep,original cosponsor
+hr30,3,F000459,2015-01-06,"Fleischmann, Charles J. ""Chuck""",TN,Rep,original cosponsor
+hr30,17,F000461,2015-01-06,"Flores, Bill",TX,Rep,original cosponsor
+hr30,17,F000461,2015-01-06,"Flores, Bill",TX,Rep,original cosponsor
+hr30,4,F000445,2015-01-06,"Forbes, J. Randy",VA,Rep,original cosponsor
+hr30,4,F000445,2015-01-06,"Forbes, J. Randy",VA,Rep,original cosponsor
+hr30,1,F000449,2015-01-06,"Fortenberry, Jeff",NE,Rep,original cosponsor
+hr30,1,F000449,2015-01-06,"Fortenberry, Jeff",NE,Rep,original cosponsor
+hr30,11,F000372,2015-01-06,"Frelinghuysen, Rodney P.",NJ,Rep,original cosponsor
+hr30,11,F000372,2015-01-06,"Frelinghuysen, Rodney P.",NJ,Rep,original cosponsor
+hr30,7,G000563,2015-01-06,"Gibbs, Bob",OH,Rep,original cosponsor
+hr30,7,G000563,2015-01-06,"Gibbs, Bob",OH,Rep,original cosponsor
+hr30,19,G000564,2015-01-06,"Gibson, Christopher P.",NY,Rep,original cosponsor
+hr30,19,G000564,2015-01-06,"Gibson, Christopher P.",NY,Rep,original cosponsor
+hr30,4,G000565,2015-01-06,"Gosar, Paul A.",AZ,Rep,original cosponsor
+hr30,4,G000565,2015-01-06,"Gosar, Paul A.",AZ,Rep,original cosponsor
+hr30,2,G000575,2015-01-06,"Graham, Gwen",FL,Rep,original cosponsor
+hr30,2,G000575,2015-01-06,"Graham, Gwen",FL,Rep,original cosponsor
+hr30,6,G000546,2015-01-06,"Graves, Sam",MO,Rep,original cosponsor
+hr30,6,G000546,2015-01-06,"Graves, Sam",MO,Rep,original cosponsor
+hr30,9,G000568,2015-01-06,"Griffith, H. Morgan",VA,Rep,original cosponsor
+hr30,9,G000568,2015-01-06,"Griffith, H. Morgan",VA,Rep,original cosponsor
+hr30,1,G000570,2015-01-06,"Guinta, Frank C.",NH,Rep,original cosponsor
+hr30,1,G000570,2015-01-06,"Guinta, Frank C.",NH,Rep,original cosponsor
+hr30,2,G000558,2015-01-06,"Guthrie, Brett",KY,Rep,original cosponsor
+hr30,2,G000558,2015-01-06,"Guthrie, Brett",KY,Rep,original cosponsor
+hr30,22,H001051,2015-01-06,"Hanna, Richard L.",NY,Rep,original cosponsor
+hr30,22,H001051,2015-01-06,"Hanna, Richard L.",NY,Rep,original cosponsor
+hr30,4,H001053,2015-01-06,"Hartzler, Vicky",MO,Rep,original cosponsor
+hr30,4,H001053,2015-01-06,"Hartzler, Vicky",MO,Rep,original cosponsor
+hr30,3,H001055,2015-01-06,"Heck, Joseph J.",NV,Rep,original cosponsor
+hr30,3,H001055,2015-01-06,"Heck, Joseph J.",NV,Rep,original cosponsor
+hr30,5,H001036,2015-01-06,"Hensarling, Jeb",TX,Rep,original cosponsor
+hr30,5,H001036,2015-01-06,"Hensarling, Jeb",TX,Rep,original cosponsor
+hr30,2,H001072,2015-01-06,"Hill, J. French",AR,Rep,original cosponsor
+hr30,2,H001072,2015-01-06,"Hill, J. French",AR,Rep,original cosponsor
+hr30,13,H001065,2015-01-06,"Holding, George",NC,Rep,original cosponsor
+hr30,13,H001065,2015-01-06,"Holding, George",NC,Rep,original cosponsor
+hr30,8,H001067,2015-01-06,"Hudson, Richard",NC,Rep,original cosponsor
+hr30,8,H001067,2015-01-06,"Hudson, Richard",NC,Rep,original cosponsor
+hr30,1,H001057,2015-01-06,"Huelskamp, Tim",KS,Rep,original cosponsor
+hr30,1,H001057,2015-01-06,"Huelskamp, Tim",KS,Rep,original cosponsor
+hr30,2,H001058,2015-01-06,"Huizenga, Bill",MI,Rep,original cosponsor
+hr30,2,H001058,2015-01-06,"Huizenga, Bill",MI,Rep,original cosponsor
+hr30,5,H001060,2015-01-06,"Hurt, Robert",VA,Rep,original cosponsor
+hr30,5,H001060,2015-01-06,"Hurt, Robert",VA,Rep,original cosponsor
+hr30,49,I000056,2015-01-06,"Issa, Darrell E.",CA,Rep,original cosponsor
+hr30,49,I000056,2015-01-06,"Issa, Darrell E.",CA,Rep,original cosponsor
+hr30,2,J000290,2015-01-06,"Jenkins, Lynn",KS,Rep,original cosponsor
+hr30,2,J000290,2015-01-06,"Jenkins, Lynn",KS,Rep,original cosponsor
+hr30,6,J000292,2015-01-06,"Johnson, Bill",OH,Rep,original cosponsor
+hr30,6,J000292,2015-01-06,"Johnson, Bill",OH,Rep,original cosponsor
+hr30,3,J000174,2015-01-06,"Johnson, Sam",TX,Rep,original cosponsor
+hr30,3,J000174,2015-01-06,"Johnson, Sam",TX,Rep,original cosponsor
+hr30,13,J000296,2015-01-06,"Jolly, David",FL,Rep,original cosponsor
+hr30,13,J000296,2015-01-06,"Jolly, David",FL,Rep,original cosponsor
+hr30,3,J000255,2015-01-06,"Jones, Walter B., Jr.",NC,Rep,original cosponsor
+hr30,3,J000255,2015-01-06,"Jones, Walter B., Jr.",NC,Rep,original cosponsor
+hr30,4,J000289,2015-01-06,"Jordan, Jim",OH,Rep,original cosponsor
+hr30,4,J000289,2015-01-06,"Jordan, Jim",OH,Rep,original cosponsor
+hr30,14,J000295,2015-01-06,"Joyce, David P.",OH,Rep,original cosponsor
+hr30,14,J000295,2015-01-06,"Joyce, David P.",OH,Rep,original cosponsor
+hr30,24,K000386,2015-01-06,"Katko, John",NY,Rep,original cosponsor
+hr30,24,K000386,2015-01-06,"Katko, John",NY,Rep,original cosponsor
+hr30,3,K000376,2015-01-06,"Kelly, Mike",PA,Rep,original cosponsor
+hr30,3,K000376,2015-01-06,"Kelly, Mike",PA,Rep,original cosponsor
+hr30,2,K000363,2015-01-06,"Kline, John",MN,Rep,original cosponsor
+hr30,2,K000363,2015-01-06,"Kline, John",MN,Rep,original cosponsor
+hr30,5,L000564,2015-01-06,"Lamborn, Doug",CO,Rep,original cosponsor
+hr30,5,L000564,2015-01-06,"Lamborn, Doug",CO,Rep,original cosponsor
+hr30,7,L000567,2015-01-06,"Lance, Leonard",NJ,Rep,original cosponsor
+hr30,7,L000567,2015-01-06,"Lance, Leonard",NJ,Rep,original cosponsor
+hr30,5,L000566,2015-01-06,"Latta, Robert E.",OH,Rep,original cosponsor
+hr30,5,L000566,2015-01-06,"Latta, Robert E.",OH,Rep,original cosponsor
+hr30,3,L000563,2015-01-06,"Lipinski, Daniel",IL,Rep,original cosponsor
+hr30,3,L000563,2015-01-06,"Lipinski, Daniel",IL,Rep,original cosponsor
+hr30,4,L000584,2015-01-08,"Love, Mia B.",UT,Rep,cosponsor
+hr30,3,L000569,2015-01-06,"Luetkemeyer, Blaine",MO,Rep,original cosponsor
+hr30,3,L000569,2015-01-06,"Luetkemeyer, Blaine",MO,Rep,original cosponsor
+hr30,0,L000571,2015-01-06,"Lummis, Cynthia M.",WY,Rep,original cosponsor
+hr30,0,L000571,2015-01-06,"Lummis, Cynthia M.",WY,Rep,original cosponsor
+hr30,24,M001158,2015-01-06,"Marchant, Kenny",TX,Rep,original cosponsor
+hr30,24,M001158,2015-01-06,"Marchant, Kenny",TX,Rep,original cosponsor
+hr30,10,M001179,2015-01-06,"Marino, Tom",PA,Rep,original cosponsor
+hr30,10,M001179,2015-01-06,"Marino, Tom",PA,Rep,original cosponsor
+hr30,10,M001157,2015-01-06,"McCaul, Michael T.",TX,Rep,original cosponsor
+hr30,10,M001157,2015-01-06,"McCaul, Michael T.",TX,Rep,original cosponsor
+hr30,4,M001177,2015-01-06,"McClintock, Tom",CA,Rep,original cosponsor
+hr30,4,M001177,2015-01-06,"McClintock, Tom",CA,Rep,original cosponsor
+hr30,1,M001180,2015-01-06,"McKinley, David B.",WV,Rep,original cosponsor
+hr30,1,M001180,2015-01-06,"McKinley, David B.",WV,Rep,original cosponsor
+hr30,2,M001197,2015-01-08,"McSally, Martha",AZ,Rep,cosponsor
+hr30,11,M001187,2015-01-06,"Meadows, Mark",NC,Rep,original cosponsor
+hr30,11,M001187,2015-01-06,"Meadows, Mark",NC,Rep,original cosponsor
+hr30,6,M001189,2015-01-06,"Messer, Luke",IN,Rep,original cosponsor
+hr30,6,M001189,2015-01-06,"Messer, Luke",IN,Rep,original cosponsor
+hr30,7,M000689,2015-01-08,"Mica, John L.",FL,Rep,cosponsor
+hr30,10,M001150,2015-01-06,"Miller, Candice S.",MI,Rep,original cosponsor
+hr30,10,M001150,2015-01-06,"Miller, Candice S.",MI,Rep,original cosponsor
+hr30,1,M001144,2015-01-06,"Miller, Jeff",FL,Rep,original cosponsor
+hr30,1,M001144,2015-01-06,"Miller, Jeff",FL,Rep,original cosponsor
+hr30,2,M001195,2015-01-08,"Mooney, Alexander X.",WV,Rep,cosponsor
+hr30,2,M001190,2015-01-06,"Mullin, Markwayne",OK,Rep,original cosponsor
+hr30,2,M001190,2015-01-06,"Mullin, Markwayne",OK,Rep,original cosponsor
+hr30,5,M001182,2015-01-06,"Mulvaney, Mick",SC,Rep,original cosponsor
+hr30,5,M001182,2015-01-06,"Mulvaney, Mick",SC,Rep,original cosponsor
+hr30,19,N000182,2015-01-06,"Neugebauer, Randy",TX,Rep,original cosponsor
+hr30,19,N000182,2015-01-06,"Neugebauer, Randy",TX,Rep,original cosponsor
+hr30,0,N000184,2015-01-06,"Noem, Kristi L.",SD,Rep,original cosponsor
+hr30,0,N000184,2015-01-06,"Noem, Kristi L.",SD,Rep,original cosponsor
+hr30,22,O000168,2015-01-06,"Olson, Pete",TX,Rep,original cosponsor
+hr30,22,O000168,2015-01-06,"Olson, Pete",TX,Rep,original cosponsor
+hr30,4,P000601,2015-01-06,"Palazzo, Steven M.",MS,Rep,original cosponsor
+hr30,4,P000601,2015-01-06,"Palazzo, Steven M.",MS,Rep,original cosponsor
+hr30,3,P000594,2015-01-06,"Paulsen, Erik",MN,Rep,original cosponsor
+hr30,3,P000594,2015-01-06,"Paulsen, Erik",MN,Rep,original cosponsor
+hr30,2,P000588,2015-01-06,"Pearce, Stevan",NM,Rep,original cosponsor
+hr30,2,P000588,2015-01-06,"Pearce, Stevan",NM,Rep,original cosponsor
+hr30,4,P000605,2015-01-06,"Perry, Scott",PA,Rep,original cosponsor
+hr30,4,P000605,2015-01-06,"Perry, Scott",PA,Rep,original cosponsor
+hr30,7,P000258,2015-01-06,"Peterson, Collin C.",MN,Rep,original cosponsor
+hr30,7,P000258,2015-01-06,"Peterson, Collin C.",MN,Rep,original cosponsor
+hr30,9,P000606,2015-01-06,"Pittenger, Robert",NC,Rep,original cosponsor
+hr30,9,P000606,2015-01-06,"Pittenger, Robert",NC,Rep,original cosponsor
+hr30,16,P000373,2015-01-06,"Pitts, Joseph R.",PA,Rep,original cosponsor
+hr30,16,P000373,2015-01-06,"Pitts, Joseph R.",PA,Rep,original cosponsor
+hr30,2,P000611,2015-01-06,"Poliquin, Bruce",ME,Rep,original cosponsor
+hr30,2,P000611,2015-01-06,"Poliquin, Bruce",ME,Rep,original cosponsor
+hr30,8,P000599,2015-01-06,"Posey, Bill",FL,Rep,original cosponsor
+hr30,8,P000599,2015-01-06,"Posey, Bill",FL,Rep,original cosponsor
+hr30,6,P000591,2015-01-06,"Price, Tom",GA,Rep,original cosponsor
+hr30,6,P000591,2015-01-06,"Price, Tom",GA,Rep,original cosponsor
+hr30,4,R000601,2015-01-06,"Ratcliffe, John",TX,Rep,original cosponsor
+hr30,4,R000601,2015-01-06,"Ratcliffe, John",TX,Rep,original cosponsor
+hr30,23,R000585,2015-01-06,"Reed, Tom",NY,Rep,original cosponsor
+hr30,23,R000585,2015-01-06,"Reed, Tom",NY,Rep,original cosponsor
+hr30,8,R000578,2015-01-06,"Reichert, David G.",WA,Rep,original cosponsor
+hr30,8,R000578,2015-01-06,"Reichert, David G.",WA,Rep,original cosponsor
+hr30,8,R000587,2015-01-06,"Ribble, Reid J.",WI,Rep,original cosponsor
+hr30,8,R000587,2015-01-06,"Ribble, Reid J.",WI,Rep,original cosponsor
+hr30,7,R000597,2015-01-06,"Rice, Tom",SC,Rep,original cosponsor
+hr30,7,R000597,2015-01-06,"Rice, Tom",SC,Rep,original cosponsor
+hr30,1,R000582,2015-01-06,"Roe, David P.",TN,Rep,original cosponsor
+hr30,1,R000582,2015-01-06,"Roe, David P.",TN,Rep,original cosponsor
+hr30,5,R000395,2015-01-06,"Rogers, Harold",KY,Rep,original cosponsor
+hr30,5,R000395,2015-01-06,"Rogers, Harold",KY,Rep,original cosponsor
+hr30,48,R000409,2015-01-06,"Rohrabacher, Dana",CA,Rep,original cosponsor
+hr30,48,R000409,2015-01-06,"Rohrabacher, Dana",CA,Rep,original cosponsor
+hr30,4,R000592,2015-01-06,"Rokita, Todd",IN,Rep,original cosponsor
+hr30,4,R000592,2015-01-06,"Rokita, Todd",IN,Rep,original cosponsor
+hr30,17,R000583,2015-01-06,"Rooney, Thomas J.",FL,Rep,original cosponsor
+hr30,17,R000583,2015-01-06,"Rooney, Thomas J.",FL,Rep,original cosponsor
+hr30,6,R000580,2015-01-06,"Roskam, Peter J.",IL,Rep,original cosponsor
+hr30,6,R000580,2015-01-06,"Roskam, Peter J.",IL,Rep,original cosponsor
+hr30,12,R000598,2015-01-06,"Rothfus, Keith J.",PA,Rep,original cosponsor
+hr30,12,R000598,2015-01-06,"Rothfus, Keith J.",PA,Rep,original cosponsor
+hr30,5,S000018,2015-01-07,"Salmon, Matt",AZ,Rep,cosponsor
+hr30,1,S000051,2015-01-06,"Sanford, Mark",SC,Rep,original cosponsor
+hr30,1,S000051,2015-01-06,"Sanford, Mark",SC,Rep,original cosponsor
+hr30,18,S001179,2015-01-06,"Schock, Aaron",IL,Rep,original cosponsor
+hr30,18,S001179,2015-01-06,"Schock, Aaron",IL,Rep,original cosponsor
+hr30,5,S001180,2015-01-06,"Schrader, Kurt",OR,Rep,original cosponsor
+hr30,5,S001180,2015-01-06,"Schrader, Kurt",OR,Rep,original cosponsor
+hr30,6,S001183,2015-01-06,"Schweikert, David",AZ,Rep,original cosponsor
+hr30,6,S001183,2015-01-06,"Schweikert, David",AZ,Rep,original cosponsor
+hr30,32,S000250,2015-01-06,"Sessions, Pete",TX,Rep,original cosponsor
+hr30,32,S000250,2015-01-06,"Sessions, Pete",TX,Rep,original cosponsor
+hr30,15,S000364,2015-01-06,"Shimkus, John",IL,Rep,original cosponsor
+hr30,15,S000364,2015-01-06,"Shimkus, John",IL,Rep,original cosponsor
+hr30,9,S001191,2015-01-06,"Sinema, Kyrsten",AZ,Rep,original cosponsor
+hr30,9,S001191,2015-01-06,"Sinema, Kyrsten",AZ,Rep,original cosponsor
+hr30,3,S001172,2015-01-06,"Smith, Adrian",NE,Rep,original cosponsor
+hr30,3,S001172,2015-01-06,"Smith, Adrian",NE,Rep,original cosponsor
+hr30,4,S000522,2015-01-06,"Smith, Christopher H.",NJ,Rep,original cosponsor
+hr30,4,S000522,2015-01-06,"Smith, Christopher H.",NJ,Rep,original cosponsor
+hr30,8,S001195,2015-01-06,"Smith, Jason",MO,Rep,original cosponsor
+hr30,8,S001195,2015-01-06,"Smith, Jason",MO,Rep,original cosponsor
+hr30,2,S001192,2015-01-06,"Stewart, Chris",UT,Rep,original cosponsor
+hr30,2,S001192,2015-01-06,"Stewart, Chris",UT,Rep,original cosponsor
+hr30,15,S001187,2015-01-06,"Stivers, Steve",OH,Rep,original cosponsor
+hr30,15,S001187,2015-01-06,"Stivers, Steve",OH,Rep,original cosponsor
+hr30,3,S001188,2015-01-06,"Stutzman, Marlin A.",IN,Rep,original cosponsor
+hr30,3,S001188,2015-01-06,"Stutzman, Marlin A.",IN,Rep,original cosponsor
+hr30,5,T000467,2015-01-06,"Thompson, Glenn",PA,Rep,original cosponsor
+hr30,5,T000467,2015-01-06,"Thompson, Glenn",PA,Rep,original cosponsor
+hr30,12,T000462,2015-01-06,"Tiberi, Patrick J.",OH,Rep,original cosponsor
+hr30,12,T000462,2015-01-06,"Tiberi, Patrick J.",OH,Rep,original cosponsor
+hr30,3,T000470,2015-01-06,"Tipton, Scott  R.",CO,Rep,original cosponsor
+hr30,3,T000470,2015-01-06,"Tipton, Scott  R.",CO,Rep,original cosponsor
+hr30,10,T000463,2015-01-06,"Turner, Michael R.",OH,Rep,original cosponsor
+hr30,10,T000463,2015-01-06,"Turner, Michael R.",OH,Rep,original cosponsor
+hr30,21,V000129,2015-01-06,"Valadao, David G.",CA,Rep,original cosponsor
+hr30,21,V000129,2015-01-06,"Valadao, David G.",CA,Rep,original cosponsor
+hr30,2,W000812,2015-01-06,"Wagner, Ann",MO,Rep,original cosponsor
+hr30,2,W000812,2015-01-06,"Wagner, Ann",MO,Rep,original cosponsor
+hr30,7,W000798,2015-01-06,"Walberg, Tim",MI,Rep,original cosponsor
+hr30,7,W000798,2015-01-06,"Walberg, Tim",MI,Rep,original cosponsor
+hr30,2,W000791,2015-01-06,"Walden, Greg",OR,Rep,original cosponsor
+hr30,2,W000791,2015-01-06,"Walden, Greg",OR,Rep,original cosponsor
+hr30,2,W000813,2015-01-06,"Walorski, Jackie",IN,Rep,original cosponsor
+hr30,2,W000813,2015-01-06,"Walorski, Jackie",IN,Rep,original cosponsor
+hr30,45,W000820,2015-01-06,"Walters, Mimi",CA,Rep,original cosponsor
+hr30,45,W000820,2015-01-06,"Walters, Mimi",CA,Rep,original cosponsor
+hr30,10,W000806,2015-01-06,"Webster, Daniel",FL,Rep,original cosponsor
+hr30,10,W000806,2015-01-06,"Webster, Daniel",FL,Rep,original cosponsor
+hr30,2,W000815,2015-01-06,"Wenstrup, Brad R.",OH,Rep,original cosponsor
+hr30,2,W000815,2015-01-06,"Wenstrup, Brad R.",OH,Rep,original cosponsor
+hr30,4,W000821,2015-01-06,"Westerman, Bruce",AR,Rep,original cosponsor
+hr30,4,W000821,2015-01-06,"Westerman, Bruce",AR,Rep,original cosponsor
+hr30,3,W000796,2015-01-06,"Westmoreland, Lynn A.",GA,Rep,original cosponsor
+hr30,3,W000796,2015-01-06,"Westmoreland, Lynn A.",GA,Rep,original cosponsor
+hr30,1,W000413,2015-01-06,"Whitfield, Ed",KY,Rep,original cosponsor
+hr30,1,W000413,2015-01-06,"Whitfield, Ed",KY,Rep,original cosponsor
+hr30,25,W000816,2015-01-06,"Williams, Roger",TX,Rep,original cosponsor
+hr30,25,W000816,2015-01-06,"Williams, Roger",TX,Rep,original cosponsor
+hr30,2,W000795,2015-01-06,"Wilson, Joe",SC,Rep,original cosponsor
+hr30,2,W000795,2015-01-06,"Wilson, Joe",SC,Rep,original cosponsor
+hr30,3,W000809,2015-01-06,"Womack, Steve",AR,Rep,original cosponsor
+hr30,3,W000809,2015-01-06,"Womack, Steve",AR,Rep,original cosponsor
+hr30,7,W000810,2015-01-06,"Woodall, Rob",GA,Rep,original cosponsor
+hr30,7,W000810,2015-01-06,"Woodall, Rob",GA,Rep,original cosponsor
+hr30,3,Y000063,2015-01-06,"Yoder, Kevin",KS,Rep,original cosponsor
+hr30,3,Y000063,2015-01-06,"Yoder, Kevin",KS,Rep,original cosponsor
+hr30,3,Y000065,2015-01-06,"Yoho, Ted S.",FL,Rep,original cosponsor
+hr30,3,Y000065,2015-01-06,"Yoho, Ted S.",FL,Rep,original cosponsor
+hr30,1,Z000017,2015-01-06,"Zeldin, Lee M.",NY,Rep,original cosponsor
+hr30,1,Z000017,2015-01-06,"Zeldin, Lee M.",NY,Rep,original cosponsor
+hr31,2,R000591,2015-01-06,"Roby, Martha",AL,Rep,sponsor
+hr31,5,B001274,2015-10-20,"Brooks, Mo",AL,Rep,cosponsor
+hr31,2,E000291,2015-11-02,"Ellmers, Renee L.",NC,Rep,cosponsor
+hr32,11,B001269,2015-01-06,"Barletta, Lou",PA,Rep,sponsor
+hr32,5,B001274,2015-01-09,"Brooks, Mo",AL,Rep,cosponsor
+hr32,2,E000291,2015-11-02,"Ellmers, Renee L.",NC,Rep,cosponsor
+hr32,3,J000255,2015-01-12,"Jones, Walter B., Jr.",NC,Rep,cosponsor
+hr32,4,K000362,2015-01-09,"King, Steve",IA,Rep,cosponsor
+hr33,11,B001269,2015-01-06,"Barletta, Lou",PA,Rep,sponsor
+hr33,17,C001090,2015-01-12,"Cartwright, Matt",PA,Rep,cosponsor
+hr33,6,C001106,2015-01-12,"Costello, Ryan A.",PA,Rep,cosponsor
+hr33,2,C001069,2015-01-12,"Courtney, Joe",CT,Rep,cosponsor
+hr33,15,D000604,2015-01-12,"Dent, Charles W.",PA,Rep,cosponsor
+hr33,3,F000459,2015-01-12,"Fleischmann, Charles J. ""Chuck""",TN,Rep,cosponsor
+hr33,19,G000564,2015-01-12,"Gibson, Christopher P.",NY,Rep,cosponsor
+hr33,22,H001051,2015-01-12,"Hanna, Richard L.",NY,Rep,cosponsor
+hr33,1,H001057,2015-01-12,"Huelskamp, Tim",KS,Rep,cosponsor
+hr33,5,H001060,2015-01-12,"Hurt, Robert",VA,Rep,cosponsor
+hr33,3,K000376,2015-01-12,"Kelly, Mike",PA,Rep,cosponsor
+hr33,2,L000554,2015-01-12,"LoBiondo, Frank A.",NJ,Rep,cosponsor
+hr33,10,M001179,2015-01-12,"Marino, Tom",PA,Rep,cosponsor
+hr33,4,P000605,2015-01-12,"Perry, Scott",PA,Rep,cosponsor
+hr33,12,R000598,2015-01-12,"Rothfus, Keith J.",PA,Rep,cosponsor
+hr33,9,S001154,2015-01-12,"Shuster, Bill",PA,Rep,cosponsor
+hr34,1,B001278,2015-01-06,"Bonamici, Suzanne",OR,Rep,sponsor
+hr34,4,D000191,2015-01-06,"DeFazio, Peter A.",OR,Rep,original cosponsor
+hr34,4,D000191,2015-01-06,"DeFazio, Peter A.",OR,Rep,original cosponsor
+hr34,3,H001056,2015-01-07,"Herrera Beutler, Jaime",WA,Rep,cosponsor
+hr34,30,J000126,2015-01-06,"Johnson, Eddie Bernice",TX,Rep,original cosponsor
+hr34,30,J000126,2015-01-06,"Johnson, Eddie Bernice",TX,Rep,original cosponsor
+hr34,48,R000409,2015-01-06,"Rohrabacher, Dana",CA,Rep,original cosponsor
+hr34,48,R000409,2015-01-06,"Rohrabacher, Dana",CA,Rep,original cosponsor
+hr34,0,S001177,2015-01-06,"Sablan, Gregorio Kilili Camacho",MP,Rep,original cosponsor
+hr34,0,S001177,2015-01-06,"Sablan, Gregorio Kilili Camacho",MP,Rep,original cosponsor
+hr34,5,S001180,2015-01-06,"Schrader, Kurt",OR,Rep,original cosponsor
+hr34,5,S001180,2015-01-06,"Schrader, Kurt",OR,Rep,original cosponsor
+hr34,21,S000583,2015-01-06,"Smith, Lamar",TX,Rep,original cosponsor
+hr34,21,S000583,2015-01-06,"Smith, Lamar",TX,Rep,original cosponsor
+hr35,14,H001059,2015-01-06,"Hultgren, Randy",IL,Rep,sponsor
+hr35,8,B001275,2015-01-06,"Bucshon, Larry",IN,Rep,original cosponsor
+hr35,8,B001275,2015-01-06,"Bucshon, Larry",IN,Rep,original cosponsor
+hr35,0,C001096,2015-01-06,"Cramer, Kevin",ND,Rep,original cosponsor
+hr35,0,C001096,2015-01-06,"Cramer, Kevin",ND,Rep,original cosponsor
+hr35,3,L000563,2015-01-06,"Lipinski, Daniel",IL,Rep,original cosponsor
+hr35,3,L000563,2015-01-06,"Lipinski, Daniel",IL,Rep,original cosponsor
+hr35,8,P000599,2015-01-06,"Posey, Bill",FL,Rep,original cosponsor
+hr35,8,P000599,2015-01-06,"Posey, Bill",FL,Rep,original cosponsor
+hr35,5,S000244,2015-01-06,"Sensenbrenner, F. James, Jr.",WI,Rep,original cosponsor
+hr35,5,S000244,2015-01-06,"Sensenbrenner, F. James, Jr.",WI,Rep,original cosponsor
+hr35,21,S000583,2015-01-06,"Smith, Lamar",TX,Rep,original cosponsor
+hr35,21,S000583,2015-01-06,"Smith, Lamar",TX,Rep,original cosponsor
+hr36,8,F000448,2015-01-06,"Franks, Trent",AZ,Rep,sponsor
+hr36,5,A000374,2015-01-21,"Abraham, Ralph Lee",LA,Rep,cosponsor
+hr36,4,A000055,2015-01-14,"Aderholt, Robert B.",AL,Rep,cosponsor
+hr36,12,A000372,2015-01-13,"Allen, Rick W.",GA,Rep,cosponsor
+hr36,3,A000367,2015-01-12,"Amash, Justin",MI,Rep,cosponsor
+hr36,2,A000369,2015-01-09,"Amodei, Mark E.",NV,Rep,cosponsor
+hr36,36,B001291,2015-01-09,"Babin, Brian",TX,Rep,cosponsor
+hr36,11,B001269,2015-01-14,"Barletta, Lou",PA,Rep,cosponsor
+hr36,6,B001282,2015-01-09,"Barr, Andy",KY,Rep,cosponsor
+hr36,6,B000213,2015-01-20,"Barton, Joe",TX,Rep,cosponsor
+hr36,1,B001271,2015-01-09,"Benishek, Dan",MI,Rep,cosponsor
+hr36,12,B001257,2015-01-09,"Bilirakis, Gus M.",FL,Rep,cosponsor
+hr36,1,B001250,2015-01-09,"Bishop, Rob",UT,Rep,cosponsor
+hr36,6,B001273,2015-01-12,"Black, Diane",TN,Rep,cosponsor
+hr36,7,B001243,2015-01-06,"Blackburn, Marsha",TN,Rep,original cosponsor
+hr36,7,B001243,2015-01-06,"Blackburn, Marsha",TN,Rep,original cosponsor
+hr36,1,B001294,2015-01-09,"Blum, Rod",IA,Rep,cosponsor
+hr36,0,B001245,2015-01-20,"Bordallo, Madeleine Z.",GU,Rep,cosponsor
+hr36,12,B001295,2015-01-20,"Bost, Mike",IL,Rep,cosponsor
+hr36,3,B001255,2015-01-09,"Boustany, Charles W., Jr.",LA,Rep,cosponsor
+hr36,8,B000755,2015-01-09,"Brady, Kevin",TX,Rep,cosponsor
+hr36,7,B001290,2015-01-12,"Brat, Dave",VA,Rep,cosponsor
+hr36,1,B001283,2015-01-09,"Bridenstine, Jim",OK,Rep,cosponsor
+hr36,5,B001274,2015-01-09,"Brooks, Mo",AL,Rep,cosponsor
+hr36,16,B001260,2015-01-12,"Buchanan, Vern",FL,Rep,cosponsor
+hr36,4,B001297,2015-01-09,"Buck, Ken",CO,Rep,cosponsor
+hr36,8,B001275,2015-01-09,"Bucshon, Larry",IN,Rep,cosponsor
+hr36,26,B001248,2015-01-09,"Burgess, Michael C.",TX,Rep,cosponsor
+hr36,1,B001289,2015-01-09,"Byrne, Bradley",AL,Rep,cosponsor
+hr36,31,C001051,2015-01-20,"Carter, John R.",TX,Rep,cosponsor
+hr36,1,C000266,2015-01-09,"Chabot, Steve",OH,Rep,cosponsor
+hr36,3,C001076,2015-01-20,"Chaffetz, Jason",UT,Rep,cosponsor
+hr36,19,C001102,2015-01-09,"Clawson, Curt",FL,Rep,cosponsor
+hr36,4,C001053,2015-01-09,"Cole, Tom",OK,Rep,cosponsor
+hr36,27,C001092,2015-01-20,"Collins, Chris",NY,Rep,cosponsor
+hr36,9,C001093,2015-01-09,"Collins, Doug",GA,Rep,cosponsor
+hr36,11,C001062,2015-01-09,"Conaway, K. Michael",TX,Rep,cosponsor
+hr36,8,C001094,2015-01-09,"Cook, Paul",CA,Rep,cosponsor
+hr36,0,C001096,2015-01-12,"Cramer, Kevin",ND,Rep,cosponsor
+hr36,1,C001087,2015-01-09,"Crawford, Eric A. ""Rick""",AR,Rep,cosponsor
+hr36,4,C001045,2015-01-09,"Crenshaw, Ander",FL,Rep,cosponsor
+hr36,7,C001048,2015-01-14,"Culberson, John Abney",TX,Rep,cosponsor
+hr36,26,C001107,2015-01-09,"Curbelo, Carlos",FL,Rep,cosponsor
+hr36,6,D000621,2015-01-09,"DeSantis, Ron",FL,Rep,cosponsor
+hr36,4,D000616,2015-01-14,"DesJarlais, Scott",TN,Rep,cosponsor
+hr36,25,D000600,2015-01-09,"Diaz-Balart, Mario",FL,Rep,cosponsor
+hr36,7,D000614,2015-01-09,"Duffy, Sean P.",WI,Rep,cosponsor
+hr36,3,D000615,2015-01-09,"Duncan, Jeff",SC,Rep,cosponsor
+hr36,2,D000533,2015-01-09,"Duncan, John J., Jr.",TN,Rep,cosponsor
+hr36,2,E000291,2015-01-09,"Ellmers, Renee L.",NC,Rep,cosponsor
+hr36,6,E000294,2015-01-09,"Emmer, Tom",MN,Rep,cosponsor
+hr36,27,F000460,2015-01-09,"Farenthold, Blake",TX,Rep,cosponsor
+hr36,8,F000458,2015-01-09,"Fincher, Stephen Lee",TN,Rep,cosponsor
+hr36,8,F000451,2015-01-20,"Fitzpatrick, Michael G.",PA,Rep,cosponsor
+hr36,3,F000459,2015-01-14,"Fleischmann, Charles J. ""Chuck""",TN,Rep,cosponsor
+hr36,4,F000456,2015-01-09,"Fleming, John",LA,Rep,cosponsor
+hr36,17,F000461,2015-01-09,"Flores, Bill",TX,Rep,cosponsor
+hr36,4,F000445,2015-01-14,"Forbes, J. Randy",VA,Rep,cosponsor
+hr36,1,F000449,2015-01-09,"Fortenberry, Jeff",NE,Rep,cosponsor
+hr36,5,F000450,2015-01-14,"Foxx, Virginia",NC,Rep,cosponsor
+hr36,5,G000548,2015-01-09,"Garrett, Scott",NJ,Rep,cosponsor
+hr36,7,G000563,2015-01-09,"Gibbs, Bob",OH,Rep,cosponsor
+hr36,6,G000289,2015-01-09,"Goodlatte, Bob",VA,Rep,cosponsor
+hr36,4,G000565,2015-01-09,"Gosar, Paul A.",AZ,Rep,cosponsor
+hr36,4,G000566,2015-01-20,"Gowdy, Trey",SC,Rep,cosponsor
+hr36,6,G000577,2015-01-20,"Graves, Garret",LA,Rep,cosponsor
+hr36,6,G000546,2015-01-09,"Graves, Sam",MO,Rep,cosponsor
+hr36,14,G000560,2015-01-09,"Graves, Tom",GA,Rep,cosponsor
+hr36,9,G000568,2015-01-09,"Griffith, H. Morgan",VA,Rep,cosponsor
+hr36,6,G000576,2015-01-09,"Grothman, Glenn",WI,Rep,cosponsor
+hr36,2,G000558,2015-01-09,"Guthrie, Brett",KY,Rep,cosponsor
+hr36,4,H001070,2015-01-20,"Hardy, Cresent",NV,Rep,cosponsor
+hr36,3,H001045,2015-01-12,"Harper, Gregg",MS,Rep,cosponsor
+hr36,1,H001052,2015-01-09,"Harris, Andy",MD,Rep,cosponsor
+hr36,4,H001053,2015-05-12,"Hartzler, Vicky",MO,Rep,cosponsor
+hr36,5,H001036,2015-01-20,"Hensarling, Jeb",TX,Rep,cosponsor
+hr36,10,H001071,2015-01-14,"Hice, Jody B.",GA,Rep,cosponsor
+hr36,2,H001072,2015-01-13,"Hill, J. French",AR,Rep,cosponsor
+hr36,13,H001065,2015-01-20,"Holding, George",NC,Rep,cosponsor
+hr36,8,H001067,2015-01-09,"Hudson, Richard",NC,Rep,cosponsor
+hr36,1,H001057,2015-01-09,"Huelskamp, Tim",KS,Rep,cosponsor
+hr36,2,H001058,2015-01-09,"Huizenga, Bill",MI,Rep,cosponsor
+hr36,14,H001059,2015-01-20,"Hultgren, Randy",IL,Rep,cosponsor
+hr36,50,H001048,2015-01-12,"Hunter, Duncan D.",CA,Rep,cosponsor
+hr36,5,H001060,2015-01-09,"Hurt, Robert",VA,Rep,cosponsor
+hr36,3,J000297,2015-01-14,"Jenkins, Evan H.",WV,Rep,cosponsor
+hr36,2,J000290,2015-01-09,"Jenkins, Lynn",KS,Rep,cosponsor
+hr36,6,J000292,2015-01-09,"Johnson, Bill",OH,Rep,cosponsor
+hr36,3,J000174,2015-01-09,"Johnson, Sam",TX,Rep,cosponsor
+hr36,13,J000296,2015-01-09,"Jolly, David",FL,Rep,cosponsor
+hr36,3,J000255,2015-01-09,"Jones, Walter B., Jr.",NC,Rep,cosponsor
+hr36,4,J000289,2015-01-09,"Jordan, Jim",OH,Rep,cosponsor
+hr36,14,J000295,2015-01-09,"Joyce, David P.",OH,Rep,cosponsor
+hr36,3,K000376,2015-01-09,"Kelly, Mike",PA,Rep,cosponsor
+hr36,2,K000210,2015-01-20,"King, Peter T.",NY,Rep,cosponsor
+hr36,4,K000362,2015-01-09,"King, Steve",IA,Rep,cosponsor
+hr36,2,K000363,2015-01-14,"Kline, John",MN,Rep,cosponsor
+hr36,1,L000578,2015-01-14,"LaMalfa, Doug",CA,Rep,cosponsor
+hr36,5,L000564,2015-01-09,"Lamborn, Doug",CO,Rep,cosponsor
+hr36,5,L000566,2015-01-09,"Latta, Robert E.",OH,Rep,cosponsor
+hr36,3,L000563,2015-01-09,"Lipinski, Daniel",IL,Rep,cosponsor
+hr36,7,L000576,2015-01-13,"Long, Billy",MO,Rep,cosponsor
+hr36,4,L000584,2015-01-26,"Love, Mia B.",UT,Rep,cosponsor
+hr36,3,L000491,2015-01-14,"Lucas, Frank D.",OK,Rep,cosponsor
+hr36,3,L000569,2015-01-13,"Luetkemeyer, Blaine",MO,Rep,cosponsor
+hr36,24,M001158,2015-01-09,"Marchant, Kenny",TX,Rep,cosponsor
+hr36,10,M001179,2015-01-09,"Marino, Tom",PA,Rep,cosponsor
+hr36,4,M001184,2015-01-20,"Massie, Thomas",KY,Rep,cosponsor
+hr36,10,M001157,2015-01-14,"McCaul, Michael T.",TX,Rep,cosponsor
+hr36,4,M001177,2015-01-20,"McClintock, Tom",CA,Rep,cosponsor
+hr36,10,M001156,2015-01-13,"McHenry, Patrick T.",NC,Rep,cosponsor
+hr36,1,M001180,2015-01-09,"McKinley, David B.",WV,Rep,cosponsor
+hr36,11,M001187,2015-01-09,"Meadows, Mark",NC,Rep,cosponsor
+hr36,6,M001189,2015-01-09,"Messer, Luke",IN,Rep,cosponsor
+hr36,7,M000689,2015-01-20,"Mica, John L.",FL,Rep,cosponsor
+hr36,10,M001150,2015-01-09,"Miller, Candice S.",MI,Rep,cosponsor
+hr36,1,M001144,2015-01-09,"Miller, Jeff",FL,Rep,cosponsor
+hr36,4,M001194,2015-01-21,"Moolenaar, John R.",MI,Rep,cosponsor
+hr36,2,M001195,2015-01-13,"Mooney, Alexander X.",WV,Rep,cosponsor
+hr36,2,M001190,2015-01-13,"Mullin, Markwayne",OK,Rep,cosponsor
+hr36,5,M001182,2015-01-12,"Mulvaney, Mick",SC,Rep,cosponsor
+hr36,18,M001151,2015-01-12,"Murphy, Tim",PA,Rep,cosponsor
+hr36,19,N000182,2015-01-09,"Neugebauer, Randy",TX,Rep,cosponsor
+hr36,11,N000185,2015-01-09,"Nugent, Richard B.",FL,Rep,cosponsor
+hr36,22,N000181,2015-01-20,"Nunes, Devin",CA,Rep,cosponsor
+hr36,1,N000186,2015-01-13,"Nunnelee, Alan",MS,Rep,cosponsor
+hr36,22,O000168,2015-01-09,"Olson, Pete",TX,Rep,cosponsor
+hr36,4,P000601,2015-01-09,"Palazzo, Steven M.",MS,Rep,cosponsor
+hr36,6,P000609,2015-01-09,"Palmer, Gary J.",AL,Rep,cosponsor
+hr36,2,P000588,2015-01-09,"Pearce, Stevan",NM,Rep,cosponsor
+hr36,4,P000605,2015-01-20,"Perry, Scott",PA,Rep,cosponsor
+hr36,7,P000258,2015-01-09,"Peterson, Collin C.",MN,Rep,cosponsor
+hr36,9,P000606,2015-01-12,"Pittenger, Robert",NC,Rep,cosponsor
+hr36,16,P000373,2015-01-09,"Pitts, Joseph R.",PA,Rep,cosponsor
+hr36,2,P000592,2015-01-09,"Poe, Ted",TX,Rep,cosponsor
+hr36,4,P000602,2015-01-09,"Pompeo, Mike",KS,Rep,cosponsor
+hr36,8,P000599,2015-01-13,"Posey, Bill",FL,Rep,cosponsor
+hr36,6,P000591,2015-01-20,"Price, Tom",GA,Rep,cosponsor
+hr36,4,R000601,2015-01-14,"Ratcliffe, John",TX,Rep,cosponsor
+hr36,23,R000585,2015-01-12,"Reed, Tom",NY,Rep,cosponsor
+hr36,8,R000587,2015-01-13,"Ribble, Reid J.",WI,Rep,cosponsor
+hr36,7,R000597,2015-01-12,"Rice, Tom",SC,Rep,cosponsor
+hr36,2,R000591,2015-01-09,"Roby, Martha",AL,Rep,cosponsor
+hr36,1,R000582,2015-01-09,"Roe, David P.",TN,Rep,cosponsor
+hr36,5,R000395,2015-01-14,"Rogers, Harold",KY,Rep,cosponsor
+hr36,3,R000575,2015-01-09,"Rogers, Mike D.",AL,Rep,cosponsor
+hr36,4,R000592,2015-01-09,"Rokita, Todd",IN,Rep,cosponsor
+hr36,27,R000435,2015-01-09,"Ros-Lehtinen, Ileana",FL,Rep,cosponsor
+hr36,6,R000580,2015-01-09,"Roskam, Peter J.",IL,Rep,cosponsor
+hr36,12,R000598,2015-01-09,"Rothfus, Keith J.",PA,Rep,cosponsor
+hr36,7,R000603,2015-01-09,"Rouzer, David",NC,Rep,cosponsor
+hr36,5,R000604,2015-01-09,"Russell, Steve",OK,Rep,cosponsor
+hr36,5,S000018,2015-01-09,"Salmon, Matt",AZ,Rep,cosponsor
+hr36,1,S000051,2015-01-09,"Sanford, Mark",SC,Rep,cosponsor
+hr36,1,S001176,2015-05-13,"Scalise, Steve",LA,Rep,cosponsor
+hr36,18,S001179,2015-01-09,"Schock, Aaron",IL,Rep,cosponsor
+hr36,6,S001183,2015-01-09,"Schweikert, David",AZ,Rep,cosponsor
+hr36,8,S001189,2015-01-21,"Scott, Austin",GA,Rep,cosponsor
+hr36,5,S000244,2015-01-09,"Sensenbrenner, F. James, Jr.",WI,Rep,cosponsor
+hr36,32,S000250,2015-01-09,"Sessions, Pete",TX,Rep,cosponsor
+hr36,15,S000364,2015-01-09,"Shimkus, John",IL,Rep,cosponsor
+hr36,9,S001154,2015-01-20,"Shuster, Bill",PA,Rep,cosponsor
+hr36,2,S001148,2015-01-20,"Simpson, Michael K.",ID,Rep,cosponsor
+hr36,3,S001172,2015-01-09,"Smith, Adrian",NE,Rep,cosponsor
+hr36,4,S000522,2015-01-09,"Smith, Christopher H.",NJ,Rep,cosponsor
+hr36,8,S001195,2015-01-12,"Smith, Jason",MO,Rep,cosponsor
+hr36,21,S000583,2015-01-09,"Smith, Lamar",TX,Rep,cosponsor
+hr36,2,S001192,2015-01-09,"Stewart, Chris",UT,Rep,cosponsor
+hr36,15,S001187,2015-01-09,"Stivers, Steve",OH,Rep,cosponsor
+hr36,3,S001188,2015-01-12,"Stutzman, Marlin A.",IN,Rep,cosponsor
+hr36,5,T000467,2015-01-09,"Thompson, Glenn",PA,Rep,cosponsor
+hr36,12,T000462,2015-01-09,"Tiberi, Patrick J.",OH,Rep,cosponsor
+hr36,10,T000463,2015-01-09,"Turner, Michael R.",OH,Rep,cosponsor
+hr36,7,W000798,2015-01-09,"Walberg, Tim",MI,Rep,cosponsor
+hr36,6,W000819,2015-01-09,"Walker, Mark",NC,Rep,cosponsor
+hr36,2,W000813,2015-01-09,"Walorski, Jackie",IN,Rep,cosponsor
+hr36,2,W000813,2015-05-12,"Walorski, Jackie",IN,Rep,cosponsor
+hr36,14,W000814,2015-01-20,"Weber, Randy K., Sr.",TX,Rep,cosponsor
+hr36,10,W000806,2015-01-13,"Webster, Daniel",FL,Rep,cosponsor
+hr36,2,W000815,2015-01-09,"Wenstrup, Brad R.",OH,Rep,cosponsor
+hr36,4,W000821,2015-01-09,"Westerman, Bruce",AR,Rep,cosponsor
+hr36,3,W000796,2015-01-09,"Westmoreland, Lynn A.",GA,Rep,cosponsor
+hr36,25,W000816,2015-01-12,"Williams, Roger",TX,Rep,cosponsor
+hr36,2,W000795,2015-01-09,"Wilson, Joe",SC,Rep,cosponsor
+hr36,1,W000804,2015-01-14,"Wittman, Robert J.",VA,Rep,cosponsor
+hr36,3,W000809,2015-01-09,"Womack, Steve",AR,Rep,cosponsor
+hr36,3,Y000063,2015-01-09,"Yoder, Kevin",KS,Rep,cosponsor
+hr36,3,Y000065,2015-01-09,"Yoho, Ted S.",FL,Rep,cosponsor
+hr36,9,Y000064,2015-01-13,"Young, Todd C.",IN,Rep,cosponsor
+hr36,1,Z000017,2015-01-20,"Zeldin, Lee M.",NY,Rep,cosponsor
+hr36,0,Z000018,2015-01-09,"Zinke, Ryan K.",MT,Rep,cosponsor
+hr37,8,F000451,2015-01-06,"Fitzpatrick, Michael G.",PA,Rep,sponsor
+hr37,6,B001282,2015-01-06,"Barr, Andy",KY,Rep,original cosponsor
+hr37,6,B001282,2015-01-06,"Barr, Andy",KY,Rep,original cosponsor
+hr37,8,F000458,2015-01-06,"Fincher, Stephen Lee",TN,Rep,original cosponsor
+hr37,8,F000458,2015-01-06,"Fincher, Stephen Lee",TN,Rep,original cosponsor
+hr37,4,G000565,2015-01-06,"Gosar, Paul A.",AZ,Rep,original cosponsor
+hr37,4,G000565,2015-01-06,"Gosar, Paul A.",AZ,Rep,original cosponsor
+hr37,1,G000570,2015-01-07,"Guinta, Frank C.",NH,Rep,cosponsor
+hr37,2,H001058,2015-01-07,"Huizenga, Bill",MI,Rep,cosponsor
+hr37,5,H001060,2015-01-07,"Hurt, Robert",VA,Rep,cosponsor
+hr37,32,S000250,2015-01-08,"Sessions, Pete",TX,Rep,cosponsor
+hr37,15,S001187,2015-01-07,"Stivers, Steve",OH,Rep,cosponsor
+hr38,3,Y000065,2015-01-06,"Yoho, Ted S.",FL,Rep,sponsor
+hr38,11,B001269,2015-01-06,"Barletta, Lou",PA,Rep,original cosponsor
+hr38,11,B001269,2015-01-06,"Barletta, Lou",PA,Rep,original cosponsor
+hr38,12,B001257,2015-03-24,"Bilirakis, Gus M.",FL,Rep,cosponsor
+hr38,5,B001274,2015-09-17,"Brooks, Mo",AL,Rep,cosponsor
+hr38,1,B001289,2015-01-30,"Byrne, Bradley",AL,Rep,cosponsor
+hr38,8,C001094,2015-01-06,"Cook, Paul",CA,Rep,original cosponsor
+hr38,8,C001094,2015-01-06,"Cook, Paul",CA,Rep,original cosponsor
+hr38,2,D000533,2015-01-06,"Duncan, John J., Jr.",TN,Rep,original cosponsor
+hr38,2,D000533,2015-01-06,"Duncan, John J., Jr.",TN,Rep,original cosponsor
+hr38,2,E000291,2016-05-12,"Ellmers, Renee L.",NC,Rep,cosponsor
+hr38,4,F000445,2015-01-06,"Forbes, J. Randy",VA,Rep,original cosponsor
+hr38,4,F000445,2015-01-06,"Forbes, J. Randy",VA,Rep,original cosponsor
+hr38,4,G000565,2015-09-10,"Gosar, Paul A.",AZ,Rep,cosponsor
+hr38,1,H001052,2015-01-06,"Harris, Andy",MD,Rep,original cosponsor
+hr38,1,H001052,2015-01-06,"Harris, Andy",MD,Rep,original cosponsor
+hr38,2,J000290,2015-01-06,"Jenkins, Lynn",KS,Rep,original cosponsor
+hr38,2,J000290,2015-01-06,"Jenkins, Lynn",KS,Rep,original cosponsor
+hr38,13,J000296,2015-01-06,"Jolly, David",FL,Rep,original cosponsor
+hr38,13,J000296,2015-01-06,"Jolly, David",FL,Rep,original cosponsor
+hr38,14,J000295,2015-07-15,"Joyce, David P.",OH,Rep,cosponsor
+hr38,10,M001157,2015-01-06,"McCaul, Michael T.",TX,Rep,original cosponsor
+hr38,10,M001157,2015-01-06,"McCaul, Michael T.",TX,Rep,original cosponsor
+hr38,4,M001177,2015-01-06,"McClintock, Tom",CA,Rep,original cosponsor
+hr38,4,M001177,2015-01-06,"McClintock, Tom",CA,Rep,original cosponsor
+hr38,19,N000182,2015-02-11,"Neugebauer, Randy",TX,Rep,cosponsor
+hr38,11,N000185,2015-01-06,"Nugent, Richard B.",FL,Rep,original cosponsor
+hr38,11,N000185,2015-01-06,"Nugent, Richard B.",FL,Rep,original cosponsor
+hr38,22,O000168,2015-01-06,"Olson, Pete",TX,Rep,original cosponsor
+hr38,22,O000168,2015-01-06,"Olson, Pete",TX,Rep,original cosponsor
+hr38,4,P000601,2015-01-06,"Palazzo, Steven M.",MS,Rep,original cosponsor
+hr38,4,P000601,2015-01-06,"Palazzo, Steven M.",MS,Rep,original cosponsor
+hr38,9,P000606,2015-01-06,"Pittenger, Robert",NC,Rep,original cosponsor
+hr38,9,P000606,2015-01-06,"Pittenger, Robert",NC,Rep,original cosponsor
+hr38,1,R000582,2015-01-06,"Roe, David P.",TN,Rep,original cosponsor
+hr38,1,R000582,2015-01-06,"Roe, David P.",TN,Rep,original cosponsor
+hr38,48,R000409,2015-01-06,"Rohrabacher, Dana",CA,Rep,original cosponsor
+hr38,48,R000409,2015-01-06,"Rohrabacher, Dana",CA,Rep,original cosponsor
+hr38,2,W000812,2016-02-01,"Wagner, Ann",MO,Rep,cosponsor
+hr38,14,W000814,2015-01-21,"Weber, Randy K., Sr.",TX,Rep,cosponsor
+hr38,3,Y000063,2015-01-06,"Yoder, Kevin",KS,Rep,original cosponsor
+hr38,3,Y000063,2015-01-06,"Yoder, Kevin",KS,Rep,original cosponsor
+hr39,7,B001243,2015-01-06,"Blackburn, Marsha",TN,Rep,sponsor
+hr39,6,B001273,2015-01-06,"Black, Diane",TN,Rep,original cosponsor
+hr39,6,B001273,2015-01-06,"Black, Diane",TN,Rep,original cosponsor
+hr39,9,C001093,2015-01-06,"Collins, Doug",GA,Rep,original cosponsor
+hr39,9,C001093,2015-01-06,"Collins, Doug",GA,Rep,original cosponsor
+hr39,8,F000448,2015-01-06,"Franks, Trent",AZ,Rep,original cosponsor
+hr39,8,F000448,2015-01-06,"Franks, Trent",AZ,Rep,original cosponsor
+hr39,5,H001036,2015-01-06,"Hensarling, Jeb",TX,Rep,original cosponsor
+hr39,5,H001036,2015-01-06,"Hensarling, Jeb",TX,Rep,original cosponsor
+hr39,3,J000255,2015-01-06,"Jones, Walter B., Jr.",NC,Rep,original cosponsor
+hr39,3,J000255,2015-01-06,"Jones, Walter B., Jr.",NC,Rep,original cosponsor
+hr39,1,L000578,2015-01-06,"LaMalfa, Doug",CA,Rep,original cosponsor
+hr39,1,L000578,2015-01-06,"LaMalfa, Doug",CA,Rep,original cosponsor
+hr40,13,C000714,2015-01-06,"Conyers, John, Jr.",MI,Rep,sponsor
+hr40,3,B001281,2016-05-12,"Beatty, Joyce",OH,Rep,cosponsor
+hr40,9,C001068,2016-04-13,"Cohen, Steve",TN,Rep,cosponsor
+hr41,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,sponsor
+hr42,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,sponsor
+hr43,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,sponsor
+hr44,0,B001245,2015-01-06,"Bordallo, Madeleine Z.",GU,Rep,sponsor
+hr44,2,G000571,2015-02-10,"Gabbard, Tulsi",HI,Rep,cosponsor
+hr44,9,G000553,2015-01-09,"Green, Al",TX,Rep,cosponsor
+hr44,17,H001034,2015-01-06,"Honda, Michael M.",CA,Rep,original cosponsor
+hr44,17,H001034,2015-01-06,"Honda, Michael M.",CA,Rep,original cosponsor
+hr44,5,H000874,2015-01-06,"Hoyer, Steny H.",MD,Rep,original cosponsor
+hr44,5,H000874,2015-01-06,"Hoyer, Steny H.",MD,Rep,original cosponsor
+hr44,13,L000551,2015-01-06,"Lee, Barbara",CA,Rep,original cosponsor
+hr44,13,L000551,2015-01-06,"Lee, Barbara",CA,Rep,original cosponsor
+hr44,10,N000002,2015-01-08,"Nadler, Jerrold",NY,Rep,cosponsor
+hr44,0,N000147,2015-01-06,"Norton, Eleanor Holmes",DC,Rep,original cosponsor
+hr44,0,N000147,2015-01-06,"Norton, Eleanor Holmes",DC,Rep,original cosponsor
+hr44,0,P000596,2015-01-06,"Pierluisi, Pedro R.",PR,Rep,original cosponsor
+hr44,0,P000596,2015-01-06,"Pierluisi, Pedro R.",PR,Rep,original cosponsor
+hr44,0,S001177,2015-01-06,"Sablan, Gregorio Kilili Camacho",MP,Rep,original cosponsor
+hr44,0,S001177,2015-01-06,"Sablan, Gregorio Kilili Camacho",MP,Rep,original cosponsor
+hr44,13,S001157,2015-01-06,"Scott, David",GA,Rep,original cosponsor
+hr44,13,S001157,2015-01-06,"Scott, David",GA,Rep,original cosponsor
+hr44,0,Y000033,2015-01-12,"Young, Don",AK,Rep,cosponsor
+hr45,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,sponsor
+hr46,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,sponsor
+hr47,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,sponsor
+hr48,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,sponsor
+hr48,13,C000714,2015-02-26,"Conyers, John, Jr.",MI,Rep,cosponsor
+hr49,7,B001243,2015-01-06,"Blackburn, Marsha",TN,Rep,sponsor
+hr50,5,F000450,2015-01-06,"Foxx, Virginia",NC,Rep,sponsor
+hr50,4,G000565,2015-01-30,"Gosar, Paul A.",AZ,Rep,cosponsor
+hr50,7,P000258,2015-01-30,"Peterson, Collin C.",MN,Rep,cosponsor
+hr50,46,S000030,2015-01-06,"Sanchez, Loretta",CA,Rep,original cosponsor
+hr50,46,S000030,2015-01-06,"Sanchez, Loretta",CA,Rep,original cosponsor
+hr50,32,S000250,2015-01-30,"Sessions, Pete",TX,Rep,cosponsor
+hr51,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,sponsor
+hr52,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,sponsor
+hr53,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,sponsor
+hr54,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,sponsor
+hr55,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,sponsor
+hr55,13,L000551,2015-02-27,"Lee, Barbara",CA,Rep,cosponsor
+hr55,13,R000053,2015-02-27,"Rangel, Charles B.",NY,Rep,cosponsor
+hr56,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,sponsor
+hr57,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,sponsor
+hr58,7,B001243,2015-01-06,"Blackburn, Marsha",TN,Rep,sponsor
+hr59,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,sponsor
+hr59,1,C001049,2015-03-06,"Clay, Wm. Lacy",MO,Rep,cosponsor
+hr59,13,C000714,2015-02-05,"Conyers, John, Jr.",MI,Rep,cosponsor
+hr59,14,L000581,2015-05-08,"Lawrence, Brenda L.",MI,Rep,cosponsor
+hr59,41,T000472,2015-12-18,"Takano, Mark",CA,Rep,cosponsor
+hr60,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,sponsor
+hr61,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,sponsor
+hr61,3,B000574,2015-03-06,"Blumenauer, Earl",OR,Rep,cosponsor
+hr61,3,G000551,2015-03-06,"Grijalva, Raul M.",AZ,Rep,cosponsor
+hr61,20,H000324,2015-03-06,"Hastings, Alcee L.",FL,Rep,cosponsor
+hr61,2,M000312,2015-03-06,"McGovern, James P.",MA,Rep,cosponsor
+hr61,13,R000053,2015-03-06,"Rangel, Charles B.",NY,Rep,cosponsor
+hr62,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,sponsor
+hr63,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,sponsor
+hr63,17,H001034,2015-07-21,"Honda, Michael M.",CA,Rep,cosponsor
+hr63,0,N000147,2015-07-21,"Norton, Eleanor Holmes",DC,Rep,cosponsor
+hr63,1,R000515,2015-07-21,"Rush, Bobby L.",IL,Rep,cosponsor
+hr64,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,sponsor
+hr65,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,sponsor
+hr66,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,sponsor
+hr67,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,sponsor
+hr67,13,B001296,2015-11-02,"Boyle, Brendan F.",PA,Rep,cosponsor
+hr67,9,C001068,2015-02-05,"Cohen, Steve",TN,Rep,cosponsor
+hr67,20,H000324,2015-02-10,"Hastings, Alcee L.",FL,Rep,cosponsor
+hr67,8,J000294,2015-05-19,"Jeffries, Hakeem S.",NY,Rep,cosponsor
+hr67,14,L000581,2015-05-08,"Lawrence, Brenda L.",MI,Rep,cosponsor
+hr67,33,L000582,2015-10-27,"Lieu, Ted",CA,Rep,cosponsor
+hr67,10,P000604,2015-05-08,"Payne, Donald M., Jr.",NJ,Rep,cosponsor
+hr67,13,R000053,2015-02-10,"Rangel, Charles B.",NY,Rep,cosponsor
+hr67,13,S001157,2015-02-27,"Scott, David",GA,Rep,cosponsor
+hr68,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,sponsor
+hr69,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,sponsor
+hr69,0,B001245,2015-02-05,"Bordallo, Madeleine Z.",GU,Rep,cosponsor
+hr69,5,B000911,2015-02-05,"Brown, Corrine",FL,Rep,cosponsor
+hr69,26,B001285,2015-02-05,"Brownley, Julia",CA,Rep,cosponsor
+hr69,17,B001286,2015-02-10,"Bustos, Cheri",IL,Rep,cosponsor
+hr69,7,C001072,2016-06-09,"Carson, Andre",IN,Rep,cosponsor
+hr69,17,C001090,2015-02-05,"Cartwright, Matt",PA,Rep,cosponsor
+hr69,27,C001080,2015-07-29,"Chu, Judy",CA,Rep,cosponsor
+hr69,1,C001084,2015-02-10,"Cicilline, David N.",RI,Rep,cosponsor
+hr69,5,C001101,2015-07-29,"Clark, Katherine M.",MA,Rep,cosponsor
+hr69,9,C001067,2015-07-29,"Clarke, Yvette D.",NY,Rep,cosponsor
+hr69,9,C001068,2015-07-29,"Cohen, Steve",TN,Rep,cosponsor
+hr69,7,C000984,2015-09-29,"Cummings, Elijah E.",MD,Rep,cosponsor
+hr69,12,D000624,2015-07-29,"Dingell, Debbie",MI,Rep,cosponsor
+hr69,11,D000625,2015-07-29,"Donovan, Daniel M., Jr.",NY,Rep,cosponsor
+hr69,5,E000293,2015-07-29,"Esty, Elizabeth H.",CT,Rep,cosponsor
+hr69,27,F000460,2015-02-10,"Farenthold, Blake",TX,Rep,cosponsor
+hr69,22,F000462,2015-03-06,"Frankel, Lois",FL,Rep,cosponsor
+hr69,11,F000455,2015-09-09,"Fudge, Marcia L.",OH,Rep,cosponsor
+hr69,12,G000377,2015-07-29,"Granger, Kay",TX,Rep,cosponsor
+hr69,9,G000553,2015-07-29,"Green, Al",TX,Rep,cosponsor
+hr69,3,G000551,2015-07-29,"Grijalva, Raul M.",AZ,Rep,cosponsor
+hr69,44,H001063,2015-07-29,"Hahn, Janice",CA,Rep,cosponsor
+hr69,20,H000324,2015-02-05,"Hastings, Alcee L.",FL,Rep,cosponsor
+hr69,17,H001034,2015-09-09,"Honda, Michael M.",CA,Rep,cosponsor
+hr69,8,J000294,2015-07-29,"Jeffries, Hakeem S.",NY,Rep,cosponsor
+hr69,30,J000126,2015-02-05,"Johnson, Eddie Bernice",TX,Rep,cosponsor
+hr69,9,K000009,2015-02-05,"Kaptur, Marcy",OH,Rep,cosponsor
+hr69,9,K000375,2015-03-06,"Keating, William R.",MA,Rep,cosponsor
+hr69,5,K000380,2015-02-10,"Kildee, Daniel T.",MI,Rep,cosponsor
+hr69,1,K000368,2015-03-06,"Kirkpatrick, Ann",AZ,Rep,cosponsor
+hr69,2,K000382,2015-07-29,"Kuster, Ann M.",NH,Rep,cosponsor
+hr69,13,L000551,2015-07-29,"Lee, Barbara",CA,Rep,cosponsor
+hr69,47,L000579,2015-02-05,"Lowenthal, Alan S.",CA,Rep,cosponsor
+hr69,17,L000480,2015-09-29,"Lowey, Nita M.",NY,Rep,cosponsor
+hr69,18,M001185,2015-07-29,"Maloney, Sean Patrick",NY,Rep,cosponsor
+hr69,4,M001143,2015-02-05,"McCollum, Betty",MN,Rep,cosponsor
+hr69,7,M000404,2015-02-05,"McDermott, Jim",WA,Rep,cosponsor
+hr69,2,M000312,2015-03-06,"McGovern, James P.",MA,Rep,cosponsor
+hr69,4,M001160,2015-07-29,"Moore, Gwen",WI,Rep,cosponsor
+hr69,0,N000147,2015-02-05,"Norton, Eleanor Holmes",DC,Rep,cosponsor
+hr69,52,P000608,2015-07-29,"Peters, Scott H.",CA,Rep,cosponsor
+hr69,13,R000053,2015-03-06,"Rangel, Charles B.",NY,Rep,cosponsor
+hr69,39,R000487,2015-10-16,"Royce, Edward R.",CA,Rep,cosponsor
+hr69,1,R000515,2015-07-29,"Rush, Bobby L.",IL,Rep,cosponsor
+hr69,9,S001145,2015-03-06,"Schakowsky, Janice D.",IL,Rep,cosponsor
+hr69,28,S001150,2015-11-02,"Schiff, Adam B.",CA,Rep,cosponsor
+hr69,25,S000480,2015-02-10,"Slaughter, Louise McIntosh",NY,Rep,cosponsor
+hr69,14,S001175,2015-02-10,"Speier, Jackie",CA,Rep,cosponsor
+hr69,1,T000468,2015-07-29,"Titus, Dina",NV,Rep,cosponsor
+hr69,51,V000130,2015-02-05,"Vargas, Juan",CA,Rep,cosponsor
+hr69,33,V000131,2015-02-10,"Veasey, Marc A.",TX,Rep,cosponsor
+hr69,24,W000808,2015-03-06,"Wilson, Frederica S.",FL,Rep,cosponsor
+hr70,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,sponsor
+hr71,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,sponsor
+hr72,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,sponsor
+hr72,5,B000911,2015-02-27,"Brown, Corrine",FL,Rep,cosponsor
+hr72,0,N000147,2015-03-06,"Norton, Eleanor Holmes",DC,Rep,cosponsor
+hr72,13,R000053,2015-02-27,"Rangel, Charles B.",NY,Rep,cosponsor
+hr72,12,W000822,2015-02-27,"Watson Coleman, Bonnie",NJ,Rep,cosponsor
+hr73,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,sponsor
+hr73,4,J000288,2015-11-02,"Johnson, Henry C. ""Hank,"" Jr.",GA,Rep,cosponsor
+hr73,14,L000581,2015-07-13,"Lawrence, Brenda L.",MI,Rep,cosponsor
+hr73,13,R000053,2015-02-27,"Rangel, Charles B.",NY,Rep,cosponsor
+hr73,13,R000577,2015-11-02,"Ryan, Tim",OH,Rep,cosponsor
+hr74,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,sponsor
+hr75,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,sponsor
+hr76,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,sponsor
+hr76,2,B000490,2015-04-13,"Bishop, Sanford D., Jr.",GA,Rep,cosponsor
+hr76,17,C001090,2015-04-13,"Cartwright, Matt",PA,Rep,cosponsor
+hr76,3,G000551,2015-04-13,"Grijalva, Raul M.",AZ,Rep,cosponsor
+hr76,14,L000581,2015-04-13,"Lawrence, Brenda L.",MI,Rep,cosponsor
+hr76,13,R000053,2015-04-13,"Rangel, Charles B.",NY,Rep,cosponsor
+hr77,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,sponsor
+hr77,9,G000553,2015-02-27,"Green, Al",TX,Rep,cosponsor
+hr77,3,G000551,2015-03-06,"Grijalva, Raul M.",AZ,Rep,cosponsor
+hr77,20,H000324,2015-03-06,"Hastings, Alcee L.",FL,Rep,cosponsor
+hr77,17,H001034,2015-02-27,"Honda, Michael M.",CA,Rep,cosponsor
+hr77,14,L000581,2015-03-06,"Lawrence, Brenda L.",MI,Rep,cosponsor
+hr77,4,M001160,2015-02-27,"Moore, Gwen",WI,Rep,cosponsor
+hr77,13,R000053,2015-02-27,"Rangel, Charles B.",NY,Rep,cosponsor
+hr77,1,R000515,2015-02-27,"Rush, Bobby L.",IL,Rep,cosponsor
+hr77,20,T000469,2015-02-27,"Tonko, Paul",NY,Rep,cosponsor
+hr77,34,V000132,2015-03-06,"Vela, Filemon",TX,Rep,cosponsor
+hr78,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,sponsor
+hr78,5,K000380,2015-11-17,"Kildee, Daniel T.",MI,Rep,cosponsor
+hr79,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,sponsor
+hr79,14,L000581,2015-05-08,"Lawrence, Brenda L.",MI,Rep,cosponsor
+hr80,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,sponsor
+hr81,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,sponsor
+hr82,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,sponsor
+hr83,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,sponsor
+hr84,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,sponsor
+hr85,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,sponsor
+hr85,9,C001068,2015-02-10,"Cohen, Steve",TN,Rep,cosponsor
+hr86,4,M001184,2015-01-06,"Massie, Thomas",KY,Rep,sponsor
+hr86,36,B001291,2015-12-02,"Babin, Brian",TX,Rep,cosponsor
+hr86,1,B001250,2015-01-08,"Bishop, Rob",UT,Rep,cosponsor
+hr86,1,B001283,2015-01-06,"Bridenstine, Jim",OK,Rep,original cosponsor
+hr86,1,B001283,2015-01-06,"Bridenstine, Jim",OK,Rep,original cosponsor
+hr86,3,D000615,2015-01-06,"Duncan, Jeff",SC,Rep,original cosponsor
+hr86,3,D000615,2015-01-06,"Duncan, Jeff",SC,Rep,original cosponsor
+hr86,1,G000552,2015-01-06,"Gohmert, Louie",TX,Rep,original cosponsor
+hr86,1,G000552,2015-01-06,"Gohmert, Louie",TX,Rep,original cosponsor
+hr86,9,G000568,2015-07-21,"Griffith, H. Morgan",VA,Rep,cosponsor
+hr86,4,P000601,2015-01-06,"Palazzo, Steven M.",MS,Rep,original cosponsor
+hr86,4,P000601,2015-01-06,"Palazzo, Steven M.",MS,Rep,original cosponsor
+hr87,7,B001243,2015-01-06,"Blackburn, Marsha",TN,Rep,sponsor
+hr88,7,B001243,2015-01-06,"Blackburn, Marsha",TN,Rep,sponsor
+hr89,1,B001283,2015-01-06,"Bridenstine, Jim",OK,Rep,sponsor
+hr90,26,B001285,2015-01-06,"Brownley, Julia",CA,Rep,sponsor
+hr90,0,B001245,2015-01-07,"Bordallo, Madeleine Z.",GU,Rep,cosponsor
+hr90,29,C001097,2015-01-07,"Cardenas, Tony",CA,Rep,cosponsor
+hr90,17,C001090,2015-01-07,"Cartwright, Matt",PA,Rep,cosponsor
+hr90,18,J000032,2015-01-07,"Jackson Lee, Sheila",TX,Rep,cosponsor
+hr90,3,J000255,2015-01-08,"Jones, Walter B., Jr.",NC,Rep,cosponsor
+hr90,16,O000170,2015-01-21,"O'Rourke, Beto",TX,Rep,cosponsor
+hr90,7,P000258,2015-01-21,"Peterson, Collin C.",MN,Rep,cosponsor
+hr90,43,W000187,2015-01-21,"Waters, Maxine",CA,Rep,cosponsor
+hr91,16,B001260,2015-01-06,"Buchanan, Vern",FL,Rep,sponsor
+hr91,12,A000370,2015-02-09,"Adams, Alma S.",NC,Rep,cosponsor
+hr91,6,B000213,2015-05-14,"Barton, Joe",TX,Rep,cosponsor
+hr91,1,B001294,2015-04-28,"Blum, Rod",IA,Rep,cosponsor
+hr91,3,B000574,2015-05-12,"Blumenauer, Earl",OR,Rep,cosponsor
+hr91,1,B001227,2015-04-14,"Brady, Robert A.",PA,Rep,cosponsor
+hr91,5,B000911,2015-04-28,"Brown, Corrine",FL,Rep,cosponsor
+hr91,17,B001286,2015-04-28,"Bustos, Cheri",IL,Rep,cosponsor
+hr91,1,C000266,2015-05-01,"Chabot, Steve",OH,Rep,cosponsor
+hr91,9,C001068,2015-05-12,"Cohen, Steve",TN,Rep,cosponsor
+hr91,4,C001053,2015-05-15,"Cole, Tom",OK,Rep,cosponsor
+hr91,10,C001105,2015-04-21,"Comstock, Barbara",VA,Rep,cosponsor
+hr91,13,C000714,2015-04-21,"Conyers, John, Jr.",MI,Rep,cosponsor
+hr91,5,C000754,2015-04-14,"Cooper, Jim",TN,Rep,cosponsor
+hr91,6,C001106,2015-05-12,"Costello, Ryan A.",PA,Rep,cosponsor
+hr91,2,C001069,2015-02-26,"Courtney, Joe",CT,Rep,cosponsor
+hr91,4,C001045,2015-04-21,"Crenshaw, Ander",FL,Rep,cosponsor
+hr91,26,C001107,2015-05-01,"Curbelo, Carlos",FL,Rep,cosponsor
+hr91,6,D000621,2015-05-14,"DeSantis, Ron",FL,Rep,cosponsor
+hr91,21,D000610,2015-05-12,"Deutch, Theodore E.",FL,Rep,cosponsor
+hr91,25,D000600,2015-05-01,"Diaz-Balart, Mario",FL,Rep,cosponsor
+hr91,2,D000533,2015-04-14,"Duncan, John J., Jr.",TN,Rep,cosponsor
+hr91,5,E000293,2015-05-12,"Esty, Elizabeth H.",CT,Rep,cosponsor
+hr91,27,F000460,2015-05-15,"Farenthold, Blake",TX,Rep,cosponsor
+hr91,8,F000451,2015-04-13,"Fitzpatrick, Michael G.",PA,Rep,cosponsor
+hr91,4,F000445,2015-01-22,"Forbes, J. Randy",VA,Rep,cosponsor
+hr91,8,F000448,2015-05-01,"Franks, Trent",AZ,Rep,cosponsor
+hr91,3,G000551,2015-04-13,"Grijalva, Raul M.",AZ,Rep,cosponsor
+hr91,1,G000570,2015-05-15,"Guinta, Frank C.",NH,Rep,cosponsor
+hr91,4,H001053,2015-05-14,"Hartzler, Vicky",MO,Rep,cosponsor
+hr91,20,H000324,2015-04-16,"Hastings, Alcee L.",FL,Rep,cosponsor
+hr91,10,H001064,2015-04-13,"Heck, Denny",WA,Rep,cosponsor
+hr91,5,H001036,2015-05-12,"Hensarling, Jeb",TX,Rep,cosponsor
+hr91,4,H001047,2015-05-12,"Himes, James A.",CT,Rep,cosponsor
+hr91,2,J000290,2015-04-21,"Jenkins, Lynn",KS,Rep,cosponsor
+hr91,4,J000288,2015-05-12,"Johnson, Henry C. ""Hank,"" Jr.",GA,Rep,cosponsor
+hr91,13,J000296,2015-05-01,"Jolly, David",FL,Rep,cosponsor
+hr91,3,J000255,2015-04-14,"Jones, Walter B., Jr.",NC,Rep,cosponsor
+hr91,9,K000375,2015-04-13,"Keating, William R.",MA,Rep,cosponsor
+hr91,6,K000381,2015-05-18,"Kilmer, Derek",WA,Rep,cosponsor
+hr91,2,K000210,2015-05-14,"King, Peter T.",NY,Rep,cosponsor
+hr91,5,L000564,2015-04-21,"Lamborn, Doug",CO,Rep,cosponsor
+hr91,2,L000560,2015-05-12,"Larsen, Rick",WA,Rep,cosponsor
+hr91,5,L000566,2015-04-23,"Latta, Robert E.",OH,Rep,cosponsor
+hr91,13,L000551,2015-04-21,"Lee, Barbara",CA,Rep,cosponsor
+hr91,2,L000554,2015-05-14,"LoBiondo, Frank A.",NJ,Rep,cosponsor
+hr91,7,L000576,2015-04-23,"Long, Billy",MO,Rep,cosponsor
+hr91,47,L000579,2015-04-13,"Lowenthal, Alan S.",CA,Rep,cosponsor
+hr91,0,L000571,2015-05-18,"Lummis, Cynthia M.",WY,Rep,cosponsor
+hr91,2,M000312,2015-04-21,"McGovern, James P.",MA,Rep,cosponsor
+hr91,5,M001159,2015-05-18,"McMorris Rodgers, Cathy",WA,Rep,cosponsor
+hr91,5,M001137,2015-05-01,"Meeks, Gregory W.",NY,Rep,cosponsor
+hr91,10,M001150,2015-05-12,"Miller, Candice S.",MI,Rep,cosponsor
+hr91,1,M001144,2015-04-23,"Miller, Jeff",FL,Rep,cosponsor
+hr91,18,M001191,2015-04-28,"Murphy, Patrick",FL,Rep,cosponsor
+hr91,0,N000147,2015-04-13,"Norton, Eleanor Holmes",DC,Rep,cosponsor
+hr91,11,N000185,2015-05-18,"Nugent, Richard B.",FL,Rep,cosponsor
+hr91,4,P000601,2015-04-14,"Palazzo, Steven M.",MS,Rep,cosponsor
+hr91,16,P000373,2015-04-16,"Pitts, Joseph R.",PA,Rep,cosponsor
+hr91,2,P000607,2015-04-13,"Pocan, Mark",WI,Rep,cosponsor
+hr91,2,P000598,2015-04-16,"Polis, Jared",CO,Rep,cosponsor
+hr91,8,P000599,2015-05-15,"Posey, Bill",FL,Rep,cosponsor
+hr91,13,R000053,2015-04-16,"Rangel, Charles B.",NY,Rep,cosponsor
+hr91,8,R000578,2015-05-01,"Reichert, David G.",WA,Rep,cosponsor
+hr91,8,R000587,2015-04-14,"Ribble, Reid J.",WI,Rep,cosponsor
+hr91,1,R000582,2015-05-15,"Roe, David P.",TN,Rep,cosponsor
+hr91,15,R000593,2015-05-01,"Ross, Dennis A.",FL,Rep,cosponsor
+hr91,39,R000487,2015-05-01,"Royce, Edward R.",CA,Rep,cosponsor
+hr91,1,R000515,2015-04-13,"Rush, Bobby L.",IL,Rep,cosponsor
+hr91,15,S000248,2015-05-01,"Serrano, Jose E.",NY,Rep,cosponsor
+hr91,9,S001154,2015-04-23,"Shuster, Bill",PA,Rep,cosponsor
+hr91,9,S001191,2015-04-16,"Sinema, Kyrsten",AZ,Rep,cosponsor
+hr91,8,S001165,2015-05-18,"Sires, Albio",NJ,Rep,cosponsor
+hr91,25,S000480,2015-04-13,"Slaughter, Louise McIntosh",NY,Rep,cosponsor
+hr91,2,S001192,2015-04-13,"Stewart, Chris",UT,Rep,cosponsor
+hr91,41,T000472,2015-05-15,"Takano, Mark",CA,Rep,cosponsor
+hr91,3,T000470,2015-05-01,"Tipton, Scott  R.",CO,Rep,cosponsor
+hr91,8,V000128,2015-04-13,"Van Hollen, Chris",MD,Rep,cosponsor
+hr91,7,W000798,2015-05-14,"Walberg, Tim",MI,Rep,cosponsor
+hr91,0,W000800,2015-04-28,"Welch, Peter",VT,Rep,cosponsor
+hr91,3,W000796,2015-04-13,"Westmoreland, Lynn A.",GA,Rep,cosponsor
+hr91,3,Y000063,2015-05-18,"Yoder, Kevin",KS,Rep,cosponsor
+hr91,3,Y000065,2015-05-01,"Yoho, Ted S.",FL,Rep,cosponsor
+hr92,16,B001260,2015-01-06,"Buchanan, Vern",FL,Rep,sponsor
+hr92,6,B001273,2015-01-06,"Black, Diane",TN,Rep,original cosponsor
+hr92,6,B001273,2015-01-06,"Black, Diane",TN,Rep,original cosponsor
+hr92,3,Y000065,2015-01-06,"Yoho, Ted S.",FL,Rep,original cosponsor
+hr92,3,Y000065,2015-01-06,"Yoho, Ted S.",FL,Rep,original cosponsor
+hr93,11,C001078,2015-01-06,"Connolly, Gerald E.",VA,Rep,sponsor
+hr93,12,B001257,2015-05-12,"Bilirakis, Gus M.",FL,Rep,cosponsor
+hr93,13,B001296,2015-07-28,"Boyle, Brendan F.",PA,Rep,cosponsor
+hr93,1,B001227,2015-01-26,"Brady, Robert A.",PA,Rep,cosponsor
+hr93,1,C000266,2015-01-06,"Chabot, Steve",OH,Rep,original cosponsor
+hr93,1,C000266,2015-01-06,"Chabot, Steve",OH,Rep,original cosponsor
+hr93,11,C001062,2015-07-27,"Conaway, K. Michael",TX,Rep,cosponsor
+hr93,8,C001094,2015-01-27,"Cook, Paul",CA,Rep,cosponsor
+hr93,15,D000604,2015-07-15,"Dent, Charles W.",PA,Rep,cosponsor
+hr93,10,D000613,2016-06-09,"Dold, Robert J.",IL,Rep,cosponsor
+hr93,16,E000179,2015-03-03,"Engel, Eliot L.",NY,Rep,cosponsor
+hr93,9,K000375,2015-03-16,"Keating, William R.",MA,Rep,cosponsor
+hr93,16,K000378,2015-03-23,"Kinzinger, Adam",IL,Rep,cosponsor
+hr93,3,L000563,2015-01-26,"Lipinski, Daniel",IL,Rep,cosponsor
+hr93,47,L000579,2015-02-02,"Lowenthal, Alan S.",CA,Rep,cosponsor
+hr93,10,M001179,2015-04-21,"Marino, Tom",PA,Rep,cosponsor
+hr93,6,P000034,2016-02-26,"Pallone, Frank, Jr.",NJ,Rep,cosponsor
+hr93,9,P000096,2015-05-18,"Pascrell, Bill, Jr.",NJ,Rep,cosponsor
+hr93,2,P000592,2015-04-15,"Poe, Ted",TX,Rep,cosponsor
+hr93,8,R000587,2015-01-13,"Ribble, Reid J.",WI,Rep,cosponsor
+hr93,8,S001189,2015-07-28,"Scott, Austin",GA,Rep,cosponsor
+hr93,8,S001165,2015-04-14,"Sires, Albio",NJ,Rep,cosponsor
+hr93,14,W000814,2015-05-12,"Weber, Randy K., Sr.",TX,Rep,cosponsor
+hr94,11,C001078,2015-01-06,"Connolly, Gerald E.",VA,Rep,sponsor
+hr94,14,C001066,2015-02-03,"Castor, Kathy",FL,Rep,cosponsor
+hr94,1,C001084,2015-01-12,"Cicilline, David N.",RI,Rep,cosponsor
+hr94,8,L000562,2015-01-26,"Lynch, Stephen F.",MA,Rep,cosponsor
+hr94,10,N000002,2015-04-23,"Nadler, Jerrold",NY,Rep,cosponsor
+hr94,0,N000147,2015-07-21,"Norton, Eleanor Holmes",DC,Rep,cosponsor
+hr94,2,P000592,2015-01-06,"Poe, Ted",TX,Rep,original cosponsor
+hr94,2,P000592,2015-01-06,"Poe, Ted",TX,Rep,original cosponsor
+hr94,5,Q000023,2015-01-06,"Quigley, Mike",IL,Rep,original cosponsor
+hr94,5,Q000023,2015-01-06,"Quigley, Mike",IL,Rep,original cosponsor
+hr94,3,Y000062,2015-02-02,"Yarmuth, John A.",KY,Rep,cosponsor
+hr95,13,C000714,2015-01-06,"Conyers, John, Jr.",MI,Rep,sponsor
+hr95,9,C001068,2015-01-06,"Cohen, Steve",TN,Rep,original cosponsor
+hr95,9,C001068,2015-01-06,"Cohen, Steve",TN,Rep,original cosponsor
+hr95,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,original cosponsor
+hr95,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,original cosponsor
+hr95,4,J000288,2015-01-06,"Johnson, Henry C. ""Hank,"" Jr.",GA,Rep,original cosponsor
+hr95,4,J000288,2015-01-06,"Johnson, Henry C. ""Hank,"" Jr.",GA,Rep,original cosponsor
+hr96,13,C000714,2015-01-06,"Conyers, John, Jr.",MI,Rep,sponsor
+hr97,13,C000714,2015-01-06,"Conyers, John, Jr.",MI,Rep,sponsor
+hr97,9,C001068,2015-01-06,"Cohen, Steve",TN,Rep,original cosponsor
+hr97,9,C001068,2015-01-06,"Cohen, Steve",TN,Rep,original cosponsor
+hr97,21,D000610,2015-01-06,"Deutch, Theodore E.",FL,Rep,original cosponsor
+hr97,21,D000610,2015-01-06,"Deutch, Theodore E.",FL,Rep,original cosponsor
+hr97,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,original cosponsor
+hr97,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,original cosponsor
+hr97,4,J000288,2015-01-06,"Johnson, Henry C. ""Hank,"" Jr.",GA,Rep,original cosponsor
+hr97,4,J000288,2015-01-06,"Johnson, Henry C. ""Hank,"" Jr.",GA,Rep,original cosponsor
+hr97,13,L000551,2015-01-06,"Lee, Barbara",CA,Rep,original cosponsor
+hr97,13,L000551,2015-01-06,"Lee, Barbara",CA,Rep,original cosponsor
+hr97,19,L000397,2015-01-06,"Lofgren, Zoe",CA,Rep,original cosponsor
+hr97,19,L000397,2015-01-06,"Lofgren, Zoe",CA,Rep,original cosponsor
+hr98,13,C000714,2015-01-06,"Conyers, John, Jr.",MI,Rep,sponsor
+hr98,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,original cosponsor
+hr98,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,original cosponsor
+hr98,4,J000288,2015-01-06,"Johnson, Henry C. ""Hank,"" Jr.",GA,Rep,original cosponsor
+hr98,4,J000288,2015-01-06,"Johnson, Henry C. ""Hank,"" Jr.",GA,Rep,original cosponsor
+hr98,19,L000397,2015-01-06,"Lofgren, Zoe",CA,Rep,original cosponsor
+hr98,19,L000397,2015-01-06,"Lofgren, Zoe",CA,Rep,original cosponsor
+hr98,0,N000147,2015-01-06,"Norton, Eleanor Holmes",DC,Rep,original cosponsor
+hr98,0,N000147,2015-01-06,"Norton, Eleanor Holmes",DC,Rep,original cosponsor
+hr99,13,C000714,2015-01-06,"Conyers, John, Jr.",MI,Rep,sponsor
+hr100,13,C000714,2015-01-06,"Conyers, John, Jr.",MI,Rep,sponsor
+hr100,9,C001068,2015-01-06,"Cohen, Steve",TN,Rep,original cosponsor
+hr100,9,C001068,2015-01-06,"Cohen, Steve",TN,Rep,original cosponsor
+hr100,4,J000288,2015-01-06,"Johnson, Henry C. ""Hank,"" Jr.",GA,Rep,original cosponsor
+hr100,4,J000288,2015-01-06,"Johnson, Henry C. ""Hank,"" Jr.",GA,Rep,original cosponsor
+hr101,13,C000714,2015-01-06,"Conyers, John, Jr.",MI,Rep,sponsor
+hr101,9,C001068,2015-01-06,"Cohen, Steve",TN,Rep,original cosponsor
+hr101,9,C001068,2015-01-06,"Cohen, Steve",TN,Rep,original cosponsor
+hr101,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,original cosponsor
+hr101,18,J000032,2015-01-06,"Jackson Lee, Sheila",TX,Rep,original cosponsor
+hr101,4,J000288,2015-01-06,"Johnson, Henry C. ""Hank,"" Jr.",GA,Rep,original cosponsor
+hr101,4,J000288,2015-01-06,"Johnson, Henry C. ""Hank,"" Jr.",GA,Rep,original cosponsor
+hr101,7,M000404,2015-01-06,"McDermott, Jim",WA,Rep,original cosponsor
+hr101,7,M000404,2015-01-06,"McDermott, Jim",WA,Rep,original cosponsor
+hr101,3,S000185,2015-01-06,"Scott, Robert C. ""Bobby""",VA,Rep,original cosponsor
+hr101,3,S000185,2015-01-06,"Scott, Robert C. ""Bobby""",VA,Rep,original cosponsor
+hr102,13,C000714,2015-01-06,"Conyers, John, Jr.",MI,Rep,sponsor
+hr103,13,C000714,2015-01-06,"Conyers, John, Jr.",MI,Rep,sponsor
+hr103,26,B001285,2015-01-06,"Brownley, Julia",CA,Rep,original cosponsor
+hr103,26,B001285,2015-01-06,"Brownley, Julia",CA,Rep,original cosponsor
+hr103,9,C001068,2015-01-06,"Cohen, Steve",TN,Rep,original cosponsor
+hr103,9,C001068,2015-01-06,"Cohen, Steve",TN,Rep,original cosponsor
+hr103,4,J000288,2015-01-06,"Johnson, Henry C. ""Hank,"" Jr.",GA,Rep,original cosponsor
+hr103,4,J000288,2015-01-06,"Johnson, Henry C. ""Hank,"" Jr.",GA,Rep,original cosponsor
+hr103,13,L000551,2015-01-06,"Lee, Barbara",CA,Rep,original cosponsor
+hr103,13,L000551,2015-01-06,"Lee, Barbara",CA,Rep,original cosponsor
+hr104,13,C000714,2015-01-06,"Conyers, John, Jr.",MI,Rep,sponsor
+hr104,4,J000288,2015-01-06,"Johnson, Henry C. ""Hank,"" Jr.",GA,Rep,original cosponsor
+hr104,4,J000288,2015-01-06,"Johnson, Henry C. ""Hank,"" Jr.",GA,Rep,original cosponsor
+hr105,13,C000714,2015-01-06,"Conyers, John, Jr.",MI,Rep,sponsor
+hr105,1,B001271,2015-01-06,"Benishek, Dan",MI,Rep,original cosponsor
+hr105,1,B001271,2015-01-06,"Benishek, Dan",MI,Rep,original cosponsor
+hr105,2,H001068,2015-01-13,"Huffman, Jared",CA,Rep,cosponsor
+hr106,7,C001048,2015-01-06,"Culberson, John Abney",TX,Rep,sponsor
+hr106,2,R000589,2015-02-04,"Rigell, E. Scott",VA,Rep,cosponsor
+hr107,8,F000451,2015-01-06,"Fitzpatrick, Michael G.",PA,Rep,sponsor
+hr108,8,F000451,2015-01-06,"Fitzpatrick, Michael G.",PA,Rep,sponsor
+hr109,8,F000451,2015-01-06,"Fitzpatrick, Michael G.",PA,Rep,sponsor
+hr109,6,B001273,2015-01-08,"Black, Diane",TN,Rep,cosponsor
+hr109,1,B001294,2015-01-14,"Blum, Rod",IA,Rep,cosponsor
+hr109,0,B001245,2015-01-08,"Bordallo, Madeleine Z.",GU,Rep,cosponsor
+hr109,3,B001255,2015-01-08,"Boustany, Charles W., Jr.",LA,Rep,cosponsor
+hr109,8,B001275,2015-01-26,"Bucshon, Larry",IN,Rep,cosponsor
+hr109,1,C001103,2015-02-26,"Carter, Earl L. ""Buddy""",GA,Rep,cosponsor
+hr109,6,C001106,2015-02-03,"Costello, Ryan A.",PA,Rep,cosponsor
+hr109,7,C001048,2015-01-12,"Culberson, John Abney",TX,Rep,cosponsor
+hr109,4,F000456,2015-11-30,"Fleming, John",LA,Rep,cosponsor
+hr109,4,F000445,2015-01-14,"Forbes, J. Randy",VA,Rep,cosponsor
+hr109,1,G000570,2015-01-06,"Guinta, Frank C.",NH,Rep,original cosponsor
+hr109,1,G000570,2015-01-06,"Guinta, Frank C.",NH,Rep,original cosponsor
+hr109,13,J000296,2015-01-08,"Jolly, David",FL,Rep,cosponsor
+hr109,22,O000168,2015-01-14,"Olson, Pete",TX,Rep,cosponsor
+hr109,8,P000599,2015-01-12,"Posey, Bill",FL,Rep,cosponsor
+hr109,1,W000804,2015-01-26,"Wittman, Robert J.",VA,Rep,cosponsor
+hr109,3,Y000066,2015-02-03,"Young, David",IA,Rep,cosponsor
+hr110,4,F000445,2015-01-06,"Forbes, J. Randy",VA,Rep,sponsor
+hr110,1,W000804,2015-09-08,"Wittman, Robert J.",VA,Rep,cosponsor

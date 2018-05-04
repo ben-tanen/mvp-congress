@@ -113,7 +113,7 @@ def parse_sponsor_bill_data(bill_json):
 ####################################
 
 loud = True
-loud_count = 25
+loud_count = 1
 
 bill_type = "hr"
 session_id = 114
@@ -156,7 +156,7 @@ sponsor_df = pd.DataFrame(sponsors)
 # BUILD DATASET OF CONGRESS MEMBERS FROM SPONSORSHIP DATA #
 ###########################################################
 
-# get unique reps from sponsor_data
+# get unique reps from sponsor_df
 members_df = sponsor_df[['_id', '_name', '_state', '_district', '_title']].drop_duplicates()
 
 # add clean name column
@@ -208,8 +208,6 @@ members_df = pd.merge(members_df, pd.DataFrame(members_data), how='left', \
 
 members_df = members_df.fillna('')
 
-np.isnan(members_df['_facebook'][392])
-
 ####################################
 # PULL NUMBER OF TWITTER FOLLOWERS #
 ####################################
@@ -235,6 +233,14 @@ def get_twitter_follower_count(handle):
 
 members_df['_twitter_followers'] = np.vectorize(get_twitter_follower_count)(members_df['_twitter'])
 
+############
+# SAVE DFS #
+############
+
+general_df.to_csv('../data/general-%s%d.csv' % (bill_type, session_id), index = False)
+actions_df.to_csv('../data/actions-%s%d.csv' % (bill_type, session_id), index = False)
+sponsor_df.to_csv('../data/sponsor-%s%d.csv' % (bill_type, session_id), index = False)
+members_df.to_csv('../data/members-%s%d.csv' % (bill_type, session_id), index = False)
 
 
 
