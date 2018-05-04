@@ -169,20 +169,33 @@ sponsor_df = pd.DataFrame(sponsors)
 # get unique reps from sponsor_df
 members_df = sponsor_df[['_id', '_name', '_state', '_district', '_title']].drop_duplicates()
 
-# add clean name column
-def clean_member_name(name):
-    # remove middle initial
-    clean_name = re.sub(" [A-Z]\.", "", name).strip()
-    
+# add full district column
+members_df['_full_district'] = members_df['_state'].str.cat(members_df['_district'].values.astype('str'))
+
+# clean name and normalize between sources
+def clean_member_name(name):    
     # remove jr. and sr.
-    clean_name = re.sub("(,)? (Jr|Sr)\.", "", clean_name).strip()
+    clean_name = re.sub("(,)? (Jr|Sr)\.", "", name).strip()
     
     # remove nicknames
     clean_name = re.sub('"(.*)?"', "", clean_name).strip()
     
+    # remove middle initial
+    clean_name = re.sub(" [A-Z]\.$", "", clean_name).strip()
+    
+    # standardize certain characters
+    clean_name = re.sub("á", "a", clean_name)
+    clean_name = re.sub("é", "e", clean_name)
+    clean_name = re.sub("í", "i", clean_name)
+    clean_name = re.sub("ó", "o", clean_name)
+    clean_name = re.sub("(ú|ü)", "u", clean_name)
+    clean_name = re.sub("’", "'", clean_name)
+    
     return clean_name
     
 members_df['_clean_name'] = np.vectorize(clean_member_name)(members_df['_name'])
+members_df['_last_name'] = np.vectorize(lambda n: n.split(',')[0])(members_df['_clean_name'])
+members_df['_merge_flag'] = members_df['_last_name'].str.cat(members_df['_full_district'], sep='-')
 
 ##################################################################
 # PULL PARTY AFFILIATION AND TWITTER HANDLE FROM EVERYPOLITICIAN #
@@ -210,14 +223,28 @@ for member in ep_house_session.csv():
         '_name': member['name'],
         '_sort_name': member['sort_name'],
         '_party': member['group'],
+        '_district': int(re.search('cd:([0-9]+)',member['area_id'])[1]) if len(member['area_id']) > 32 else 0,
+        '_state': re.search('state:([a-z]+)',member['area_id'])[1].upper(),
         '_facebook': member['facebook'],
         '_twitter': member['twitter']
     })
+    
+# add a merge flag to merge onto existing member df
+for member in members_data:
+    member.update({'_merge_flag': "%s-%s%d" % (clean_member_name(member['_sort_name']).split(',')[0], \
+                                               member['_state'], member['_district']) })
+        
+    # minor manual tweaks to merge flag
+    if 'Radewagen' in member['_name']:
+        member['_merge_flag'] = 'Radewagen-AS0'
 
-# merge data onto members_df
+# merge member data onto members_df
 members_df = pd.merge(members_df, pd.DataFrame(members_data), how='left', \
-                      left_on='_clean_name', right_on='_sort_name')
+                      left_on='_merge_flag', right_on='_merge_flag')
 
+members_df = members_df.drop(['_sort_name', '_clean_name', '_district_y', '_state_y', '_merge_flag'], axis=1)
+members_df = members_df.rename(columns = {'_name_x': '_sort_name', '_state_x': '_state', 
+                                '_district_x': '_district', '_name_y': '_clean_name'})
 members_df = members_df.fillna('')
 
 ####################################
@@ -229,7 +256,7 @@ import tweepy
 # http://tweepy.readthedocs.io/
 
 # pull in api key and secret
-api_keys = json.load(open("api_keys.json"))
+api_keys = json.load(open("../data/api_keys.json"))
 
 tweepy_auth = tweepy.OAuthHandler(api_keys['tweepy_consumer_key'], api_keys['tweepy_consumer_secret'])
 tweepy_api  = tweepy.API(tweepy_auth)
