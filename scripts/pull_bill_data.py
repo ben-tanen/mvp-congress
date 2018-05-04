@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 
 ### PULLING CONGRESSIONAL DATA
 ### from GovTrack.us
@@ -92,21 +92,20 @@ def parse_sponsor_bill_data(bill_json):
         '_name': bill_json['sponsor']['name'],
         '_title': bill_json['sponsor']['title'],
         '_state': bill_json['sponsor']['state'],
-        '_district': bill_json['sponsor']['district'],
-        '_id': bill_json['sponsor']['bioguide_id'],
+        '_district': bill_json['sponsor']['district'] if bill_json['sponsor']['district'] != None else 0,
         '_joined_at': bill_json['actions'][0]['acted_at']
     })
         
     # add all cosponsors
     for cosponsor in bill_json['cosponsors']:
         sponsors.append({
-            '_type': 'original cosponsor' if cosponsor['original_cosponsor'] == True else 'cosponsor',
+            '_type': 'original cosponsor' if valid_key('original_cosponsor', cosponsor) \
+                                          and cosponsor['original_cosponsor'] == True else 'cosponsor',
             '_bill': bill_json['bill_type'] + bill_json['number'],
             '_name': cosponsor['name'],
             '_title': cosponsor['title'],
             '_state': cosponsor['state'],
-            '_district': cosponsor['district'],
-            '_id': cosponsor['bioguide_id'],
+            '_district': cosponsor['district'] if cosponsor['district'] != None else 0,
             '_joined_at': cosponsor['sponsored_at']
         })
     
@@ -119,7 +118,7 @@ def parse_sponsor_bill_data(bill_json):
 loud = True
 
 bill_type = "hr"
-session_id = 114
+session_id = 113
 
 ####################################
 # LOOP THROUGH ALL BILLS AND PARSE #
@@ -156,7 +155,7 @@ for bill_id in all_bill_ids:
 # CONVERT DATA ARRAYS INTO PANDAS DFS #
 #######################################
 
-status_message("--> converting to pandas dfs")
+status_message("--> converting to pandas dfs", loud)
 
 general_df = pd.DataFrame(general_info)
 actions_df = pd.DataFrame(actions)
@@ -167,7 +166,7 @@ sponsor_df = pd.DataFrame(sponsors)
 ###########################################################
 
 # get unique reps from sponsor_df
-members_df = sponsor_df[['_id', '_name', '_state', '_district', '_title']].drop_duplicates()
+members_df = sponsor_df[['_name', '_state', '_district', '_title']].drop_duplicates()
 
 # add full district column
 members_df['_full_district'] = members_df['_state'].str.cat(members_df['_district'].values.astype('str'))
@@ -284,9 +283,4 @@ general_df.to_csv('../data/general-%s%d.csv' % (bill_type, session_id), index = 
 actions_df.to_csv('../data/actions-%s%d.csv' % (bill_type, session_id), index = False)
 sponsor_df.to_csv('../data/sponsor-%s%d.csv' % (bill_type, session_id), index = False)
 members_df.to_csv('../data/members-%s%d.csv' % (bill_type, session_id), index = False)
-
-
-
-
-
     
