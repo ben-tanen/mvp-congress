@@ -118,7 +118,7 @@ def parse_sponsor_bill_data(bill_json):
 loud = True
 
 bill_type = "hr"
-session_id = 113
+session_id = 111
 
 ####################################
 # LOOP THROUGH ALL BILLS AND PARSE #
