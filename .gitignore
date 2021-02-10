@@ -1,5 +1,6 @@
 .DS_Store
 .ipynb_checkpoints
+.Rhistory
 
 **/paths.json
 **/api_keys.json
