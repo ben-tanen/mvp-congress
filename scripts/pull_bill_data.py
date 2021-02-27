@@ -8,7 +8,7 @@
 # LOAD PACKAGES #
 #################
 
-import requests, os, json
+import requests, os, sys, json, re
 import pandas as pd
 from datetime import datetime
 
@@ -25,15 +25,26 @@ def status_message(log_file, message, loud):
 def valid_key(key, obj):
     return key in obj.keys()
 
+def parse_argv():
+    if len(sys.argv) > 1:
+        parsed_args_list = [{"key": re.match("--([A-z0-9]+)=([A-z0-9]+)", arg)[1],
+                             "value": re.match("--([A-z0-9]+)=([A-z0-9]+)", arg)[2]} for arg in sys.argv[1:]]
+        parsed_args = {obj["key"]: obj["value"] for obj in parsed_args_list}
+        return parsed_args
+    else:
+        return {}
+
 def get_propublica_json(call_type, bill_type, session_id, bill_id):
     if call_type == "bill":
         url = 'https://api.propublica.org/congress/v1/%s/bills/%s%d.json' % (session_id, bill_type, bill_id)
     elif call_type == "cosponsor":
         url = 'https://api.propublica.org/congress/v1/%s/bills/%s%d/cosponsors.json' % (session_id, bill_type, bill_id)
+    elif call_type == "recent_bills":
+        url = 'https://api.propublica.org/congress/v1/%s/%s/bills/introduced.json' % (session_id, "house" if bill_type == "hr" else "senate")
     response = requests.get(url, headers = {'X-API-KEY': api_keys["propublica_congress_key"]})
 
     if response.status_code == 200:
-        return response.json()
+        return response.json() 
 
 ############################
 # DEFINE PARSING FUNCTIONS #
@@ -118,6 +129,19 @@ def parse_cosponsor_data(cosponsor_json):
         
     return cosponsors
     
+# using helper and parsing funtions, get the information for a bill
+def get_bill(bill_type, session_id, bill_id):
+    status_message(log_file, "PARSING %s_%s%d" % (session_id, bill_type, bill_id), loud)
+    
+    bill_json = get_propublica_json("bill", bill_type, session_id, bill_id)
+    bill_obj = parse_bill_data(bill_type, session_id, bill_id, bill_json)
+    
+    cosponsor_obj = []
+    if bill_obj['_status'] == "PARSED":
+        cosponsor_json = get_propublica_json("cosponsor", bill_type, session_id, bill_id)
+        cosponsor_obj = parse_cosponsor_data(cosponsor_json)
+        
+    return [bill_obj, cosponsor_obj]
 
 ##################
 # INIT VARIABLES #
@@ -126,56 +150,74 @@ def parse_cosponsor_data(cosponsor_json):
 os.chdir('/Users/ben-tanen/Desktop/Projects/mvp-congress/')
 
 api_keys = json.load(open("data/api_keys.json"))
-
-loud = True
-
-bill_type = "hr"
-session_id = 116
-
 log_file = "logs/log_%s.txt" % datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+
+# parse arguments from command line (if present)
+parsed_args = parse_argv()
+try:
+    bill_type = parsed_args["billtype"] if valid_key("billtype", parsed_args) else "hr"
+    session_id = int(parsed_args["sessionid"]) if valid_key("sessionid", parsed_args) else 116
+    loud = (True if parsed_args["loud"][0].lower() == "t" else False) if valid_key("loud", parsed_args) else True
+except:
+    status_message(log_file, "ERROR - issue parsing arguments V1", True)
+    sys.exit()
+
+# use recent bills to determine default range of bills to consider
+recent_json = get_propublica_json("recent_bills", bill_type, session_id, None)
+recent_bill_ids = [bill_obj["bill_id"] for bill_obj in recent_json["results"][0]["bills"] if bill_obj["bill_type"] == bill_type]
+recent_bill_ids.sort()
+most_recent_id = int(recent_bill_ids[-1].replace(bill_type, "").replace("-%d" % session_id, ""))
+
+# assign high and low ID ranges (based on arguments [if present])
+print(sys.argv)
+print(parsed_args)
+try:
+    low_bill_id = int(parsed_args["low"]) if valid_key("low", parsed_args) else 1
+    high_bill_id = int(parsed_args["high"]) if valid_key("high", parsed_args) else most_recent_id
+except:
+    status_message(log_file, "ERROR - issue parsing arguments V2", True)
+    sys.exit()
+
+# print out all arguments
+print("ARGUMENTS - bill_type = %s; session = %d; bill range = [%d, %d]; loud = %r" % (bill_type, session_id, low_bill_id, high_bill_id, loud))
 
 ####################################
 # LOOP THROUGH ALL BILLS AND PARSE #
 ####################################
 
+all_bill_ids = range(low_bill_id, high_bill_id + 1)
+# all_bill_ids.sort()
+
+status_message(log_file, "STATUS - %d total bills to parse" % (len(all_bill_ids)), loud)
+status_message(log_file, "STATUS - first bill is %s%d; last bill is %s%d" % (bill_type, all_bill_ids[0], bill_type, all_bill_ids[-1]), loud)
+
 bill_info = [ ]
 cosponsor_info = [ ]
 
-all_bill_ids = [1, 2, 3, 4, 5, 15, 20, 23, 3088, 502]
-
-all_bill_ids.sort()
-
-status_message(log_file, "%d total bills; last bill is %s%d" % (len(all_bill_ids), bill_type, all_bill_ids[-1]), loud)
-
 # iterate over all bills
 for bill_id in all_bill_ids:
-
-    status_message(log_file, "PARSED %s_%s%d" % (session_id, bill_type, bill_id), loud)
-    
-    bill_json = get_propublica_json("bill", bill_type, session_id, bill_id)
-    bill_obj = parse_bill_data(bill_type, session_id, bill_id, bill_json)
-
-    bill_info.append(bill_obj)
-    
-    if bill_obj['_status'] == "PARSED":
-        cosponsor_json = get_propublica_json("cosponsor", bill_type, session_id, bill_id)
-        cosponsor_info.append(parse_cosponsor_data(cosponsor_json))
+    try:
+        [bill_obj, cosponsor_obj] = get_bill(bill_type, session_id, bill_id)
+        bill_info.append(bill_obj)
+        if len(cosponsor_obj) > 0:
+            cosponsor_info += cosponsor_obj
+    except:
+        status_message(log_file, "ERROR on %s_%s%d, unknown reason" % (session_id, bill_type, bill_id), loud)
 
 #######################################
 # CONVERT DATA ARRAYS INTO PANDAS DFS #
 #######################################
 
-status_message(log_file, "--> converting to pandas dfs", loud)
+status_message(log_file, "CONVERTING to pandas dfs", loud)
 
-general_df = pd.DataFrame(general_info)
-actions_df = pd.DataFrame(actions)
+bill_df = pd.DataFrame(bill_info)
+cosponsor_df = pd.DataFrame(cosponsor_info)
 
 ############
 # SAVE DFS #
 ############
 
-status_message(log_file, "--> saving datasets", loud)
+status_message(log_file, "SAVING datasets", loud)
 
-general_df.to_csv('data/2019-10-09_%s%d_general_%d-%d.csv' % (bill_type, session_id, all_bill_ids[0], all_bill_ids[-1]), index = False)
-actions_df.to_csv('data/2019-10-09_%s%d_actions_%d-%d.csv' % (bill_type, session_id, all_bill_ids[0], all_bill_ids[-1]), index = False)
-    
+bill_df.to_csv('data/%s%d_bills_%d-%d_%s.csv' % (bill_type, session_id, all_bill_ids[0], all_bill_ids[-1], datetime.now().strftime("%Y-%m-%d_%H-%M")), index = False)
+cosponsor_df.to_csv('data/%s%d_cosponsors_%d-%d_%s.csv' % (bill_type, session_id, all_bill_ids[0], all_bill_ids[-1], datetime.now().strftime("%Y-%m-%d_%H-%M")), index = False)
