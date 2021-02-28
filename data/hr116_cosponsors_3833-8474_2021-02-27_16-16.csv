@@ -1,0 +1,157 @@
+_query_time,_bill_type,_bill_id,_session_id,_cosponsor_type,_cosponsor_name,_cosponsor_id,_cosponsor_state,_cosponsor_title,_cosponsor_party,_cosponsor_date
+2021-02-27_16-16-46,hr,hr3833-116,116,sponsor,Suzanne Bonamici,B001278,OR,Rep.,D,2019-07-18
+2021-02-27_16-16-46,hr,hr3833-116,116,cosponsor,Paul Mitchell,M001201,MI,Rep.,R,2019-07-18
+2021-02-27_16-16-46,hr,hr3833-116,116,cosponsor,Seth Moulton,M001196,MA,Rep.,D,2019-07-18
+2021-02-27_16-16-46,hr,hr3833-116,116,cosponsor,Brian Fitzpatrick,F000466,PA,Rep.,R,2019-07-18
+2021-02-27_16-16-46,hr,hr3833-116,116,cosponsor,Sheila Jackson Lee,J000032,TX,Rep.,D,2019-07-25
+2021-02-27_16-16-46,hr,hr3833-116,116,cosponsor,Conor Lamb,L000588,PA,Rep.,D,2019-09-25
+2021-02-27_16-16-46,hr,hr3919-116,116,sponsor,Seth Moulton,M001196,MA,Rep.,D,2019-07-23
+2021-02-27_16-16-46,hr,hr3919-116,116,cosponsor,Garret Graves,G000577,LA,Rep.,R,2019-07-23
+2021-02-27_16-16-46,hr,hr3919-116,116,cosponsor,Brian Fitzpatrick,F000466,PA,Rep.,R,2019-08-06
+2021-02-27_16-16-48,hr,hr4998-116,116,sponsor,Frank Pallone,P000034,NJ,Rep.,D,2019-11-08
+2021-02-27_16-16-48,hr,hr4998-116,116,cosponsor,Greg Walden,W000791,OR,Rep.,R,2019-11-08
+2021-02-27_16-16-48,hr,hr4998-116,116,cosponsor,Doris Matsui,M001163,CA,Rep.,D,2019-11-08
+2021-02-27_16-16-48,hr,hr4998-116,116,cosponsor,Brett Guthrie,G000558,KY,Rep.,R,2019-11-08
+2021-02-27_16-16-49,hr,hr5084-116,116,sponsor,Gregory W. Meeks,M001137,NY,Rep.,D,2019-11-14
+2021-02-27_16-16-49,hr,hr5084-116,116,cosponsor,Carolyn B. Maloney,M000087,NY,Rep.,D,2019-11-14
+2021-02-27_16-16-49,hr,hr5084-116,116,cosponsor,Emanuel Cleaver II,C001061,MO,Rep.,D,2019-11-18
+2021-02-27_16-16-49,hr,hr5084-116,116,cosponsor,David Scott,S001157,GA,Rep.,D,2019-11-18
+2021-02-27_16-16-49,hr,hr5084-116,116,cosponsor,Gilbert Cisneros,C001123,CA,Rep.,D,2019-11-18
+2021-02-27_16-16-49,hr,hr5084-116,116,cosponsor,Chrissy Houlahan,H001085,PA,Rep.,D,2020-12-21
+2021-02-27_16-16-49,hr,hr5174-116,116,sponsor,John Curtis,C001114,UT,Rep.,R,2019-11-19
+2021-02-27_16-16-50,hr,hr5175-116,116,sponsor,Rick Crawford,C001087,AR,Rep.,R,2019-11-19
+2021-02-27_16-16-50,hr,hr5175-116,116,cosponsor,Sam Graves,G000546,MO,Rep.,R,2019-11-19
+2021-02-27_16-16-50,hr,hr5175-116,116,cosponsor,Mike Bost,B001295,IL,Rep.,R,2019-11-19
+2021-02-27_16-16-50,hr,hr5175-116,116,cosponsor,Randy Weber,W000814,TX,Rep.,R,2019-11-19
+2021-02-27_16-16-50,hr,hr5175-116,116,cosponsor,Carol Miller,M001205,WV,Rep.,R,2019-11-19
+2021-02-27_16-16-50,hr,hr5175-116,116,cosponsor,Bob Gibbs,G000563,OH,Rep.,R,2019-11-19
+2021-02-27_16-16-50,hr,hr5175-116,116,cosponsor,Greg Pence,P000615,IN,Rep.,R,2019-11-19
+2021-02-27_16-16-50,hr,hr5175-116,116,cosponsor,Don Young,Y000033,AK,Rep.,R,2019-11-19
+2021-02-27_16-16-50,hr,hr5175-116,116,cosponsor,Brian Babin,B001291,TX,Rep.,R,2019-11-19
+2021-02-27_16-16-50,hr,hr5175-116,116,cosponsor,Scott Perry,P000605,PA,Rep.,R,2019-11-19
+2021-02-27_16-16-50,hr,hr5175-116,116,cosponsor,Rodney Davis,D000619,IL,Rep.,R,2019-11-19
+2021-02-27_16-16-50,hr,hr5175-116,116,cosponsor,Pete Stauber,S001212,MN,Rep.,R,2019-11-19
+2021-02-27_16-16-50,hr,hr5175-116,116,cosponsor,Troy Balderson,B001306,OH,Rep.,R,2019-11-19
+2021-02-27_16-16-50,hr,hr5175-116,116,cosponsor,Doug LaMalfa,L000578,CA,Rep.,R,2019-11-19
+2021-02-27_16-16-50,hr,hr5175-116,116,cosponsor,Ross Spano,S001210,FL,Rep.,R,2019-11-19
+2021-02-27_16-16-50,hr,hr5175-116,116,cosponsor,Mark Meadows,M001187,NC,Rep.,R,2019-11-19
+2021-02-27_16-16-50,hr,hr5175-116,116,cosponsor,Rob Woodall,W000810,GA,Rep.,R,2019-11-19
+2021-02-27_16-16-50,hr,hr5175-116,116,cosponsor,John Katko,K000386,NY,Rep.,R,2019-11-19
+2021-02-27_16-16-50,hr,hr5175-116,116,cosponsor,Jenniffer González-Colón,G000582,PR,Res. Comm.,R,2019-11-19
+2021-02-27_16-16-50,hr,hr5175-116,116,cosponsor,Daniel Webster,W000806,FL,Rep.,R,2019-11-21
+2021-02-27_16-16-50,hr,hr5175-116,116,cosponsor,Paul Mitchell,M001201,MI,Rep.,R,2019-12-03
+2021-02-27_16-16-50,hr,hr5175-116,116,cosponsor,Bruce Westerman,W000821,AR,Rep.,R,2019-12-04
+2021-02-27_16-16-50,hr,hr5175-116,116,cosponsor,David Rouzer,R000603,NC,Rep.,R,2019-12-05
+2021-02-27_16-16-50,hr,hr5175-116,116,cosponsor,Lloyd Smucker,S001199,PA,Rep.,R,2019-12-05
+2021-02-27_16-16-50,hr,hr5175-116,116,cosponsor,Garret Graves,G000577,LA,Rep.,R,2019-12-10
+2021-02-27_16-16-50,hr,hr5175-116,116,cosponsor,Trent Kelly,K000388,MS,Rep.,R,2020-01-27
+2021-02-27_16-16-50,hr,hr5175-116,116,cosponsor,Fred Keller,K000395,PA,Rep.,R,2020-01-27
+2021-02-27_16-16-50,hr,hr5175-116,116,cosponsor,Jim Hagedorn,H001088,MN,Rep.,R,2020-01-30
+2021-02-27_16-16-50,hr,hr5175-116,116,cosponsor,Guy Reschenthaler,R000610,PA,Rep.,R,2020-02-04
+2021-02-27_16-16-50,hr,hr5175-116,116,cosponsor,Ted Budd,B001305,NC,Rep.,R,2020-02-05
+2021-02-27_16-16-50,hr,hr5175-116,116,cosponsor,Frank D. Lucas,L000491,OK,Rep.,R,2020-02-05
+2021-02-27_16-16-50,hr,hr5175-116,116,cosponsor,Blaine Luetkemeyer,L000569,MO,Rep.,R,2020-02-05
+2021-02-27_16-16-50,hr,hr5175-116,116,cosponsor,Will Hurd,H001073,TX,Rep.,R,2020-02-12
+2021-02-27_16-16-50,hr,hr5175-116,116,cosponsor,John Ratcliffe,R000601,TX,Rep.,R,2020-02-12
+2021-02-27_16-16-50,hr,hr5175-116,116,cosponsor,Michael Guest,G000591,MS,Rep.,R,2020-02-14
+2021-02-27_16-16-50,hr,hr5175-116,116,cosponsor,Dusty Johnson,J000301,SD,Rep.,R,2020-02-14
+2021-02-27_16-16-50,hr,hr5175-116,116,cosponsor,Rick Allen,A000372,GA,Rep.,R,2020-02-26
+2021-02-27_16-16-50,hr,hr5175-116,116,cosponsor,Austin Scott,S001189,GA,Rep.,R,2020-02-26
+2021-02-27_16-16-50,hr,hr5175-116,116,cosponsor,Paul Gosar,G000565,AZ,Rep.,R,2020-02-26
+2021-02-27_16-16-50,hr,hr5175-116,116,cosponsor,Tom Cole,C001053,OK,Rep.,R,2020-02-28
+2021-02-27_16-16-50,hr,hr5175-116,116,cosponsor,Dan Newhouse,N000189,WA,Rep.,R,2020-06-15
+2021-02-27_16-16-50,hr,hr6354-116,116,sponsor,Ron Kind,K000188,WI,Rep.,D,2020-03-23
+2021-02-27_16-16-50,hr,hr6354-116,116,cosponsor,Tom Rice,R000597,SC,Rep.,R,2020-03-23
+2021-02-27_16-16-50,hr,hr6354-116,116,cosponsor,Terri Sewell,S001185,AL,Rep.,D,2020-03-23
+2021-02-27_16-16-50,hr,hr6354-116,116,cosponsor,Mike Kelly,K000376,PA,Rep.,R,2020-03-23
+2021-02-27_16-16-52,hr,hr7292-116,116,sponsor,Marcy Kaptur,K000009,OH,Rep.,D,2020-06-22
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Bob Gibbs,G000563,OH,Rep.,R,2020-06-22
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Brian Fitzpatrick,F000466,PA,Rep.,R,2020-06-22
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Anthony Gonzalez,G000588,OH,Rep.,R,2020-06-22
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,C.A. Dutch Ruppersberger,R000576,MD,Rep.,D,2020-06-22
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Tim Ryan,R000577,OH,Rep.,D,2020-06-22
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Bobby L. Rush,R000515,IL,Rep.,D,2020-06-22
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Doug LaMalfa,L000578,CA,Rep.,R,2020-06-22
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Jefferson Van Drew,V000133,NJ,Rep.,D,2020-06-22
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Bill Keating,K000375,MA,Rep.,D,2020-06-22
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Steve Stivers,S001187,OH,Rep.,R,2020-06-22
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Steve King,K000362,IA,Rep.,R,2020-06-22
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Donald W. Norcross,N000188,NJ,Rep.,D,2020-06-22
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Stephen F. Lynch,L000562,MA,Rep.,D,2020-06-22
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Joyce Beatty,B001281,OH,Rep.,D,2020-06-22
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Troy Balderson,B001306,OH,Rep.,R,2020-06-22
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Steve Cohen,C001068,TN,Rep.,D,2020-06-22
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Haley Stevens,S001215,MI,Rep.,D,2020-06-22
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Paul Mitchell,M001201,MI,Rep.,R,2020-06-22
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Marcia L. Fudge,F000455,OH,Rep.,D,2020-06-22
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Tom O'Halleran,O000171,AZ,Rep.,D,2020-06-22
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Paul Tonko,T000469,NY,Rep.,D,2020-06-22
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Susan Wild,W000826,PA,Rep.,D,2020-06-22
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Marc Veasey,V000131,TX,Rep.,D,2020-06-22
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Don Young,Y000033,AK,Rep.,R,2020-06-22
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Albio Sires,S001165,NJ,Rep.,D,2020-06-22
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Michael R. Turner,T000463,OH,Rep.,R,2020-06-22
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Sheila Jackson Lee,J000032,TX,Rep.,D,2020-06-22
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Danny K. Davis,D000096,IL,Rep.,D,2020-06-22
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Mikie Sherrill,S001207,NJ,Rep.,D,2020-06-22
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Lucy McBath,M001208,GA,Rep.,D,2020-06-22
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,TJ Cox,C001124,CA,Rep.,D,2020-06-22
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Dwight Evans,E000296,PA,Rep.,D,2020-06-22
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Seth Moulton,M001196,MA,Rep.,D,2020-06-22
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,John Katko,K000386,NY,Rep.,R,2020-06-22
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Eliot L. Engel,E000179,NY,Rep.,D,2020-06-22
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Dave Joyce,J000295,OH,Rep.,R,2020-06-22
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Peter T. King,K000210,NY,Rep.,R,2020-06-22
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Max Rose,R000613,NY,Rep.,D,2020-06-22
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Lori Trahan,T000482,MA,Rep.,D,2020-06-22
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Joe Morelle,M001206,NY,Rep.,D,2020-06-24
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Thomas Suozzi,S001201,NY,Rep.,D,2020-06-24
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Filemon Vela,V000132,TX,Rep.,D,2020-06-24
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Carolyn B. Maloney,M000087,NY,Rep.,D,2020-06-24
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Sean Patrick Maloney,M001185,NY,Rep.,D,2020-06-24
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Peter Welch,W000800,VT,Rep.,D,2020-06-24
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Lisa Blunt Rochester,B001303,DE,Rep.,D,2020-06-24
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Jack Bergman,B001301,MI,Rep.,R,2020-06-25
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Adriano Espaillat,E000297,NY,Rep.,D,2020-06-25
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Kathleen Rice,R000602,NY,Rep.,D,2020-06-29
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Elise Stefanik,S001196,NY,Rep.,R,2020-06-29
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Andy Kim,K000394,NJ,Rep.,D,2020-06-29
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Bill Foster,F000454,IL,Rep.,D,2020-06-29
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Tom Cole,C001053,OK,Rep.,R,2020-06-29
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Colin Allred,A000376,TX,Rep.,D,2020-07-02
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Ed Case,C001055,HI,Rep.,D,2020-07-06
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Christopher H. Smith,S000522,NJ,Rep.,R,2020-07-06
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Nydia M. Velázquez,V000081,NY,Rep.,D,2020-07-06
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Yvette D. Clarke,C001067,NY,Rep.,D,2020-07-09
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Donald M. Payne Jr.,P000604,NJ,Rep.,D,2020-07-09
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Chris Pappas,P000614,NH,Rep.,D,2020-07-09
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Gregory W. Meeks,M001137,NY,Rep.,D,2020-07-09
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Jerrold Nadler,N000002,NY,Rep.,D,2020-07-09
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Lloyd Smucker,S001199,PA,Rep.,R,2020-07-09
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Matt Cartwright,C001090,PA,Rep.,D,2020-07-09
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Collin C. Peterson,P000258,MN,Rep.,D,2020-07-09
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Francis Rooney,R000607,FL,Rep.,R,2020-07-16
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,José E. Serrano,S000248,NY,Rep.,D,2020-07-21
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Tulsi Gabbard,G000571,HI,Rep.,D,2020-07-21
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Mary Gay Scanlon,S001205,PA,Rep.,D,2020-07-21
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,David Trone,T000483,MD,Rep.,D,2020-07-22
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Darren Soto,S001200,FL,Rep.,D,2020-07-22
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Grace Meng,M001188,NY,Rep.,D,2020-07-24
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Guy Reschenthaler,R000610,PA,Rep.,R,2020-07-29
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Chellie Pingree,P000597,ME,Rep.,D,2020-07-29
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Anthony Brindisi,B001308,NY,Rep.,D,2020-08-11
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Vicente Gonzalez,G000581,TX,Rep.,D,2020-08-11
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Cheri Bustos,B001286,IL,Rep.,D,2020-08-14
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Josh Gottheimer,G000583,NJ,Rep.,D,2020-08-14
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Hakeem Jeffries,J000294,NY,Rep.,D,2020-08-25
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Antonio Delgado,D000630,NY,Rep.,D,2020-09-04
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Jahana Hayes,H001081,CT,Rep.,D,2020-09-11
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Paul Cook,C001094,CA,Rep.,R,2020-09-17
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Ann Kirkpatrick,K000368,AZ,Rep.,D,2020-09-21
+2021-02-27_16-16-52,hr,hr7292-116,116,cosponsor,Abby Finkenauer,F000467,IA,Rep.,D,2020-09-23
+2021-02-27_16-16-54,hr,hr7294-116,116,sponsor,Katie Porter,P000618,CA,Rep.,D,2020-06-22
+2021-02-27_16-16-54,hr,hr7294-116,116,cosponsor,Elise Stefanik,S001196,NY,Rep.,R,2020-06-22
+2021-02-27_16-16-54,hr,hr7294-116,116,cosponsor,Lori Trahan,T000482,MA,Rep.,D,2020-06-22
+2021-02-27_16-16-54,hr,hr7294-116,116,cosponsor,Alma Adams,A000370,NC,Rep.,D,2020-06-22
+2021-02-27_16-16-54,hr,hr7294-116,116,cosponsor,Susie Lee,L000590,NV,Rep.,D,2020-06-22
+2021-02-27_16-16-55,hr,hr8474-116,116,sponsor,Karen Bass,B001270,CA,Rep.,D,2020-10-01
